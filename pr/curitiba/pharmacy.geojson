@@ -39,6 +39,64 @@
           -25.4269046
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603015481",
+      "properties": {
+        "timestamp": "2010-01-02T10:49:03Z",
+        "version": 1,
+        "changeset": 3517096,
+        "amenity": "pharmacy",
+        "name": "Morifarma",
+        "id": "node/603015481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2919475,
+          -25.4214741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603015490",
+      "properties": {
+        "timestamp": "2010-01-02T10:49:03Z",
+        "version": 1,
+        "changeset": 3517096,
+        "amenity": "pharmacy",
+        "name": "Minerva",
+        "id": "node/603015490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2915988,
+          -25.42207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603015496",
+      "properties": {
+        "timestamp": "2010-01-02T10:49:03Z",
+        "version": 1,
+        "changeset": 3517096,
+        "addr:street": "Manoel Ribas",
+        "amenity": "pharmacy",
+        "name": "Callfarma",
+        "id": "node/603015496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2912716,
+          -25.4223268
+        ]
+      }
     }
   ]
 }
