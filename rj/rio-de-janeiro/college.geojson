@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30105216",
+      "properties": {
+        "timestamp": "2009-07-21T23:53:05Z",
+        "version": 4,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "80",
+        "addr:postcode": "22290-270",
+        "addr:street": "Praça General Tibúrcio",
+        "amenity": "college",
+        "building": "yes",
+        "landuse": "military",
+        "name": "Instituto Militar de Engenharia",
+        "url": "http://www.ime.eb.br/",
+        "id": "way/30105216"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1665306,
+              -22.9552247
+            ],
+            [
+              -43.1670419,
+              -22.9557808
+            ],
+            [
+              -43.1668906,
+              -22.9559199
+            ],
+            [
+              -43.1669655,
+              -22.9560014
+            ],
+            [
+              -43.1667396,
+              -22.9562091
+            ],
+            [
+              -43.1666669,
+              -22.9561301
+            ],
+            [
+              -43.1665409,
+              -22.9562459
+            ],
+            [
+              -43.1663778,
+              -22.9560684
+            ],
+            [
+              -43.1660713,
+              -22.9563502
+            ],
+            [
+              -43.165721,
+              -22.9559691
+            ],
+            [
+              -43.1665306,
+              -22.9552247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33746955",
+      "properties": {
+        "timestamp": "2009-04-27T16:37:22Z",
+        "version": 2,
+        "changeset": 992328,
+        "amenity": "college",
+        "name": "Universidade Estadual do Rio de Janeiro",
+        "url": "http://www.uerj.br/",
+        "id": "way/33746955"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2353519,
+              -22.9130899
+            ],
+            [
+              -43.2350258,
+              -22.9124732
+            ],
+            [
+              -43.234837,
+              -22.9123626
+            ],
+            [
+              -43.2344336,
+              -22.9123863
+            ],
+            [
+              -43.2341761,
+              -22.9120384
+            ],
+            [
+              -43.2340301,
+              -22.9107735
+            ],
+            [
+              -43.234116,
+              -22.9104177
+            ],
+            [
+              -43.2377209,
+              -22.9095322
+            ],
+            [
+              -43.2379354,
+              -22.9095639
+            ],
+            [
+              -43.2380814,
+              -22.9096983
+            ],
+            [
+              -43.2381243,
+              -22.9098564
+            ],
+            [
+              -43.2380384,
+              -22.9101884
+            ],
+            [
+              -43.2374376,
+              -22.911398
+            ],
+            [
+              -43.2353519,
+              -22.9130899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34428528",
+      "properties": {
+        "timestamp": "2009-07-21T23:55:11Z",
+        "version": 3,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "150",
+        "addr:postcode": "22290-180",
+        "addr:street": "Rua Doutor Xavier Sigaud",
+        "amenity": "college",
+        "name": "Centro Brasileiro de Pesquisas Físicas",
+        "url": "http://cbpf.br/",
+        "id": "way/34428528"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1739047,
+              -22.9533096
+            ],
+            [
+              -43.1741106,
+              -22.9536726
+            ],
+            [
+              -43.1743252,
+              -22.9535536
+            ],
+            [
+              -43.1746718,
+              -22.9540402
+            ],
+            [
+              -43.1740181,
+              -22.9543953
+            ],
+            [
+              -43.1735546,
+              -22.9535006
+            ],
+            [
+              -43.1739047,
+              -22.9533096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013578",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:03Z",
+        "version": 1,
+        "changeset": 1683925,
+        "amenity": "college",
+        "name": "UFRJ - Faculdade de Direito",
+        "id": "node/431013578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1771378,
+          -22.9288892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431750113",
+      "properties": {
+        "timestamp": "2009-08-04T17:11:04Z",
+        "version": 2,
+        "changeset": 2037163,
+        "amenity": "college",
+        "name": "Faculdade de Medicina Sousa Marques",
+        "id": "node/431750113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1772432,
+          -22.9213066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645064",
+      "properties": {
+        "timestamp": "2009-11-08T18:22:59Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "college",
+        "name": "IBMEC",
+        "id": "node/559645064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1738174,
+          -22.912329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645079",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:01Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "college",
+        "name": "Instituto de Filosofia e Ciências Sociais (IFCS) - UFRJ",
+        "id": "node/559645079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1815078,
+          -22.9055535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645099",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:06Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "college",
+        "name": "Escola Superior de Desenho Industrial",
+        "id": "node/559645099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782634,
+          -22.9129931
+        ]
+      }
+    }
+  ]
+}

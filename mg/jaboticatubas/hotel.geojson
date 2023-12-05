@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/321706825",
+      "properties": {
+        "timestamp": "2008-12-28T15:22:14Z",
+        "version": 2,
+        "changeset": 644153,
+        "name": "Pousada Lapa Grande",
+        "tourism": "hotel",
+        "id": "node/321706825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6411411,
+          -19.3487759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322551904",
+      "properties": {
+        "timestamp": "2008-12-28T15:18:51Z",
+        "version": 1,
+        "changeset": 644153,
+        "name": "Cipó Veraneio Hotel",
+        "tourism": "hotel",
+        "id": "node/322551904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6433603,
+          -19.3451154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322551908",
+      "properties": {
+        "timestamp": "2008-12-28T15:18:53Z",
+        "version": 1,
+        "changeset": 644153,
+        "name": "Pousada Canto Verde",
+        "tourism": "hotel",
+        "id": "node/322551908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6438652,
+          -19.3452038
+        ]
+      }
+    }
+  ]
+}

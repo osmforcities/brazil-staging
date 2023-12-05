@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/533915669",
+      "properties": {
+        "timestamp": "2009-10-16T20:19:52Z",
+        "version": 1,
+        "changeset": 2868022,
+        "amenity": "bicycle_parking",
+        "id": "node/533915669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.1198526,
+          -22.7403592
+        ]
+      }
+    }
+  ]
+}

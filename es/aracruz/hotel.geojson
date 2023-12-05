@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/349252748",
+      "properties": {
+        "timestamp": "2009-02-22T21:38:00Z",
+        "version": 6,
+        "changeset": 617974,
+        "created_by": "Potlatch 0.10f",
+        "name": "Pousada dos Cocais",
+        "tourism": "hotel",
+        "id": "node/349252748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.111301,
+          -19.9242148
+        ]
+      }
+    }
+  ]
+}

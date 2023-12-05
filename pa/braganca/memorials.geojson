@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/32401731",
+      "properties": {
+        "timestamp": "2009-03-25T20:43:38Z",
+        "version": 2,
+        "changeset": 858469,
+        "historic": "memorial",
+        "name": "Dom Eliseu Maria Corolli",
+        "id": "way/32401731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7719251,
+              -1.0661821
+            ],
+            [
+              -46.7719248,
+              -1.0661803
+            ],
+            [
+              -46.7719263,
+              -1.0661767
+            ],
+            [
+              -46.7719268,
+              -1.0661762
+            ],
+            [
+              -46.77193,
+              -1.0661751
+            ],
+            [
+              -46.7719337,
+              -1.0661767
+            ],
+            [
+              -46.7719352,
+              -1.0661803
+            ],
+            [
+              -46.7719337,
+              -1.066184
+            ],
+            [
+              -46.7719308,
+              -1.0661855
+            ],
+            [
+              -46.77193,
+              -1.0661855
+            ],
+            [
+              -46.7719263,
+              -1.066184
+            ],
+            [
+              -46.7719251,
+              -1.0661821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258577803",
+      "properties": {
+        "timestamp": "2008-04-19T16:14:51Z",
+        "version": 1,
+        "changeset": 188931,
+        "created_by": "JOSM",
+        "historic": "memorial",
+        "id": "node/258577803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7690558,
+          -1.0633454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258577810",
+      "properties": {
+        "timestamp": "2009-04-02T01:21:31Z",
+        "version": 2,
+        "changeset": 82641,
+        "created_by": "JOSM",
+        "historic": "memorial",
+        "name": "Centenário da Adesão de Bragança",
+        "id": "node/258577810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7656017,
+          -1.0554203
+        ]
+      }
+    }
+  ]
+}

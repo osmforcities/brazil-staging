@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/568830928",
+      "properties": {
+        "timestamp": "2009-11-22T23:10:15Z",
+        "version": 1,
+        "changeset": 3191898,
+        "amenity": "toilets",
+        "id": "node/568830928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1991338,
+          -5.8398029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850222",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2016452,
+          -5.8418466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850233",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2008163,
+          -5.8411329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850234",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2005806,
+          -5.8411389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850235",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2003509,
+          -5.8411379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850253",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2016105,
+          -5.8397209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850255",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2002606,
+          -5.8393865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850256",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2036268,
+          -5.8330685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850257",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2036331,
+          -5.83341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850258",
+      "properties": {
+        "timestamp": "2009-11-25T11:18:32Z",
+        "version": 2,
+        "changeset": 3211257,
+        "amenity": "toilets",
+        "id": "node/569850258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2001494,
+          -5.8424714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850259",
+      "properties": {
+        "timestamp": "2009-11-25T11:18:32Z",
+        "version": 2,
+        "changeset": 3211257,
+        "amenity": "toilets",
+        "id": "node/569850259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1999576,
+          -5.8424739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850260",
+      "properties": {
+        "timestamp": "2009-11-25T11:18:32Z",
+        "version": 2,
+        "changeset": 3211257,
+        "amenity": "toilets",
+        "id": "node/569850260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1997508,
+          -5.8424802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850262",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1995476,
+          -5.8424577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850267",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1975433,
+          -5.8429505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850268",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1980233,
+          -5.8424924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850270",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1967381,
+          -5.8425373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850276",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1993055,
+          -5.8414464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850277",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2001362,
+          -5.8411429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850279",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1982736,
+          -5.8414963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850280",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1986247,
+          -5.8415537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850282",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1976195,
+          -5.8416467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850284",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1984102,
+          -5.8409325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850286",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "toilets",
+        "id": "node/569850286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1969945,
+          -5.8414632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570460625",
+      "properties": {
+        "timestamp": "2009-11-25T02:20:28Z",
+        "version": 1,
+        "changeset": 3209243,
+        "amenity": "toilets",
+        "is_in": "Midway Mall",
+        "id": "node/570460625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.206224,
+          -5.8114519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570460641",
+      "properties": {
+        "timestamp": "2009-11-25T02:20:29Z",
+        "version": 1,
+        "changeset": 3209243,
+        "amenity": "toilets",
+        "is_in": "Midway Mall",
+        "id": "node/570460641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2055821,
+          -5.8117076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595641545",
+      "properties": {
+        "timestamp": "2009-12-18T12:51:05Z",
+        "version": 1,
+        "changeset": 3400321,
+        "amenity": "toilets",
+        "id": "node/595641545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2267972,
+          -5.8259594
+        ]
+      }
+    }
+  ]
+}

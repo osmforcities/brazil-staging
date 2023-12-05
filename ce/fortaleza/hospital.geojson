@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/477116582",
+      "properties": {
+        "timestamp": "2009-08-30T03:46:23Z",
+        "version": 1,
+        "changeset": 2308377,
+        "amenity": "hospital",
+        "name": "Hospital Cura D'ars",
+        "id": "node/477116582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5156401,
+          -3.7287231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/477364089",
+      "properties": {
+        "timestamp": "2009-08-30T13:33:59Z",
+        "version": 1,
+        "changeset": 2312908,
+        "amenity": "hospital",
+        "name": "Hospital São José",
+        "id": "node/477364089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5580182,
+          -3.7447214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479233924",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:25Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "hospital",
+        "name": "Hospital e Maternidade Angeline",
+        "id": "node/479233924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5221784,
+          -3.7362564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482168669",
+      "properties": {
+        "timestamp": "2009-09-03T10:47:20Z",
+        "version": 1,
+        "changeset": 2357676,
+        "amenity": "hospital",
+        "name": "Hospital Geral do Exército de Fortaleza",
+        "id": "node/482168669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4997032,
+          -3.7390679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482168673",
+      "properties": {
+        "timestamp": "2009-09-03T10:47:20Z",
+        "version": 1,
+        "changeset": 2357676,
+        "amenity": "hospital",
+        "name": "Hospital Gênesis",
+        "id": "node/482168673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.513479,
+          -3.7315309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571728173",
+      "properties": {
+        "timestamp": "2009-11-27T03:56:46Z",
+        "version": 1,
+        "changeset": 3225361,
+        "amenity": "hospital",
+        "name": "Hospital Batista",
+        "id": "node/571728173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4940811,
+          -3.7422526
+        ]
+      }
+    }
+  ]
+}

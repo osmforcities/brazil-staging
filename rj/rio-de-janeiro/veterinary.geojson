@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/400705881",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:35Z",
+        "version": 2,
+        "changeset": 1346979,
+        "amenity": "veterinary",
+        "name": "Veterinária Forte dos Animais",
+        "id": "node/400705881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1893193,
+          -22.9863042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415833900",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:42Z",
+        "version": 4,
+        "changeset": 2016069,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:street": "Rua Professor Álvaro Rodrigues",
+        "amenity": "veterinary",
+        "name": "Super Pet",
+        "id": "node/415833900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1828315,
+          -22.9514141
+        ]
+      }
+    }
+  ]
+}

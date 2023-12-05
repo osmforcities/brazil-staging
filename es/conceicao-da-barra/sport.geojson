@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45831626",
+      "properties": {
+        "timestamp": "2009-12-08T19:17:12Z",
+        "version": 1,
+        "changeset": 3327193,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/45831626"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.709615,
+              -18.4223407
+            ],
+            [
+              -39.7091669,
+              -18.4229276
+            ],
+            [
+              -39.7083963,
+              -18.4223252
+            ],
+            [
+              -39.708746,
+              -18.4218687
+            ],
+            [
+              -39.709615,
+              -18.4223407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42474289",
+      "properties": {
+        "timestamp": "2009-10-14T01:56:04Z",
+        "version": 1,
+        "changeset": 2841474,
+        "source": "survey",
+        "sport": "soccer",
+        "id": "way/42474289"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.7121492,
+            -18.4223937
+          ],
+          [
+            -39.7119282,
+            -18.4226109
+          ],
+          [
+            -39.7121295,
+            -18.4227865
+          ],
+          [
+            -39.7123472,
+            -18.4225655
+          ],
+          [
+            -39.7121492,
+            -18.4223937
+          ]
+        ]
+      }
+    }
+  ]
+}

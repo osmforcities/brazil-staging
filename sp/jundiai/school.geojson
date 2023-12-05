@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/363723773",
+      "properties": {
+        "timestamp": "2009-03-19T16:14:47Z",
+        "version": 1,
+        "changeset": 831668,
+        "amenity": "school",
+        "name": "Escola Divina Providência",
+        "id": "node/363723773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9325795,
+          -23.1484668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364178683",
+      "properties": {
+        "timestamp": "2009-03-21T00:34:47Z",
+        "version": 1,
+        "changeset": 839811,
+        "amenity": "school",
+        "name": "EMEB Ana Rita A. Ludke",
+        "id": "node/364178683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9115934,
+          -23.1846912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364178737",
+      "properties": {
+        "timestamp": "2009-03-21T00:35:10Z",
+        "version": 1,
+        "changeset": 839811,
+        "amenity": "school",
+        "name": "Colégio Degraus",
+        "id": "node/364178737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9601689,
+          -23.189716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365189667",
+      "properties": {
+        "timestamp": "2009-03-23T23:35:35Z",
+        "version": 1,
+        "changeset": 851247,
+        "amenity": "school",
+        "name": "EMEB Professora Anna Pontes Chagas",
+        "id": "node/365189667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9150972,
+          -23.1897306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366356056",
+      "properties": {
+        "timestamp": "2009-03-27T22:12:31Z",
+        "version": 1,
+        "changeset": 863248,
+        "amenity": "school",
+        "name": "E. E. Professora Joceny Villela Curado",
+        "id": "node/366356056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8845543,
+          -23.2236974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366420025",
+      "properties": {
+        "timestamp": "2009-03-28T01:35:47Z",
+        "version": 1,
+        "changeset": 864404,
+        "amenity": "school",
+        "name": "E.M.E.B. Lucírio Valli",
+        "id": "node/366420025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8796376,
+          -23.2241128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366420049",
+      "properties": {
+        "timestamp": "2009-03-28T01:35:50Z",
+        "version": 1,
+        "changeset": 864404,
+        "amenity": "school",
+        "name": "E.M.E.B. Aparecido Garcia",
+        "id": "node/366420049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8831356,
+          -23.2313058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367943048",
+      "properties": {
+        "timestamp": "2009-03-31T18:13:11Z",
+        "version": 1,
+        "changeset": 872072,
+        "amenity": "school",
+        "name": "Colégio Tableau",
+        "id": "node/367943048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8882119,
+          -23.1799658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367943060",
+      "properties": {
+        "timestamp": "2009-03-31T18:13:26Z",
+        "version": 1,
+        "changeset": 872072,
+        "amenity": "school",
+        "name": "Escola Alceu de Toledo Pontes",
+        "id": "node/367943060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8889324,
+          -23.1795059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367950153",
+      "properties": {
+        "timestamp": "2009-03-31T18:49:20Z",
+        "version": 1,
+        "changeset": 872072,
+        "amenity": "school",
+        "name": "E.M.E.B. Pedro Clarismundo Fornari",
+        "id": "node/367950153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8869533,
+          -23.1103959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/368999232",
+      "properties": {
+        "timestamp": "2009-04-02T19:16:59Z",
+        "version": 1,
+        "changeset": 70352,
+        "amenity": "school",
+        "name": "E.M.E.B. Professor João Luiz Campos",
+        "id": "node/368999232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8963678,
+          -23.1640902
+        ]
+      }
+    }
+  ]
+}

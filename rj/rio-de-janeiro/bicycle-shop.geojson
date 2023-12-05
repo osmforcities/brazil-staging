@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/346244655",
+      "properties": {
+        "timestamp": "2009-09-29T22:14:27Z",
+        "version": 3,
+        "changeset": 2682555,
+        "addr:housenumber": "197A",
+        "created_by": "Potlatch 0.10f",
+        "name": "Kraft Bikes",
+        "shop": "bicycle",
+        "id": "node/346244655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1855242,
+          -22.9336038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310720",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:34Z",
+        "version": 1,
+        "changeset": 1346979,
+        "amenity": "bicycle_rental",
+        "name": "Cicle Calle",
+        "shop": "bicycle",
+        "id": "node/412310720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1905681,
+          -22.9867153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310721",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:34Z",
+        "version": 1,
+        "changeset": 1346979,
+        "name": "Pinarello",
+        "shop": "bicycle",
+        "id": "node/412310721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1889524,
+          -22.9862555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/454457664",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:32Z",
+        "version": 1,
+        "changeset": 2016069,
+        "shop": "bicycle",
+        "id": "node/454457664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1756885,
+          -22.9622447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/481499589",
+      "properties": {
+        "timestamp": "2009-09-02T23:47:28Z",
+        "version": 1,
+        "changeset": 2354554,
+        "addr:housenumber": "16B",
+        "addr:street": "Rua Corrêa Dutra",
+        "name": "Pedal 2",
+        "shop": "bicycle",
+        "website": "http://oficinadebicicleta.wordpress.com/",
+        "id": "node/481499589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1744474,
+          -22.9281792
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23848129",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:45Z",
+        "version": 8,
+        "changeset": 776124,
+        "barrier": "wall",
+        "created_by": "JOSM",
+        "source": "survey",
+        "id": "way/23848129"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7617515,
+              -1.0493967
+            ],
+            [
+              -46.7616598,
+              -1.0496684
+            ],
+            [
+              -46.7616096,
+              -1.0498164
+            ],
+            [
+              -46.7615276,
+              -1.0500622
+            ],
+            [
+              -46.7604202,
+              -1.0497455
+            ],
+            [
+              -46.7606473,
+              -1.049077
+            ],
+            [
+              -46.7610726,
+              -1.0491996
+            ],
+            [
+              -46.7617515,
+              -1.0493967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27624471",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:39Z",
+        "version": 3,
+        "changeset": 776124,
+        "building": "yes",
+        "source": "survey",
+        "id": "way/27624471"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7615626,
+              -1.0495763
+            ],
+            [
+              -46.7615477,
+              -1.0496343
+            ],
+            [
+              -46.7615122,
+              -1.0497504
+            ],
+            [
+              -46.7614057,
+              -1.0497188
+            ],
+            [
+              -46.7614345,
+              -1.0496209
+            ],
+            [
+              -46.7614086,
+              -1.049613
+            ],
+            [
+              -46.7613985,
+              -1.049648
+            ],
+            [
+              -46.7613742,
+              -1.0496407
+            ],
+            [
+              -46.7613476,
+              -1.0497325
+            ],
+            [
+              -46.7614071,
+              -1.0497492
+            ],
+            [
+              -46.7613928,
+              -1.0498037
+            ],
+            [
+              -46.7609754,
+              -1.04969
+            ],
+            [
+              -46.7609921,
+              -1.0496324
+            ],
+            [
+              -46.7611543,
+              -1.049678
+            ],
+            [
+              -46.7613192,
+              -1.0497245
+            ],
+            [
+              -46.761347,
+              -1.0496324
+            ],
+            [
+              -46.7612466,
+              -1.0496021
+            ],
+            [
+              -46.7612791,
+              -1.0495067
+            ],
+            [
+              -46.7613712,
+              -1.049536
+            ],
+            [
+              -46.7613921,
+              -1.049469
+            ],
+            [
+              -46.7612004,
+              -1.049404
+            ],
+            [
+              -46.7610629,
+              -1.0493569
+            ],
+            [
+              -46.7610876,
+              -1.0492942
+            ],
+            [
+              -46.7615151,
+              -1.0494353
+            ],
+            [
+              -46.7614921,
+              -1.0495029
+            ],
+            [
+              -46.7614382,
+              -1.0494846
+            ],
+            [
+              -46.76141,
+              -1.0495734
+            ],
+            [
+              -46.7614431,
+              -1.0495835
+            ],
+            [
+              -46.7614554,
+              -1.0495455
+            ],
+            [
+              -46.7615626,
+              -1.0495763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27624482",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:53Z",
+        "version": 3,
+        "changeset": 776124,
+        "building": "yes",
+        "source": "survey",
+        "id": "way/27624482"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7612647,
+              -1.0494899
+            ],
+            [
+              -46.7612388,
+              -1.0495677
+            ],
+            [
+              -46.7611837,
+              -1.0495488
+            ],
+            [
+              -46.7611529,
+              -1.0495383
+            ],
+            [
+              -46.76115,
+              -1.0495471
+            ],
+            [
+              -46.760963,
+              -1.0494727
+            ],
+            [
+              -46.760984,
+              -1.049418
+            ],
+            [
+              -46.7611648,
+              -1.0494856
+            ],
+            [
+              -46.7611682,
+              -1.049477
+            ],
+            [
+              -46.7611805,
+              -1.0494813
+            ],
+            [
+              -46.7611916,
+              -1.0494852
+            ],
+            [
+              -46.7611985,
+              -1.0494669
+            ],
+            [
+              -46.7612647,
+              -1.0494899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27624484",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:55Z",
+        "version": 3,
+        "changeset": 776124,
+        "building": "yes",
+        "construction": "yes",
+        "source": "survey",
+        "id": "way/27624484"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7610129,
+              -1.0492196
+            ],
+            [
+              -46.7609701,
+              -1.04935
+            ],
+            [
+              -46.7606148,
+              -1.0492335
+            ],
+            [
+              -46.7606575,
+              -1.0491031
+            ],
+            [
+              -46.7610129,
+              -1.0492196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27624486",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:57Z",
+        "version": 3,
+        "changeset": 776124,
+        "building": "yes",
+        "construction": "yes",
+        "source": "survey",
+        "id": "way/27624486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7609042,
+              -1.0493875
+            ],
+            [
+              -46.7608587,
+              -1.0495278
+            ],
+            [
+              -46.7605493,
+              -1.0494276
+            ],
+            [
+              -46.7605948,
+              -1.0492873
+            ],
+            [
+              -46.7609042,
+              -1.0493875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27624488",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:47Z",
+        "version": 3,
+        "changeset": 776124,
+        "building": "yes",
+        "label": "Engenaria de Pesca",
+        "source": "survey",
+        "id": "way/27624488"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7609702,
+              -1.0496193
+            ],
+            [
+              -46.7609261,
+              -1.0497648
+            ],
+            [
+              -46.7605452,
+              -1.0496491
+            ],
+            [
+              -46.7605893,
+              -1.0495037
+            ],
+            [
+              -46.7609702,
+              -1.0496193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27625194",
+      "properties": {
+        "timestamp": "2008-10-09T20:45:03Z",
+        "version": 1,
+        "changeset": 194613,
+        "amenity": "bicycle_parking",
+        "building": "yes",
+        "source": "survey",
+        "id": "way/27625194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7608614,
+              -1.0498293
+            ],
+            [
+              -46.7608508,
+              -1.0498672
+            ],
+            [
+              -46.7605201,
+              -1.0497727
+            ],
+            [
+              -46.7605307,
+              -1.0497348
+            ],
+            [
+              -46.7608614,
+              -1.0498293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27625195",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:12Z",
+        "version": 2,
+        "changeset": 776124,
+        "building": "yes",
+        "source": "survey",
+        "id": "way/27625195"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7609456,
+              -1.0498194
+            ],
+            [
+              -46.7610876,
+              -1.0498592
+            ],
+            [
+              -46.761068,
+              -1.0499298
+            ],
+            [
+              -46.7609262,
+              -1.0498892
+            ],
+            [
+              -46.7609456,
+              -1.0498194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27625198",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:14Z",
+        "version": 2,
+        "changeset": 776124,
+        "building": "yes",
+        "source": "survey",
+        "id": "way/27625198"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7612474,
+              -1.049904
+            ],
+            [
+              -46.7613792,
+              -1.0499409
+            ],
+            [
+              -46.7613588,
+              -1.0500125
+            ],
+            [
+              -46.7612272,
+              -1.0499752
+            ],
+            [
+              -46.7612474,
+              -1.049904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30783935",
+      "properties": {
+        "timestamp": "2009-03-09T23:01:58Z",
+        "version": 4,
+        "changeset": 776124,
+        "building": "yes",
+        "id": "way/30783935"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7621077,
+              -1.0498954
+            ],
+            [
+              -46.7619945,
+              -1.0498598
+            ],
+            [
+              -46.7620117,
+              -1.0498053
+            ],
+            [
+              -46.7621248,
+              -1.0498409
+            ],
+            [
+              -46.7621077,
+              -1.0498954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30783937",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:35Z",
+        "version": 4,
+        "changeset": 776124,
+        "building": "yes",
+        "id": "way/30783937"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7619806,
+              -1.0498644
+            ],
+            [
+              -46.7619313,
+              -1.0500215
+            ],
+            [
+              -46.7618038,
+              -1.0499815
+            ],
+            [
+              -46.7618531,
+              -1.0498244
+            ],
+            [
+              -46.7619806,
+              -1.0498644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30783938",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:33Z",
+        "version": 4,
+        "changeset": 776124,
+        "building": "yes",
+        "id": "way/30783938"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7617268,
+              -1.0501243
+            ],
+            [
+              -46.7616178,
+              -1.050089
+            ],
+            [
+              -46.7617379,
+              -1.0497205
+            ],
+            [
+              -46.761844,
+              -1.0497532
+            ],
+            [
+              -46.7618393,
+              -1.0497681
+            ],
+            [
+              -46.7617268,
+              -1.0501243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31750885",
+      "properties": {
+        "timestamp": "2009-03-03T21:49:06Z",
+        "version": 1,
+        "changeset": 729854,
+        "landuse": "grass",
+        "id": "way/31750885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7621059,
+              -1.049902
+            ],
+            [
+              -46.7620093,
+              -1.050212
+            ],
+            [
+              -46.7617845,
+              -1.0501395
+            ],
+            [
+              -46.7617976,
+              -1.0500984
+            ],
+            [
+              -46.7617437,
+              -1.0500809
+            ],
+            [
+              -46.7617765,
+              -1.0499769
+            ],
+            [
+              -46.7618397,
+              -1.0499966
+            ],
+            [
+              -46.7618244,
+              -1.0500439
+            ],
+            [
+              -46.7618801,
+              -1.0500623
+            ],
+            [
+              -46.7618953,
+              -1.0500137
+            ],
+            [
+              -46.7619334,
+              -1.0500254
+            ],
+            [
+              -46.7619849,
+              -1.0498652
+            ],
+            [
+              -46.7621059,
+              -1.049902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31750886",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:09Z",
+        "version": 2,
+        "changeset": 776124,
+        "power": "generator",
+        "id": "way/31750886"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7618432,
+              -1.0499981
+            ],
+            [
+              -46.7618919,
+              -1.0500132
+            ],
+            [
+              -46.7618777,
+              -1.0500581
+            ],
+            [
+              -46.7618285,
+              -1.0500426
+            ],
+            [
+              -46.7618432,
+              -1.0499981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23914529",
+      "properties": {
+        "timestamp": "2009-03-09T23:01:43Z",
+        "version": 7,
+        "changeset": 776124,
+        "barrier": "wall",
+        "created_by": "JOSM",
+        "source": "survey",
+        "id": "way/23914529"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7618955,
+            -1.050179
+          ],
+          [
+            -46.7620111,
+            -1.0502165
+          ],
+          [
+            -46.7621282,
+            -1.0498385
+          ],
+          [
+            -46.7617396,
+            -1.0497153
+          ],
+          [
+            -46.7617379,
+            -1.0497205
+          ],
+          [
+            -46.7616178,
+            -1.050089
+          ],
+          [
+            -46.7617268,
+            -1.0501243
+          ],
+          [
+            -46.761848,
+            -1.0501636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27625184",
+      "properties": {
+        "timestamp": "2008-10-09T20:44:30Z",
+        "version": 1,
+        "changeset": 194613,
+        "highway": "footway",
+        "surface": "paved",
+        "id": "way/27625184"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7615477,
+            -1.0496343
+          ],
+          [
+            -46.7616598,
+            -1.0496684
+          ],
+          [
+            -46.7616697,
+            -1.0496719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27625192",
+      "properties": {
+        "timestamp": "2008-10-09T20:44:42Z",
+        "version": 1,
+        "changeset": 194613,
+        "highway": "footway",
+        "surface": "paved",
+        "id": "way/27625192"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7611837,
+            -1.0495488
+          ],
+          [
+            -46.7611543,
+            -1.049678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27625193",
+      "properties": {
+        "timestamp": "2008-10-09T20:44:51Z",
+        "version": 1,
+        "changeset": 194613,
+        "highway": "footway",
+        "surface": "paved",
+        "id": "way/27625193"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7612004,
+            -1.049404
+          ],
+          [
+            -46.7611805,
+            -1.0494813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30783939",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:31Z",
+        "version": 3,
+        "changeset": 776124,
+        "power": "sub_station",
+        "id": "way/30783939"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7617818,
+            -1.0501388
+          ],
+          [
+            -46.761734,
+            -1.0501234
+          ],
+          [
+            -46.7617457,
+            -1.0500839
+          ],
+          [
+            -46.7617939,
+            -1.0500994
+          ],
+          [
+            -46.7617818,
+            -1.0501388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30783940",
+      "properties": {
+        "timestamp": "2009-02-04T16:48:34Z",
+        "version": 1,
+        "changeset": 138354,
+        "highway": "footway",
+        "id": "way/30783940"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7621057,
+            -1.0498977
+          ],
+          [
+            -46.7618412,
+            -1.0498164
+          ],
+          [
+            -46.7618548,
+            -1.0497732
+          ],
+          [
+            -46.7618393,
+            -1.0497681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30783945",
+      "properties": {
+        "timestamp": "2009-02-04T16:48:37Z",
+        "version": 1,
+        "changeset": 138354,
+        "highway": "footway",
+        "id": "way/30783945"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7618412,
+            -1.0498164
+          ],
+          [
+            -46.7617913,
+            -1.0499735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31750888",
+      "properties": {
+        "timestamp": "2009-03-09T23:00:01Z",
+        "version": 2,
+        "changeset": 776124,
+        "barrier": "gate",
+        "created_by": "JOSM",
+        "source": "survey",
+        "id": "way/31750888"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.761848,
+            -1.0501636
+          ],
+          [
+            -46.7618955,
+            -1.050179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303376157",
+      "properties": {
+        "timestamp": "2009-03-09T19:53:22Z",
+        "version": 2,
+        "changeset": 776124,
+        "barrier": "entrance",
+        "foot": "yes",
+        "id": "node/303376157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7616598,
+          -1.0496684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303376196",
+      "properties": {
+        "timestamp": "2009-03-09T19:53:26Z",
+        "version": 2,
+        "changeset": 776124,
+        "barrier": "entrance",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "node/303376196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7616096,
+          -1.0498164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303376218",
+      "properties": {
+        "timestamp": "2009-03-09T19:53:31Z",
+        "version": 2,
+        "changeset": 776124,
+        "barrier": "entrance",
+        "id": "node/303376218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7610726,
+          -1.0491996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303376281",
+      "properties": {
+        "timestamp": "2008-10-09T20:43:34Z",
+        "version": 1,
+        "changeset": 194613,
+        "name": "Laboratório de Biologia Vegetal e Herbário Didático",
+        "id": "node/303376281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7610691,
+          -1.0496817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303376400",
+      "properties": {
+        "timestamp": "2008-10-09T20:43:53Z",
+        "version": 1,
+        "changeset": 194613,
+        "name": "Laboratório de Carcinologia",
+        "id": "node/303376400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.761214,
+          -1.0495204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303376501",
+      "properties": {
+        "timestamp": "2008-10-09T20:44:10Z",
+        "version": 1,
+        "changeset": 194613,
+        "name": "Coordenação",
+        "id": "node/303376501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7615039,
+          -1.0495918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344557714",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:09Z",
+        "version": 4,
+        "changeset": 868361,
+        "amenity": "university",
+        "name": "Instituto de Estudos Costeiros",
+        "id": "node/344557714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7617798,
+          -1.0497716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326260",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:13Z",
+        "version": 3,
+        "changeset": 868361,
+        "name": "Laboratório de Plâncton",
+        "id": "node/355326260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7617462,
+          -1.0499869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326269",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:22Z",
+        "version": 3,
+        "changeset": 868361,
+        "name": "Laboratório de Genética e Biologia Molecular",
+        "id": "node/355326269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.761712,
+          -1.0499508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326275",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:53Z",
+        "version": 3,
+        "changeset": 868361,
+        "name": "Laboratório de Vertebrados",
+        "id": "node/355326275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7617904,
+          -1.0498267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326288",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:33Z",
+        "version": 3,
+        "changeset": 868361,
+        "name": "Laboratório de Aquicultura",
+        "id": "node/355326288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7618782,
+          -1.0499831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326298",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:37Z",
+        "version": 3,
+        "changeset": 868361,
+        "name": "Laboratório de Moluscos",
+        "id": "node/355326298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7619471,
+          -1.0498858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326306",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:25Z",
+        "version": 3,
+        "changeset": 868361,
+        "name": "Laboratório de Ecologia dos Manguezais",
+        "id": "node/355326306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7620603,
+          -1.0498506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355326336",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:57Z",
+        "version": 3,
+        "changeset": 868361,
+        "amenity": "university",
+        "name": "Biblioteca Dr. Armando Bordalo da Silva",
+        "id": "node/355326336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7616903,
+          -1.050047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355327873",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:59Z",
+        "version": 2,
+        "changeset": 868361,
+        "amenity": "university",
+        "name": "Engenharia de Pesca",
+        "id": "node/355327873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7608246,
+          -1.049647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366978990",
+      "properties": {
+        "timestamp": "2009-03-29T18:26:08Z",
+        "version": 1,
+        "changeset": 868361,
+        "amenity": "university",
+        "name": "Universidade Federal do Pará",
+        "id": "node/366978990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7613573,
+          -1.049582
+        ]
+      }
+    }
+  ]
+}

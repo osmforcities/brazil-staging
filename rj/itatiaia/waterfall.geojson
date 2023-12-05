@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/591763970",
+      "properties": {
+        "timestamp": "2009-12-15T10:27:13Z",
+        "version": 1,
+        "changeset": 3378163,
+        "name": "Cachoeira Véu de Noiva",
+        "waterway": "waterfall",
+        "id": "node/591763970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.618018,
+          -22.4268516
+        ]
+      }
+    }
+  ]
+}

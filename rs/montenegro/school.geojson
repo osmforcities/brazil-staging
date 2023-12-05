@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/435190766",
+      "properties": {
+        "timestamp": "2009-07-14T12:27:10Z",
+        "version": 3,
+        "changeset": 1825927,
+        "amenity": "school",
+        "name": "Escola Pedro João Müller",
+        "id": "node/435190766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5593084,
+          -29.6550255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435595233",
+      "properties": {
+        "timestamp": "2009-08-06T20:55:02Z",
+        "version": 3,
+        "changeset": 2059552,
+        "amenity": "school",
+        "name": "Januário Corrêa",
+        "id": "node/435595233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4487895,
+          -29.6721531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438033664",
+      "properties": {
+        "timestamp": "2009-08-06T20:55:04Z",
+        "version": 3,
+        "changeset": 2059552,
+        "amenity": "school",
+        "name": "São João Batista",
+        "id": "node/438033664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4606771,
+          -29.6884541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544731544",
+      "properties": {
+        "timestamp": "2009-10-29T19:40:50Z",
+        "version": 1,
+        "changeset": 2983999,
+        "amenity": "school",
+        "name": "A. J. Renner",
+        "id": "node/544731544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4621764,
+          -29.6737823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544731553",
+      "properties": {
+        "timestamp": "2009-10-29T19:40:50Z",
+        "version": 1,
+        "changeset": 2983999,
+        "amenity": "school",
+        "name": "Walter Bellian",
+        "id": "node/544731553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4631463,
+          -29.6719179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/567034425",
+      "properties": {
+        "timestamp": "2009-11-19T14:04:31Z",
+        "version": 1,
+        "changeset": 3160180,
+        "addr:street": "Rua do Comércio",
+        "amenity": "school",
+        "name": "Adelaide Sá Brito",
+        "id": "node/567034425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4572414,
+          -29.6951287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/567034426",
+      "properties": {
+        "timestamp": "2009-11-19T14:04:31Z",
+        "version": 1,
+        "changeset": 3160180,
+        "amenity": "school",
+        "name": "Instituto de Educação São José",
+        "id": "node/567034426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4621166,
+          -29.6896112
+        ]
+      }
+    }
+  ]
+}

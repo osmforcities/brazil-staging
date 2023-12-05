@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45978780",
+      "properties": {
+        "timestamp": "2009-12-11T04:12:36Z",
+        "version": 1,
+        "changeset": 3346545,
+        "amenity": "kindergarten",
+        "id": "way/45978780"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.2061629,
+              -5.8409707
+            ],
+            [
+              -35.2060748,
+              -5.8411222
+            ],
+            [
+              -35.2059493,
+              -5.8410501
+            ],
+            [
+              -35.2060374,
+              -5.8408985
+            ],
+            [
+              -35.2061629,
+              -5.8409707
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

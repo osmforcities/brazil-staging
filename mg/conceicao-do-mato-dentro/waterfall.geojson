@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/321708719",
+      "properties": {
+        "timestamp": "2008-12-26T05:15:22Z",
+        "version": 1,
+        "changeset": 608086,
+        "name": "Cachoeira Tres Barras",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/321708719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4870978,
+          -19.0998396
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/505204983",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:15Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "pharmacy",
+        "name": "Pague Menos",
+        "id": "node/505204983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4867199,
+          -1.4479866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204984",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:15Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "pharmacy",
+        "name": "Farma Lider",
+        "id": "node/505204984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4874237,
+          -1.4478322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204992",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:17Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "pharmacy",
+        "name": "Extra Farma",
+        "id": "node/505204992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4901359,
+          -1.444014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204995",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:18Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "pharmacy",
+        "name": "Big Ben",
+        "id": "node/505204995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4881361,
+          -1.4457901
+        ]
+      }
+    }
+  ]
+}

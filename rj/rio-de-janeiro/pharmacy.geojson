@@ -1,0 +1,651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/332153032",
+      "properties": {
+        "timestamp": "2009-01-17T05:15:53Z",
+        "version": 2,
+        "changeset": 800479,
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "name": "Drogaria Pacheco",
+        "id": "node/332153032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1780224,
+          -22.9311018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332516627",
+      "properties": {
+        "timestamp": "2009-05-20T18:55:39Z",
+        "version": 2,
+        "changeset": 1266994,
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "dispensing": "yes",
+        "name": "Drogaria Pacheco",
+        "id": "node/332516627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1775384,
+          -22.929342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340473535",
+      "properties": {
+        "timestamp": "2009-06-30T18:00:26Z",
+        "version": 4,
+        "changeset": 1693589,
+        "addr:postcode": "22220-000",
+        "addr:street": "Rua do Catete",
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "dispensing": "yes",
+        "name": "Drogaria Riofarma",
+        "id": "node/340473535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1767626,
+          -22.9263217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344024295",
+      "properties": {
+        "timestamp": "2009-02-10T06:25:14Z",
+        "version": 1,
+        "changeset": 319830,
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/344024295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1990785,
+          -22.9573286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345947047",
+      "properties": {
+        "timestamp": "2009-11-05T16:10:59Z",
+        "version": 2,
+        "changeset": 3041642,
+        "amenity": "pharmacy",
+        "name": "Cristal",
+        "telephone": "+55-21-22659780",
+        "id": "node/345947047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1900076,
+          -22.9367832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345969751",
+      "properties": {
+        "timestamp": "2009-06-29T04:38:03Z",
+        "version": 5,
+        "changeset": 1672658,
+        "addr:postcode": "22240-004",
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "name": "Drogaria Wilson",
+        "id": "node/345969751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1895095,
+          -22.9358357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/346243972",
+      "properties": {
+        "timestamp": "2009-02-16T17:19:37Z",
+        "version": 2,
+        "changeset": 482956,
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "name": "Droga Raia",
+        "id": "node/346243972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1858491,
+          -22.9335759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310727",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:35Z",
+        "version": 1,
+        "changeset": 1346979,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmácia Central Posto 6",
+        "id": "node/412310727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1913207,
+          -22.986884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415833897",
+      "properties": {
+        "timestamp": "2009-06-05T01:28:53Z",
+        "version": 1,
+        "changeset": 1425495,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmácia Iate Club",
+        "id": "node/415833897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176047,
+          -22.9507254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166010",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:53Z",
+        "version": 2,
+        "changeset": 2016069,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "170a",
+        "addr:street": "Rua Professor Álvaro Rodrigues",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farma Nature",
+        "id": "node/416166010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1830913,
+          -22.9515447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166011",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:25Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:street": "Rua Voluntários da Pátria",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pague Menos",
+        "id": "node/416166011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1829335,
+          -22.9510426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013536",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:01Z",
+        "version": 1,
+        "changeset": 1683925,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pacheco",
+        "id": "node/431013536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1787996,
+          -22.9313502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013629",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:06Z",
+        "version": 1,
+        "changeset": 1683925,
+        "addr:housenumber": "110B",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Miliflora Farmácia de Manipulação",
+        "id": "node/431013629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782025,
+          -22.9240015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431750130",
+      "properties": {
+        "timestamp": "2009-07-01T19:56:59Z",
+        "version": 1,
+        "changeset": 1703673,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "id": "node/431750130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1772917,
+          -22.922358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452657786",
+      "properties": {
+        "timestamp": "2009-07-31T21:39:17Z",
+        "version": 1,
+        "changeset": 1998430,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Rio Farma",
+        "id": "node/452657786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1771193,
+          -22.928073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452657957",
+      "properties": {
+        "timestamp": "2009-07-31T21:39:53Z",
+        "version": 1,
+        "changeset": 1998291,
+        "amenity": "pharmacy",
+        "name": "Farmácia Popular",
+        "id": "node/452657957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2286033,
+          -22.8210691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452659190",
+      "properties": {
+        "timestamp": "2009-07-31T21:46:23Z",
+        "version": 1,
+        "changeset": 1998291,
+        "amenity": "pharmacy",
+        "name": "Droga Raia",
+        "id": "node/452659190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2095489,
+          -22.8058709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456173495",
+      "properties": {
+        "timestamp": "2009-08-04T17:08:19Z",
+        "version": 1,
+        "changeset": 2037134,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pacheco",
+        "id": "node/456173495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1769665,
+          -22.9204795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456173512",
+      "properties": {
+        "timestamp": "2009-08-04T17:08:19Z",
+        "version": 1,
+        "changeset": 2037134,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Bem Estar",
+        "id": "node/456173512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1771462,
+          -22.9193894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461805319",
+      "properties": {
+        "timestamp": "2009-08-11T15:56:13Z",
+        "version": 1,
+        "changeset": 2109158,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pacheco",
+        "id": "node/461805319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782484,
+          -22.9312446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494016547",
+      "properties": {
+        "timestamp": "2009-09-12T11:06:37Z",
+        "version": 1,
+        "changeset": 2456107,
+        "amenity": "pharmacy",
+        "id": "node/494016547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2907705,
+          -22.8303921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494016632",
+      "properties": {
+        "timestamp": "2009-09-12T11:07:07Z",
+        "version": 1,
+        "changeset": 2456107,
+        "amenity": "pharmacy",
+        "id": "node/494016632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.288187,
+          -22.8294982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495141003",
+      "properties": {
+        "timestamp": "2009-09-13T13:57:55Z",
+        "version": 1,
+        "changeset": 2469195,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Mega Expressa",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/495141003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3606704,
+          -22.947426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495185778",
+      "properties": {
+        "timestamp": "2009-09-13T14:58:12Z",
+        "version": 2,
+        "changeset": 2470009,
+        "addr:housenumber": "22b",
+        "addr:street": "Travessa do Sal",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmácia Jericó",
+        "opening_hours": "Mo-Sa 08:30-22:00; Su 08:30-18:00",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/495185778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3678373,
+          -22.9481927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527166894",
+      "properties": {
+        "timestamp": "2009-10-09T15:34:01Z",
+        "version": 1,
+        "changeset": 2794690,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pacheco",
+        "id": "node/527166894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1846803,
+          -22.9494169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/556703805",
+      "properties": {
+        "timestamp": "2009-11-05T16:10:54Z",
+        "version": 1,
+        "changeset": 3041642,
+        "amenity": "pharmacy",
+        "name": "RIC",
+        "telephone": "+55-21-22652050",
+        "id": "node/556703805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.190617,
+          -22.9361745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557788",
+      "properties": {
+        "timestamp": "2009-11-06T03:29:59Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "pharmacy",
+        "name": "Pacheco",
+        "id": "node/557557788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2197494,
+          -22.9837234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/567544107",
+      "properties": {
+        "timestamp": "2009-11-20T20:23:33Z",
+        "version": 1,
+        "changeset": 3171405,
+        "amenity": "pharmacy",
+        "name": "Dermage Farmácia de Manipulação",
+        "id": "node/567544107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1773782,
+          -22.9048784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570371371",
+      "properties": {
+        "timestamp": "2009-11-25T00:47:30Z",
+        "version": 1,
+        "changeset": 3209058,
+        "amenity": "pharmacy",
+        "name": "Pacheco",
+        "id": "node/570371371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1764378,
+          -22.9057308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570371488",
+      "properties": {
+        "timestamp": "2009-11-25T00:47:33Z",
+        "version": 1,
+        "changeset": 3209058,
+        "amenity": "pharmacy",
+        "name": "Farmalife",
+        "id": "node/570371488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17544,
+          -22.9049451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570371573",
+      "properties": {
+        "timestamp": "2009-11-25T00:47:35Z",
+        "version": 1,
+        "changeset": 3209058,
+        "amenity": "pharmacy",
+        "name": "São Paulo",
+        "id": "node/570371573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1753274,
+          -22.9048809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571268304",
+      "properties": {
+        "timestamp": "2009-11-25T23:01:56Z",
+        "version": 1,
+        "changeset": 3216965,
+        "amenity": "pharmacy",
+        "name": "DrogaLife",
+        "id": "node/571268304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.208757,
+          -22.8995093
+        ]
+      }
+    }
+  ]
+}

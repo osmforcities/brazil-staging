@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/31241875",
+      "properties": {
+        "timestamp": "2009-02-18T18:56:40Z",
+        "version": 1,
+        "changeset": 541141,
+        "created_by": "Potlatch 0.10f",
+        "waterway": "dam",
+        "id": "way/31241875"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2720562,
+            -22.5516627
+          ],
+          [
+            -43.2713867,
+            -22.5518371
+          ],
+          [
+            -43.2706829,
+            -22.5519402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31241912",
+      "properties": {
+        "timestamp": "2009-02-18T18:57:53Z",
+        "version": 1,
+        "changeset": 541141,
+        "created_by": "Potlatch 0.10f",
+        "waterway": "dam",
+        "id": "way/31241912"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2723738,
+            -22.5469066
+          ],
+          [
+            -43.2718588,
+            -22.5476438
+          ]
+        ]
+      }
+    }
+  ]
+}

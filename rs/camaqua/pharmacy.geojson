@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/452816937",
+      "properties": {
+        "timestamp": "2009-08-01T03:32:46Z",
+        "version": 2,
+        "changeset": 1999693,
+        "amenity": "pharmacy",
+        "id": "node/452816937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8071268,
+          -30.8540891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452816940",
+      "properties": {
+        "timestamp": "2009-08-01T02:45:31Z",
+        "version": 1,
+        "changeset": 1999603,
+        "amenity": "pharmacy",
+        "id": "node/452816940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.814895,
+          -30.8518863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452817511",
+      "properties": {
+        "timestamp": "2009-08-07T19:42:51Z",
+        "version": 2,
+        "changeset": 2068934,
+        "amenity": "pharmacy",
+        "id": "node/452817511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.813008,
+          -30.8524832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458391809",
+      "properties": {
+        "timestamp": "2009-08-07T19:42:52Z",
+        "version": 1,
+        "changeset": 2068934,
+        "amenity": "pharmacy",
+        "id": "node/458391809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8137118,
+          -30.8525789
+        ]
+      }
+    }
+  ]
+}

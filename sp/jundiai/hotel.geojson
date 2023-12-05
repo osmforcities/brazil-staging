@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/361136500",
+      "properties": {
+        "timestamp": "2009-03-16T16:11:47Z",
+        "version": 1,
+        "changeset": 819636,
+        "name": "InterCity Express",
+        "tourism": "hotel",
+        "id": "node/361136500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9148623,
+          -23.1674667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/362471749",
+      "properties": {
+        "timestamp": "2009-03-18T14:20:46Z",
+        "version": 1,
+        "changeset": 826741,
+        "name": "Quality Hotel Riviera",
+        "tourism": "hotel",
+        "id": "node/362471749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9072519,
+          -23.1864078
+        ]
+      }
+    }
+  ]
+}

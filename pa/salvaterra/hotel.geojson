@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/450645617",
+      "properties": {
+        "timestamp": "2009-07-29T12:53:04Z",
+        "version": 1,
+        "changeset": 1975005,
+        "name": "Pousada dos Guarás",
+        "tourism": "hotel",
+        "id": "node/450645617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5127891,
+          -0.7697009
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/351715089",
+      "properties": {
+        "timestamp": "2009-08-10T01:20:51Z",
+        "version": 5,
+        "changeset": 2092104,
+        "created_by": "Potlatch 0.10f",
+        "name": "Comercial Peruch",
+        "shop": "bicycle",
+        "id": "node/351715089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3692047,
+          -19.8304431
+        ]
+      }
+    }
+  ]
+}

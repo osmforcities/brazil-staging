@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/393193939",
+      "properties": {
+        "timestamp": "2009-05-10T14:44:59Z",
+        "version": 1,
+        "changeset": 1139409,
+        "historic": "monument",
+        "name": "Monumento a Ramos de Azevedo",
+        "id": "node/393193939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7341783,
+          -23.5570614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457548419",
+      "properties": {
+        "timestamp": "2009-08-06T19:08:07Z",
+        "version": 1,
+        "changeset": 2058541,
+        "historic": "monument",
+        "id": "node/457548419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6433658,
+          -23.5363402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602207437",
+      "properties": {
+        "timestamp": "2009-12-31T15:38:42Z",
+        "version": 1,
+        "changeset": 3501812,
+        "amenity": "place_of_worship",
+        "historic": "monument",
+        "religion": "christian",
+        "id": "node/602207437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5757693,
+          -23.5901909
+        ]
+      }
+    }
+  ]
+}

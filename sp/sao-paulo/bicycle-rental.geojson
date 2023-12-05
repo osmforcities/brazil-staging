@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/339680757",
+      "properties": {
+        "timestamp": "2009-02-01T14:37:21Z",
+        "version": 2,
+        "changeset": 28603,
+        "amenity": "bicycle_rental",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/339680757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6669239,
+          -23.526324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339682304",
+      "properties": {
+        "timestamp": "2009-02-01T14:39:58Z",
+        "version": 1,
+        "changeset": 28603,
+        "amenity": "bicycle_rental",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/339682304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6555085,
+          -23.5342091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339686566",
+      "properties": {
+        "timestamp": "2009-02-01T14:48:39Z",
+        "version": 1,
+        "changeset": 28603,
+        "amenity": "bicycle_rental",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/339686566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6242717,
+          -23.501537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462747754",
+      "properties": {
+        "timestamp": "2009-08-12T21:54:54Z",
+        "version": 1,
+        "changeset": 2123873,
+        "amenity": "bicycle_rental",
+        "id": "node/462747754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5648631,
+          -23.5389513
+        ]
+      }
+    }
+  ]
+}

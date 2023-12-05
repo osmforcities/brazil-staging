@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/449928921",
+      "properties": {
+        "timestamp": "2009-07-28T15:09:46Z",
+        "version": 1,
+        "changeset": 1965711,
+        "amenity": "school",
+        "id": "node/449928921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1033704,
+          -29.6855616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/537147644",
+      "properties": {
+        "timestamp": "2009-10-20T22:14:54Z",
+        "version": 1,
+        "changeset": 2907504,
+        "amenity": "school",
+        "name": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha",
+        "id": "node/537147644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1490154,
+          -29.6931583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540135870",
+      "properties": {
+        "timestamp": "2009-10-25T12:13:03Z",
+        "version": 1,
+        "changeset": 2945531,
+        "amenity": "school",
+        "name": "IENH",
+        "id": "node/540135870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1111721,
+          -29.6733423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540135872",
+      "properties": {
+        "timestamp": "2009-10-25T12:13:04Z",
+        "version": 1,
+        "changeset": 2945531,
+        "amenity": "school",
+        "id": "node/540135872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1065115,
+          -29.6741029
+        ]
+      }
+    }
+  ]
+}

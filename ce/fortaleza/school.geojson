@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/477116579",
+      "properties": {
+        "timestamp": "2009-08-30T03:46:23Z",
+        "version": 1,
+        "changeset": 2308377,
+        "amenity": "school",
+        "name": "Colégio Militar de Fortaleza",
+        "id": "node/477116579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5179232,
+          -3.7289715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/477116590",
+      "properties": {
+        "timestamp": "2009-08-30T13:07:08Z",
+        "version": 2,
+        "changeset": 2312604,
+        "amenity": "school",
+        "name": "Colégio Christus Central",
+        "id": "node/477116590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5072805,
+          -3.7380093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479233939",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:26Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "school",
+        "name": "Organização Educacional Evolutivo - Sede Regina Justa",
+        "id": "node/479233939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.533757,
+          -3.7332758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479233956",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:27Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "school",
+        "name": "Colégio 7 de Setembro",
+        "id": "node/479233956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.536392,
+          -3.7324108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479233973",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:27Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "school",
+        "name": "Colégio 7 de Setembro",
+        "id": "node/479233973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5351475,
+          -3.730595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/541818679",
+      "properties": {
+        "timestamp": "2009-10-27T16:07:33Z",
+        "version": 1,
+        "changeset": 2966354,
+        "amenity": "school",
+        "name": "Ari de Sá",
+        "id": "node/541818679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4802129,
+          -3.7890905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724620",
+      "properties": {
+        "timestamp": "2009-11-27T03:27:12Z",
+        "version": 1,
+        "changeset": 3225361,
+        "amenity": "school",
+        "name": "Colégio Ari de Sá",
+        "id": "node/571724620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4925421,
+          -3.7462138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724622",
+      "properties": {
+        "timestamp": "2009-11-29T13:25:49Z",
+        "version": 3,
+        "changeset": 3245317,
+        "amenity": "school",
+        "name": "7 de Setembro",
+        "id": "node/571724622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4913298,
+          -3.7474984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724623",
+      "properties": {
+        "timestamp": "2009-11-27T03:27:13Z",
+        "version": 1,
+        "changeset": 3225361,
+        "amenity": "school",
+        "name": "Colégio Santa Cecília",
+        "id": "node/571724623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4961148,
+          -3.7440512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571728347",
+      "properties": {
+        "timestamp": "2009-11-27T04:01:19Z",
+        "version": 1,
+        "changeset": 3225361,
+        "amenity": "school",
+        "name": "Colégio Christus",
+        "id": "node/571728347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.495632,
+          -3.7501429
+        ]
+      }
+    }
+  ]
+}

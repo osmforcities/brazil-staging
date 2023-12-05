@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/340463777",
+      "properties": {
+        "timestamp": "2009-02-04T20:35:27Z",
+        "version": 2,
+        "changeset": 130009,
+        "amenity": "dentist",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/340463777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177166,
+          -22.9243375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340465078",
+      "properties": {
+        "timestamp": "2009-06-30T18:00:30Z",
+        "version": 3,
+        "changeset": 1693589,
+        "addr:postcode": "22220-000",
+        "addr:street": "Rua do Catete",
+        "amenity": "dentist",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/340465078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1768999,
+          -22.9248118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340465220",
+      "properties": {
+        "timestamp": "2009-06-30T18:00:30Z",
+        "version": 4,
+        "changeset": 1693589,
+        "addr:postcode": "22220-000",
+        "addr:street": "Rua do Catete",
+        "amenity": "dentist",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/340465220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176754,
+          -22.925381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345972685",
+      "properties": {
+        "timestamp": "2009-06-29T04:38:04Z",
+        "version": 3,
+        "changeset": 1672658,
+        "addr:postcode": "22240-004",
+        "amenity": "dentist",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/345972685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1892777,
+          -22.9355907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013519",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:00Z",
+        "version": 1,
+        "changeset": 1683925,
+        "addr:housenumber": "17",
+        "amenity": "dentist",
+        "id": "node/431013519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1800133,
+          -22.9317714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431750198",
+      "properties": {
+        "timestamp": "2009-07-01T19:57:03Z",
+        "version": 1,
+        "changeset": 1703673,
+        "addr:housenumber": "64",
+        "amenity": "dentist",
+        "id": "node/431750198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1774743,
+          -22.9234032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452657796",
+      "properties": {
+        "timestamp": "2009-07-31T21:39:18Z",
+        "version": 1,
+        "changeset": 1998430,
+        "addr:housenumber": "204",
+        "addr:street": "Rua do Catete",
+        "amenity": "dentist",
+        "id": "node/452657796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177037,
+          -22.9278141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452657799",
+      "properties": {
+        "timestamp": "2009-07-31T21:39:18Z",
+        "version": 1,
+        "changeset": 1998430,
+        "addr:housenumber": "202",
+        "addr:street": "Rua do Catete",
+        "amenity": "dentist",
+        "id": "node/452657799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1770206,
+          -22.9277623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452657825",
+      "properties": {
+        "timestamp": "2009-07-31T21:39:18Z",
+        "version": 1,
+        "changeset": 1998430,
+        "amenity": "dentist",
+        "id": "node/452657825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1768509,
+          -22.9271072
+        ]
+      }
+    }
+  ]
+}

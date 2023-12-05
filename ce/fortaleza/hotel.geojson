@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/253406764",
+      "properties": {
+        "timestamp": "2008-03-22T21:49:01Z",
+        "version": 2,
+        "changeset": 372886,
+        "created_by": "JOSM",
+        "name": "Praia do Futuro",
+        "tourism": "hotel",
+        "id": "node/253406764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4586667,
+          -3.7327534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482185148",
+      "properties": {
+        "timestamp": "2009-09-03T10:56:36Z",
+        "version": 1,
+        "changeset": 2357676,
+        "name": "Marina Park",
+        "tourism": "hotel",
+        "id": "node/482185148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5296924,
+          -3.7196941
+        ]
+      }
+    }
+  ]
+}

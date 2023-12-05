@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41573799",
+      "properties": {
+        "timestamp": "2009-09-28T07:43:17Z",
+        "version": 2,
+        "changeset": 2661115,
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Centro Infantil Reino Encantado",
+        "id": "way/41573799"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.87777,
+              -15.7742428
+            ],
+            [
+              -47.8777615,
+              -15.7746205
+            ],
+            [
+              -47.8775038,
+              -15.7745901
+            ],
+            [
+              -47.8775216,
+              -15.7742229
+            ],
+            [
+              -47.87777,
+              -15.7742428
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

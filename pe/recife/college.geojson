@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/44118745",
+      "properties": {
+        "timestamp": "2009-11-11T01:19:28Z",
+        "version": 1,
+        "changeset": 3086947,
+        "amenity": "college",
+        "name": "FIR - Faculdades Integradas do Recife",
+        "id": "way/44118745"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9163992,
+              -8.0614007
+            ],
+            [
+              -34.9166144,
+              -8.0624025
+            ],
+            [
+              -34.9155592,
+              -8.0624293
+            ],
+            [
+              -34.915558,
+              -8.0620976
+            ],
+            [
+              -34.9157812,
+              -8.0616302
+            ],
+            [
+              -34.9163992,
+              -8.0614007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44119725",
+      "properties": {
+        "timestamp": "2009-11-11T01:31:25Z",
+        "version": 1,
+        "changeset": 3086947,
+        "amenity": "college",
+        "name": "Faculdade de Direito do Recife - UFPE",
+        "id": "way/44119725"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8817923,
+              -8.0584943
+            ],
+            [
+              -34.8827536,
+              -8.0578654
+            ],
+            [
+              -34.8832256,
+              -8.0587153
+            ],
+            [
+              -34.8834145,
+              -8.0591912
+            ],
+            [
+              -34.8825304,
+              -8.0597096
+            ],
+            [
+              -34.8817923,
+              -8.0584943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561522285",
+      "properties": {
+        "timestamp": "2009-11-12T22:04:12Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "college",
+        "name": "Faculdade maurício de Nassau",
+        "id": "node/561522285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9034123,
+          -8.0523763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900053",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:53Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CTG",
+        "id": "node/561900053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9541947,
+          -8.0534165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900060",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:53Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CCEN",
+        "id": "node/561900060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9520747,
+          -8.0563995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900065",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:54Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CIn",
+        "id": "node/561900065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9517142,
+          -8.0557621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900072",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:54Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CEFET",
+        "id": "node/561900072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9502036,
+          -8.0590169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900140",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:56Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CCSA",
+        "id": "node/561900140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.951225,
+          -8.0494137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900144",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:56Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CFSH",
+        "id": "node/561900144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9538257,
+          -8.0499492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900152",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:57Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "college",
+        "name": "CAC",
+        "id": "node/561900152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9540574,
+          -8.0512154
+        ]
+      }
+    }
+  ]
+}

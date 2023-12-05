@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/266961354",
+      "properties": {
+        "timestamp": "2008-05-26T12:56:31Z",
+        "version": 1,
+        "changeset": 527839,
+        "created_by": "JOSM",
+        "name": "Alojamento da Universidade Federal do Pará",
+        "tourism": "guest_house",
+        "id": "node/266961354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7646632,
+          -1.0578618
+        ]
+      }
+    }
+  ]
+}

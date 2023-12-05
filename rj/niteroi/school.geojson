@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30358989",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:20Z",
+        "version": 4,
+        "changeset": 1998374,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Instituto Abel",
+        "id": "way/30358989"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1099863,
+              -22.9000398
+            ],
+            [
+              -43.1091249,
+              -22.9008443
+            ],
+            [
+              -43.1084496,
+              -22.9002552
+            ],
+            [
+              -43.1093561,
+              -22.8995139
+            ],
+            [
+              -43.1099863,
+              -22.9000398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30441848",
+      "properties": {
+        "timestamp": "2009-01-24T16:16:33Z",
+        "version": 1,
+        "changeset": 832630,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Sebrae",
+        "id": "way/30441848"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1229208,
+              -22.8967799
+            ],
+            [
+              -43.122957,
+              -22.8970175
+            ],
+            [
+              -43.1227714,
+              -22.89706
+            ],
+            [
+              -43.1227375,
+              -22.8968226
+            ],
+            [
+              -43.1229208,
+              -22.8967799
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30455218",
+      "properties": {
+        "timestamp": "2009-01-25T06:16:00Z",
+        "version": 3,
+        "changeset": 837685,
+        "amenity": "school",
+        "building": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "São Vicente de Paulo",
+        "id": "way/30455218"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1157971,
+              -22.901367
+            ],
+            [
+              -43.1146912,
+              -22.9023298
+            ],
+            [
+              -43.1137393,
+              -22.9015598
+            ],
+            [
+              -43.1140701,
+              -22.9012528
+            ],
+            [
+              -43.1138108,
+              -22.9010046
+            ],
+            [
+              -43.1143442,
+              -22.9004797
+            ],
+            [
+              -43.1146426,
+              -22.9005396
+            ],
+            [
+              -43.1154266,
+              -22.9013508
+            ],
+            [
+              -43.1156448,
+              -22.901124
+            ],
+            [
+              -43.1157971,
+              -22.901367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30455328",
+      "properties": {
+        "timestamp": "2009-01-25T06:15:46Z",
+        "version": 2,
+        "changeset": 837685,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Ponto de Ensino",
+        "id": "way/30455328"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1076156,
+              -22.8995372
+            ],
+            [
+              -43.1078764,
+              -22.8997673
+            ],
+            [
+              -43.1076289,
+              -22.9000109
+            ],
+            [
+              -43.1073658,
+              -22.8997659
+            ],
+            [
+              -43.1076156,
+              -22.8995372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30469576",
+      "properties": {
+        "timestamp": "2009-04-25T16:58:42Z",
+        "version": 2,
+        "changeset": 953056,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Salesianos Santa Rosa",
+        "id": "way/30469576"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.10018,
+              -22.9012817
+            ],
+            [
+              -43.0985466,
+              -22.9024873
+            ],
+            [
+              -43.0968231,
+              -22.9005675
+            ],
+            [
+              -43.0973906,
+              -22.9002233
+            ],
+            [
+              -43.0978595,
+              -22.9001369
+            ],
+            [
+              -43.098667,
+              -22.9005353
+            ],
+            [
+              -43.10018,
+              -22.9012817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38170621",
+      "properties": {
+        "timestamp": "2009-07-28T04:36:55Z",
+        "version": 1,
+        "changeset": 1961142,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colégio Estadual Manoel de Abreu",
+        "id": "way/38170621"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1074641,
+              -22.9021196
+            ],
+            [
+              -43.1071283,
+              -22.90242
+            ],
+            [
+              -43.1070112,
+              -22.9023168
+            ],
+            [
+              -43.1072134,
+              -22.9021502
+            ],
+            [
+              -43.1068329,
+              -22.9018268
+            ],
+            [
+              -43.1069748,
+              -22.9016784
+            ],
+            [
+              -43.1074641,
+              -22.9021196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452360802",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:19Z",
+        "version": 2,
+        "changeset": 1998374,
+        "amenity": "school",
+        "name": "Aliança Francesa",
+        "type": "languages",
+        "id": "node/452360802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1114896,
+          -22.9062965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654173",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:15Z",
+        "version": 1,
+        "changeset": 1998374,
+        "amenity": "school",
+        "name": "CCAA",
+        "type": "languages",
+        "id": "node/452654173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1095051,
+          -22.9008332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654175",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:15Z",
+        "version": 1,
+        "changeset": 1998374,
+        "amenity": "school",
+        "name": "Ibeu",
+        "type": "languages",
+        "id": "node/452654175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1096281,
+          -22.9007199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654178",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:15Z",
+        "version": 1,
+        "changeset": 1998374,
+        "amenity": "school",
+        "name": "Instituto Brasil América",
+        "type": "languages",
+        "id": "node/452654178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1101172,
+          -22.8997943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654183",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:15Z",
+        "version": 1,
+        "changeset": 1998374,
+        "amenity": "school",
+        "name": "Sistema Elite de Ensino",
+        "id": "node/452654183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1102873,
+          -22.8996289
+        ]
+      }
+    }
+  ]
+}

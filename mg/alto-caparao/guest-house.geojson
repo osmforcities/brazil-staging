@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/39276906",
+      "properties": {
+        "timestamp": "2009-08-19T02:24:53Z",
+        "version": 2,
+        "changeset": 2196365,
+        "building": "yes",
+        "tourism": "guest_house",
+        "id": "way/39276906"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8105418,
+              -20.4205239
+            ],
+            [
+              -41.8105075,
+              -20.4205802
+            ],
+            [
+              -41.8104303,
+              -20.4205319
+            ],
+            [
+              -41.8104646,
+              -20.4204756
+            ],
+            [
+              -41.8105418,
+              -20.4205239
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

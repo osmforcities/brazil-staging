@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27995375",
+      "properties": {
+        "timestamp": "2009-03-17T13:39:13Z",
+        "version": 5,
+        "changeset": 823363,
+        "created_by": "Potlatch 0.10e",
+        "natural": "cliff",
+        "note": "used natural=cliff as no feature yet for waterfall",
+        "source": "Yahoo",
+        "waterway": "waterfall",
+        "id": "way/27995375"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.4368866,
+            -25.691207
+          ],
+          [
+            -54.4369341,
+            -25.6917756
+          ],
+          [
+            -54.4368912,
+            -25.691938
+          ],
+          [
+            -54.4370114,
+            -25.6920231
+          ],
+          [
+            -54.4370371,
+            -25.6923479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27995445",
+      "properties": {
+        "timestamp": "2009-09-12T13:56:59Z",
+        "version": 5,
+        "changeset": 2457729,
+        "name": "Garganta del Diablo",
+        "natural": "cliff",
+        "note": "used natural=cliff as no feature yet for waterfall",
+        "source": "Yahoo",
+        "waterway": "waterfall",
+        "id": "way/27995445"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.4366337,
+            -25.6936087
+          ],
+          [
+            -54.4364525,
+            -25.6938616
+          ],
+          [
+            -54.4364878,
+            -25.6941578
+          ],
+          [
+            -54.4364964,
+            -25.6945677
+          ],
+          [
+            -54.4364449,
+            -25.6948307
+          ],
+          [
+            -54.4361702,
+            -25.6948462
+          ],
+          [
+            -54.4358011,
+            -25.6951323
+          ],
+          [
+            -54.4357067,
+            -25.6952406
+          ],
+          [
+            -54.4356896,
+            -25.6954726
+          ],
+          [
+            -54.4358526,
+            -25.6956815
+          ],
+          [
+            -54.4357926,
+            -25.6959135
+          ],
+          [
+            -54.4357754,
+            -25.6961842
+          ],
+          [
+            -54.4359198,
+            -25.6962801
+          ],
+          [
+            -54.4359385,
+            -25.6962925
+          ],
+          [
+            -54.4361616,
+            -25.6961378
+          ],
+          [
+            -54.4363676,
+            -25.6959908
+          ],
+          [
+            -54.436668,
+            -25.6959908
+          ],
+          [
+            -54.4367453,
+            -25.6959058
+          ],
+          [
+            -54.4373375,
+            -25.6960682
+          ],
+          [
+            -54.4373633,
+            -25.6959522
+          ],
+          [
+            -54.4372603,
+            -25.6955809
+          ],
+          [
+            -54.4375607,
+            -25.6952715
+          ],
+          [
+            -54.4378267,
+            -25.6949854
+          ],
+          [
+            -54.4378353,
+            -25.6948307
+          ],
+          [
+            -54.4376808,
+            -25.6946528
+          ],
+          [
+            -54.4374319,
+            -25.6944517
+          ],
+          [
+            -54.4373461,
+            -25.6943744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27995781",
+      "properties": {
+        "timestamp": "2009-06-04T07:43:44Z",
+        "version": 4,
+        "changeset": 1418948,
+        "created_by": "Potlatch 0.10e",
+        "natural": "cliff",
+        "note": "used natural=cliff as no feature yet for waterfall",
+        "source": "Yahoo",
+        "waterway": "waterfall",
+        "id": "way/27995781"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.4377264,
+            -25.6907376
+          ],
+          [
+            -54.4377006,
+            -25.6908459
+          ],
+          [
+            -54.4378122,
+            -25.6909
+          ],
+          [
+            -54.438001,
+            -25.6910238
+          ],
+          [
+            -54.4381298,
+            -25.6912171
+          ],
+          [
+            -54.4381126,
+            -25.6914801
+          ],
+          [
+            -54.4380611,
+            -25.6917044
+          ],
+          [
+            -54.4378894,
+            -25.6919287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27995785",
+      "properties": {
+        "timestamp": "2009-03-17T13:39:11Z",
+        "version": 3,
+        "changeset": 823363,
+        "created_by": "Potlatch 0.10e",
+        "natural": "cliff",
+        "note": "used natural=cliff as no feature yet for waterfall",
+        "source": "Yahoo",
+        "waterway": "waterfall",
+        "id": "way/27995785"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.4383873,
+            -25.6905055
+          ],
+          [
+            -54.4383186,
+            -25.6906448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27995790",
+      "properties": {
+        "timestamp": "2009-03-17T13:39:12Z",
+        "version": 3,
+        "changeset": 823363,
+        "created_by": "Potlatch 0.10e",
+        "natural": "cliff",
+        "note": "used natural=cliff as no feature yet for waterfall",
+        "source": "Yahoo",
+        "waterway": "waterfall",
+        "id": "way/27995790"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.438207,
+            -25.6909696
+          ],
+          [
+            -54.4381984,
+            -25.6911707
+          ]
+        ]
+      }
+    }
+  ]
+}

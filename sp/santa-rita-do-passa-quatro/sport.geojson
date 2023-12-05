@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45025566",
+      "properties": {
+        "timestamp": "2009-11-25T15:44:57Z",
+        "version": 1,
+        "changeset": 3213288,
+        "leisure": "pitch",
+        "name": "AASR",
+        "sport": "soccer",
+        "id": "way/45025566"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4812819,
+              -21.6993709
+            ],
+            [
+              -47.4809453,
+              -21.7004863
+            ],
+            [
+              -47.4800747,
+              -21.700283
+            ],
+            [
+              -47.480406,
+              -21.6991735
+            ],
+            [
+              -47.4812819,
+              -21.6993709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45052532",
+      "properties": {
+        "timestamp": "2009-11-26T00:43:41Z",
+        "version": 1,
+        "changeset": 3217334,
+        "leisure": "pitch",
+        "name": "Campo da Cinelândia",
+        "sport": "soccer",
+        "id": "way/45052532"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4753466,
+              -21.7095106
+            ],
+            [
+              -47.4751531,
+              -21.7103779
+            ],
+            [
+              -47.4744185,
+              -21.7101917
+            ],
+            [
+              -47.4745899,
+              -21.7093106
+            ],
+            [
+              -47.4753466,
+              -21.7095106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45052533",
+      "properties": {
+        "timestamp": "2009-11-26T00:43:41Z",
+        "version": 1,
+        "changeset": 3217334,
+        "leisure": "pitch",
+        "name": "Campo do Galo",
+        "sport": "soccer",
+        "id": "way/45052533"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4891975,
+              -21.7049281
+            ],
+            [
+              -47.4881844,
+              -21.7051261
+            ],
+            [
+              -47.4879844,
+              -21.7040151
+            ],
+            [
+              -47.4889453,
+              -21.7038495
+            ],
+            [
+              -47.4891975,
+              -21.7049281
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

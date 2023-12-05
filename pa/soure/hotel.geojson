@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/450195400",
+      "properties": {
+        "timestamp": "2009-07-28T20:44:36Z",
+        "version": 1,
+        "changeset": 1969335,
+        "name": "Ilha do Marajó",
+        "tourism": "hotel",
+        "id": "node/450195400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.510227,
+          -0.7408248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450195441",
+      "properties": {
+        "timestamp": "2009-07-28T20:44:38Z",
+        "version": 1,
+        "changeset": 1969335,
+        "name": "Pousada Canto do Francês",
+        "tourism": "hotel",
+        "id": "node/450195441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5133673,
+          -0.7348568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450195544",
+      "properties": {
+        "timestamp": "2009-07-28T20:44:43Z",
+        "version": 1,
+        "changeset": 1969335,
+        "name": "Casarão da Amazônia",
+        "tourism": "hotel",
+        "id": "node/450195544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.516207,
+          -0.7342993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450195952",
+      "properties": {
+        "timestamp": "2009-07-28T20:45:08Z",
+        "version": 1,
+        "changeset": 1969335,
+        "name": "Fazenda São Gerônimo",
+        "tourism": "hotel",
+        "id": "node/450195952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4983098,
+          -0.6911978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450196344",
+      "properties": {
+        "timestamp": "2009-07-28T20:45:37Z",
+        "version": 1,
+        "changeset": 1969335,
+        "name": "Fazenda Araruna",
+        "tourism": "hotel",
+        "id": "node/450196344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5067708,
+          -0.7213848
+        ]
+      }
+    }
+  ]
+}

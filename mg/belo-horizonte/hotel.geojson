@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/31928593",
+      "properties": {
+        "timestamp": "2009-03-09T01:03:53Z",
+        "version": 1,
+        "changeset": 772712,
+        "building": "yes",
+        "created_by": "Merkaartor 0.13",
+        "tourism": "hotel",
+        "id": "way/31928593"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9230179,
+              -19.9428658
+            ],
+            [
+              -43.9233317,
+              -19.9430777
+            ],
+            [
+              -43.9233451,
+              -19.9431281
+            ],
+            [
+              -43.9232245,
+              -19.9432869
+            ],
+            [
+              -43.9231333,
+              -19.9432315
+            ],
+            [
+              -43.9230769,
+              -19.9433071
+            ],
+            [
+              -43.9229294,
+              -19.9433122
+            ],
+            [
+              -43.9228194,
+              -19.9432138
+            ],
+            [
+              -43.922967,
+              -19.9429894
+            ],
+            [
+              -43.9229482,
+              -19.9429718
+            ],
+            [
+              -43.9230179,
+              -19.9428658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353133823",
+      "properties": {
+        "timestamp": "2009-02-27T02:11:52Z",
+        "version": 1,
+        "changeset": 683529,
+        "created_by": "Merkaartor 0.13",
+        "name": "Oton Palace",
+        "tourism": "hotel",
+        "id": "node/353133823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9369118,
+          -19.922323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505534675",
+      "properties": {
+        "timestamp": "2009-09-22T18:45:01Z",
+        "version": 1,
+        "changeset": 2574295,
+        "tourism": "hotel",
+        "id": "node/505534675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.945012,
+          -19.9374978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560387277",
+      "properties": {
+        "timestamp": "2009-11-10T11:49:38Z",
+        "version": 2,
+        "changeset": 3081435,
+        "tourism": "hotel",
+        "id": "node/560387277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9364032,
+          -19.9163327
+        ]
+      }
+    }
+  ]
+}

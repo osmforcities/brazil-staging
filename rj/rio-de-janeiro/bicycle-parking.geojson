@@ -1,0 +1,417 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/208537789",
+      "properties": {
+        "timestamp": "2009-10-07T21:13:43Z",
+        "version": 2,
+        "changeset": 2775958,
+        "amenity": "bicycle_parking",
+        "id": "node/208537789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1760854,
+          -22.9563237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299617743",
+      "properties": {
+        "timestamp": "2008-09-25T02:12:35Z",
+        "version": 1,
+        "changeset": 695838,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10b",
+        "id": "node/299617743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2321247,
+          -22.9793865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331631023",
+      "properties": {
+        "timestamp": "2009-01-14T21:50:23Z",
+        "version": 3,
+        "changeset": 789584,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/331631023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1698945,
+          -22.9548302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332238483",
+      "properties": {
+        "timestamp": "2009-02-04T21:34:57Z",
+        "version": 3,
+        "changeset": 130009,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/332238483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1807451,
+          -22.9647412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338792635",
+      "properties": {
+        "timestamp": "2009-01-28T21:22:04Z",
+        "version": 1,
+        "changeset": 848320,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/338792635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1769893,
+          -22.9577684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338797174",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:43Z",
+        "version": 3,
+        "changeset": 2016069,
+        "amenity": "bicycle_parking",
+        "layer": "-1",
+        "id": "node/338797174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1783548,
+          -22.9535134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338798493",
+      "properties": {
+        "timestamp": "2009-01-28T21:46:44Z",
+        "version": 1,
+        "changeset": 848320,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/338798493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1838129,
+          -22.947723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365743387",
+      "properties": {
+        "timestamp": "2009-03-25T21:22:49Z",
+        "version": 2,
+        "changeset": 857648,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/365743387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16973,
+          -22.9635442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365743916",
+      "properties": {
+        "timestamp": "2009-03-25T21:24:26Z",
+        "version": 1,
+        "changeset": 857648,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/365743916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1700047,
+          -22.9636786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365744391",
+      "properties": {
+        "timestamp": "2009-03-25T21:26:05Z",
+        "version": 1,
+        "changeset": 857648,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/365744391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1689661,
+          -22.963236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365744408",
+      "properties": {
+        "timestamp": "2009-03-25T21:26:14Z",
+        "version": 1,
+        "changeset": 857648,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/365744408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1691034,
+          -22.963315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365744865",
+      "properties": {
+        "timestamp": "2009-03-25T21:27:56Z",
+        "version": 1,
+        "changeset": 857648,
+        "amenity": "bicycle_parking",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/365744865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1731203,
+          -22.9649272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412272170",
+      "properties": {
+        "timestamp": "2009-05-28T20:27:12Z",
+        "version": 1,
+        "changeset": 1345950,
+        "amenity": "bicycle_parking",
+        "id": "node/412272170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1815011,
+          -22.9458962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412272171",
+      "properties": {
+        "timestamp": "2009-05-28T20:27:12Z",
+        "version": 1,
+        "changeset": 1345950,
+        "amenity": "bicycle_parking",
+        "id": "node/412272171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1811096,
+          -22.948027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412272173",
+      "properties": {
+        "timestamp": "2009-05-28T20:27:12Z",
+        "version": 1,
+        "changeset": 1345950,
+        "amenity": "bicycle_parking",
+        "id": "node/412272173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1815611,
+          -22.946541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/454457637",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:31Z",
+        "version": 1,
+        "changeset": 2016069,
+        "amenity": "bicycle_parking",
+        "id": "node/454457637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1778109,
+          -22.9554981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475996261",
+      "properties": {
+        "timestamp": "2009-12-24T03:54:05Z",
+        "version": 5,
+        "changeset": 3439801,
+        "amenity": "bicycle_parking",
+        "capacity": "30",
+        "fee": "no",
+        "layer": "-1",
+        "id": "node/475996261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1731493,
+          -22.9070436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527166756",
+      "properties": {
+        "timestamp": "2009-10-09T15:33:47Z",
+        "version": 1,
+        "changeset": 2794690,
+        "amenity": "bicycle_parking",
+        "capacity": "12",
+        "id": "node/527166756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1843713,
+          -22.9493457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527338791",
+      "properties": {
+        "timestamp": "2009-10-09T18:08:57Z",
+        "version": 1,
+        "changeset": 2796283,
+        "amenity": "bicycle_parking",
+        "id": "node/527338791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1885872,
+          -22.9495139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/556696415",
+      "properties": {
+        "timestamp": "2009-11-08T19:42:07Z",
+        "version": 3,
+        "changeset": 3067677,
+        "amenity": "bicycle_parking",
+        "capacity": "6",
+        "id": "node/556696415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1766905,
+          -22.9026114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557856",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:04Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "bicycle_parking",
+        "id": "node/557557856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2284183,
+          -22.9756793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/562181417",
+      "properties": {
+        "timestamp": "2009-11-13T03:07:58Z",
+        "version": 1,
+        "changeset": 3103425,
+        "amenity": "bicycle_parking",
+        "id": "node/562181417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1928253,
+          -22.9762808
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/541230334",
+      "properties": {
+        "timestamp": "2009-10-27T01:37:24Z",
+        "version": 1,
+        "changeset": 2962161,
+        "waterway": "waterfall",
+        "id": "node/541230334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2488358,
+          -22.9649327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/541230340",
+      "properties": {
+        "timestamp": "2009-10-27T01:37:24Z",
+        "version": 1,
+        "changeset": 2962161,
+        "waterway": "waterfall",
+        "id": "node/541230340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2464868,
+          -22.965024
+        ]
+      }
+    }
+  ]
+}

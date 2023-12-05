@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27625194",
+      "properties": {
+        "timestamp": "2008-10-09T20:45:03Z",
+        "version": 1,
+        "changeset": 194613,
+        "amenity": "bicycle_parking",
+        "building": "yes",
+        "source": "survey",
+        "id": "way/27625194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7608614,
+              -1.0498293
+            ],
+            [
+              -46.7608508,
+              -1.0498672
+            ],
+            [
+              -46.7605201,
+              -1.0497727
+            ],
+            [
+              -46.7605307,
+              -1.0497348
+            ],
+            [
+              -46.7608614,
+              -1.0498293
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

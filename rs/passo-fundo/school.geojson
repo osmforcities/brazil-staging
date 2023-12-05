@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/44523114",
+      "properties": {
+        "timestamp": "2009-11-16T19:00:06Z",
+        "version": 1,
+        "changeset": 3134727,
+        "amenity": "school",
+        "name": "Collegio Notre Dame",
+        "id": "way/44523114"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.4118451,
+              -28.2632883
+            ],
+            [
+              -52.4125318,
+              -28.2636587
+            ],
+            [
+              -52.4119653,
+              -28.2645885
+            ],
+            [
+              -52.4112786,
+              -28.2642862
+            ],
+            [
+              -52.4118451,
+              -28.2632883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44607153",
+      "properties": {
+        "timestamp": "2009-11-17T19:49:13Z",
+        "version": 1,
+        "changeset": 3144539,
+        "amenity": "school",
+        "name": "Menino Jesus Notre Dame",
+        "id": "way/44607153"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.3974745,
+              -28.2647962
+            ],
+            [
+              -52.3963244,
+              -28.26497
+            ],
+            [
+              -52.3961699,
+              -28.2645845
+            ],
+            [
+              -52.3973801,
+              -28.2643879
+            ],
+            [
+              -52.3974745,
+              -28.2647962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/563884623",
+      "properties": {
+        "timestamp": "2009-11-14T16:00:44Z",
+        "version": 1,
+        "changeset": 3114345,
+        "amenity": "school",
+        "name": "SENAI",
+        "id": "node/563884623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4194293,
+          -28.250588
+        ]
+      }
+    }
+  ]
+}

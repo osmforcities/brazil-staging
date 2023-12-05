@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/305618414",
+      "properties": {
+        "timestamp": "2009-03-17T21:50:46Z",
+        "version": 2,
+        "changeset": 823894,
+        "amenity": "pharmacy",
+        "name": "Drogagíl",
+        "id": "node/305618414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.499106,
+          -20.6729759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305618487",
+      "properties": {
+        "timestamp": "2008-10-19T13:23:30Z",
+        "version": 1,
+        "changeset": 437045,
+        "amenity": "pharmacy",
+        "name": "Drogagíl",
+        "id": "node/305618487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4985218,
+          -20.670927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315741329",
+      "properties": {
+        "timestamp": "2008-11-30T10:41:12Z",
+        "version": 1,
+        "changeset": 812000,
+        "amenity": "pharmacy",
+        "name": "Santa Mônica",
+        "id": "node/315741329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4987623,
+          -20.6708018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/318117878",
+      "properties": {
+        "timestamp": "2008-12-12T14:41:43Z",
+        "version": 1,
+        "changeset": 328720,
+        "amenity": "pharmacy",
+        "name": "Santa Mônica",
+        "id": "node/318117878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4987623,
+          -20.6708018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332149540",
+      "properties": {
+        "timestamp": "2009-01-15T01:54:59Z",
+        "version": 1,
+        "changeset": 789971,
+        "amenity": "pharmacy",
+        "name": "Mega Farma",
+        "id": "node/332149540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4983928,
+          -20.6723763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333743474",
+      "properties": {
+        "timestamp": "2009-01-19T20:10:55Z",
+        "version": 1,
+        "changeset": 812275,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmacia Alquemia",
+        "id": "node/333743474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4968023,
+          -20.6696663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339012510",
+      "properties": {
+        "timestamp": "2009-01-29T21:43:16Z",
+        "version": 1,
+        "changeset": 852241,
+        "amenity": "pharmacy",
+        "atm": "yes",
+        "dispensing": "no",
+        "name": "Santa Mônica",
+        "id": "node/339012510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4982335,
+          -20.6727187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339406331",
+      "properties": {
+        "timestamp": "2009-01-31T18:55:58Z",
+        "version": 1,
+        "changeset": 859720,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmacia Atlantis",
+        "id": "node/339406331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.500315,
+          -20.6638683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365760907",
+      "properties": {
+        "timestamp": "2009-03-25T22:25:26Z",
+        "version": 1,
+        "changeset": 861163,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "id": "node/365760907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5044627,
+          -20.6775025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428623685",
+      "properties": {
+        "timestamp": "2009-06-23T21:05:34Z",
+        "version": 1,
+        "changeset": 1606069,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Multtt Farma Center",
+        "id": "node/428623685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4981645,
+          -20.6724816
+        ]
+      }
+    }
+  ]
+}

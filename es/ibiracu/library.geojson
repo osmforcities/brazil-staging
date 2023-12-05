@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/336114418",
+      "properties": {
+        "timestamp": "2009-05-17T13:39:03Z",
+        "version": 2,
+        "changeset": 1221333,
+        "amenity": "library",
+        "created_by": "Potlatch 0.10f",
+        "name": "Complexo Cultural Roque Peruch",
+        "id": "node/336114418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3679443,
+          -19.8307414
+        ]
+      }
+    }
+  ]
+}

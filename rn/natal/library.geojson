@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41100259",
+      "properties": {
+        "timestamp": "2009-11-25T11:03:31Z",
+        "version": 4,
+        "changeset": 3211159,
+        "amenity": "library",
+        "building": "yes",
+        "is_in": "UFRN",
+        "name": "Biblioteca Central Zila Mamede - BCZM",
+        "url": "http://www.bczm.ufrn.br/",
+        "id": "way/41100259"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.1993479,
+              -5.8394472
+            ],
+            [
+              -35.1993357,
+              -5.8402669
+            ],
+            [
+              -35.1990009,
+              -5.8402619
+            ],
+            [
+              -35.1990131,
+              -5.8394422
+            ],
+            [
+              -35.1993479,
+              -5.8394472
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

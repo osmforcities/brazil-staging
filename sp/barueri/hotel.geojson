@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/184049449",
+      "properties": {
+        "timestamp": "2007-12-23T00:30:43Z",
+        "version": 1,
+        "changeset": 400420,
+        "created_by": "Potlatch 0.5d",
+        "tourism": "hotel",
+        "id": "node/184049449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8400255,
+          -23.5057918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445662664",
+      "properties": {
+        "timestamp": "2009-07-22T17:19:41Z",
+        "version": 1,
+        "changeset": 1906569,
+        "tourism": "hotel",
+        "id": "node/445662664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8480326,
+          -23.4969844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445662683",
+      "properties": {
+        "timestamp": "2009-07-22T17:19:42Z",
+        "version": 1,
+        "changeset": 1906569,
+        "tourism": "hotel",
+        "id": "node/445662683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8476979,
+          -23.4925528
+        ]
+      }
+    }
+  ]
+}

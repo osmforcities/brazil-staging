@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/429667838",
+      "properties": {
+        "timestamp": "2009-06-27T01:49:54Z",
+        "version": 1,
+        "changeset": 1645546,
+        "name": "Hotel Praia do Sol",
+        "tourism": "hotel",
+        "id": "node/429667838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0258871,
+          -14.8188251
+        ]
+      }
+    }
+  ]
+}

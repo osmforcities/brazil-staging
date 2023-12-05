@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37935315",
+      "properties": {
+        "timestamp": "2009-07-22T12:21:46Z",
+        "version": 1,
+        "changeset": 1903895,
+        "leisure": "sports_centre",
+        "sport": "multi",
+        "id": "way/37935315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4012619,
+              -29.6368594
+            ],
+            [
+              -51.4012219,
+              -29.637197
+            ],
+            [
+              -51.4007478,
+              -29.6371407
+            ],
+            [
+              -51.4007879,
+              -29.6368031
+            ],
+            [
+              -51.4012619,
+              -29.6368594
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

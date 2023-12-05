@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/588236790",
+      "properties": {
+        "timestamp": "2009-12-13T04:48:34Z",
+        "version": 1,
+        "changeset": 3360428,
+        "amenity": "school",
+        "id": "node/588236790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2569001,
+          -16.7134662
+        ]
+      }
+    }
+  ]
+}

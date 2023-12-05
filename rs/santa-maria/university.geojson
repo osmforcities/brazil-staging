@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/429291747",
+      "properties": {
+        "timestamp": "2009-06-25T17:46:54Z",
+        "version": 1,
+        "changeset": 1624534,
+        "amenity": "university",
+        "name": "Universidade Federal de Santa Maria",
+        "id": "node/429291747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7169092,
+          -29.7206976
+        ]
+      }
+    }
+  ]
+}

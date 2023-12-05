@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/322765863",
+      "properties": {
+        "timestamp": "2008-12-29T11:01:36Z",
+        "version": 2,
+        "changeset": 655942,
+        "created_by": "Potlatch 0.10f",
+        "name": "Hotel Fagundes Varela",
+        "tourism": "hotel",
+        "id": "node/322765863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1143159,
+          -22.8999684
+        ]
+      }
+    }
+  ]
+}

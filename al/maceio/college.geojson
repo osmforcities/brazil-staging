@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37023447",
+      "properties": {
+        "timestamp": "2009-06-29T06:52:37Z",
+        "version": 1,
+        "changeset": 1673161,
+        "amenity": "college",
+        "name": "CESMAC",
+        "id": "way/37023447"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7378933,
+              -9.6556148
+            ],
+            [
+              -35.7376529,
+              -9.6562071
+            ],
+            [
+              -35.7369663,
+              -9.6559617
+            ],
+            [
+              -35.7372839,
+              -9.6553694
+            ],
+            [
+              -35.7378933,
+              -9.6556148
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

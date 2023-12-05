@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/476647445",
+      "properties": {
+        "timestamp": "2009-12-23T23:27:07Z",
+        "version": 2,
+        "changeset": 3438779,
+        "leisure": "stadium",
+        "name": "Estrelão",
+        "sport": "soccer",
+        "id": "node/476647445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1294693,
+          -30.0415654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598724557",
+      "properties": {
+        "timestamp": "2009-12-23T23:28:06Z",
+        "version": 1,
+        "changeset": 3438779,
+        "leisure": "pitch",
+        "name": "Campo da Figueira",
+        "sport": "soccer",
+        "id": "node/598724557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1223323,
+          -30.0433399
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24774751",
+      "properties": {
+        "timestamp": "2008-06-08T18:56:13Z",
+        "version": 1,
+        "changeset": 103790,
+        "created_by": "Potlatch 0.9c",
+        "waterway": "dam",
+        "id": "way/24774751"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.3885401,
+            -25.5339953
+          ],
+          [
+            -49.3934324,
+            -25.5290153
+          ],
+          [
+            -49.3939303,
+            -25.5283415
+          ]
+        ]
+      }
+    }
+  ]
+}

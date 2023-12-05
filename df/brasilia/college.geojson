@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41815928",
+      "properties": {
+        "timestamp": "2009-10-01T16:35:19Z",
+        "version": 1,
+        "changeset": 2701715,
+        "amenity": "college",
+        "name": "IESB Asa Norte",
+        "id": "way/41815928"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8785477,
+              -15.7571604
+            ],
+            [
+              -47.8783243,
+              -15.7579166
+            ],
+            [
+              -47.8767815,
+              -15.7574485
+            ],
+            [
+              -47.8770127,
+              -15.7566679
+            ],
+            [
+              -47.8785477,
+              -15.7571604
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

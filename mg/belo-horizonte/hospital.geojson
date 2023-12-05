@@ -1,0 +1,424 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/35300575",
+      "properties": {
+        "timestamp": "2007-11-08T11:28:00Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Evangélico",
+        "id": "node/35300575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9126355,
+          -19.938684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35300769",
+      "properties": {
+        "timestamp": "2007-08-20T14:46:54Z",
+        "version": 1,
+        "changeset": 234697,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital São Lucas",
+        "id": "node/35300769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9262119,
+          -19.9257319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35300770",
+      "properties": {
+        "timestamp": "2007-11-08T11:17:27Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "Potlatch alpha",
+        "name": "Hospital das Clínicas",
+        "id": "node/35300770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9280946,
+          -19.924069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35300772",
+      "properties": {
+        "timestamp": "2007-09-28T20:16:19Z",
+        "version": 1,
+        "changeset": 530711,
+        "amenity": "hospital",
+        "created_by": "Potlatch alpha",
+        "name": "Santa Casa",
+        "id": "node/35300772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9257928,
+          -19.9247289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35300773",
+      "properties": {
+        "timestamp": "2007-08-20T14:46:57Z",
+        "version": 1,
+        "changeset": 234697,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Lifecenter",
+        "id": "node/35300773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9246011,
+          -19.9352897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332683",
+      "properties": {
+        "timestamp": "2007-10-08T13:04:24Z",
+        "version": 3,
+        "changeset": 58516,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Odilon Behrens",
+        "id": "node/35332683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.947656,
+          -19.9036755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332684",
+      "properties": {
+        "timestamp": "2007-09-28T19:56:57Z",
+        "version": 1,
+        "changeset": 530711,
+        "amenity": "hospital",
+        "created_by": "Potlatch alpha",
+        "name": "Hospital Belo Horizonte",
+        "id": "node/35332684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9476882,
+          -19.896726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332685",
+      "properties": {
+        "timestamp": "2007-11-08T11:11:06Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Risoleta Tolentino Neves",
+        "id": "node/35332685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.948588,
+          -19.8175998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332686",
+      "properties": {
+        "timestamp": "2007-09-28T20:15:58Z",
+        "version": 1,
+        "changeset": 530711,
+        "amenity": "hospital",
+        "created_by": "Potlatch alpha",
+        "name": "Hospital Arapiara",
+        "id": "node/35332686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9204799,
+          -19.9218239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332687",
+      "properties": {
+        "timestamp": "2007-11-08T11:32:47Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Felício Rocho",
+        "id": "node/35332687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9569372,
+          -19.9221123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332688",
+      "properties": {
+        "timestamp": "2007-11-08T11:27:56Z",
+        "version": 3,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Mater Dei",
+        "id": "node/35332688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9500116,
+          -19.9278482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332689",
+      "properties": {
+        "timestamp": "2007-11-08T11:32:47Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Prontocor",
+        "id": "node/35332689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9517879,
+          -19.9179966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/35332690",
+      "properties": {
+        "timestamp": "2007-11-08T11:17:26Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "Potlatch alpha",
+        "name": "Hospital João XXIII",
+        "id": "node/35332690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9309635,
+          -19.9257698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/41416583",
+      "properties": {
+        "timestamp": "2007-09-28T20:16:04Z",
+        "version": 1,
+        "changeset": 530711,
+        "amenity": "hospital",
+        "created_by": "Potlatch alpha",
+        "name": "Hospital da Previdência - IPSEMG",
+        "id": "node/41416583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9311229,
+          -19.9234862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/53254282",
+      "properties": {
+        "timestamp": "2007-09-17T13:43:30Z",
+        "version": 1,
+        "changeset": 454165,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Semper",
+        "id": "node/53254282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9319894,
+          -19.9260406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/53254285",
+      "properties": {
+        "timestamp": "2007-11-08T11:17:27Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Centro Geral de Pediatria",
+        "id": "node/53254285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9314519,
+          -19.9248927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61785293",
+      "properties": {
+        "timestamp": "2007-10-09T16:10:33Z",
+        "version": 1,
+        "changeset": 70660,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital São Francisco",
+        "id": "node/61785293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9331454,
+          -19.9024895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/75600076",
+      "properties": {
+        "timestamp": "2007-10-16T18:50:19Z",
+        "version": 1,
+        "changeset": 209277,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Luxemburgo",
+        "id": "node/75600076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9590472,
+          -19.950582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/78719632",
+      "properties": {
+        "timestamp": "2007-11-08T11:27:59Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Madre Tereza",
+        "id": "node/78719632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9572758,
+          -19.9438455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/78719634",
+      "properties": {
+        "timestamp": "2007-11-08T11:32:48Z",
+        "version": 2,
+        "changeset": 437158,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Vera Cruz",
+        "id": "node/78719634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9528392,
+          -19.9239539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321530961",
+      "properties": {
+        "timestamp": "2008-12-24T23:37:02Z",
+        "version": 1,
+        "changeset": 604373,
+        "amenity": "hospital",
+        "created_by": "Merkaartor 0.12",
+        "id": "node/321530961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9571946,
+          -19.9230492
+        ]
+      }
+    }
+  ]
+}

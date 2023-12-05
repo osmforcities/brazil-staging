@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/38154905",
+      "properties": {
+        "timestamp": "2009-07-27T18:11:24Z",
+        "version": 1,
+        "changeset": 1957483,
+        "sport": "soccer",
+        "id": "way/38154905"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.2197143,
+            -29.6904628
+          ],
+          [
+            -51.218764,
+            -29.6905829
+          ],
+          [
+            -51.2189254,
+            -29.691547
+          ],
+          [
+            -51.2198757,
+            -29.691427
+          ],
+          [
+            -51.2197143,
+            -29.6904628
+          ]
+        ]
+      }
+    }
+  ]
+}

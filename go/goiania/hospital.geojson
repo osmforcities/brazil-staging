@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/588236075",
+      "properties": {
+        "timestamp": "2009-12-13T04:36:07Z",
+        "version": 1,
+        "changeset": 3360420,
+        "amenity": "hospital",
+        "name": "Hospital de Hurgências de Goiânia",
+        "id": "node/588236075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.255168,
+          -16.7091745
+        ]
+      }
+    }
+  ]
+}

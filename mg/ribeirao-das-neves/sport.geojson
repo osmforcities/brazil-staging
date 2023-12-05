@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28662539",
+      "properties": {
+        "timestamp": "2008-11-30T11:54:17Z",
+        "version": 2,
+        "changeset": 814349,
+        "highway": "road",
+        "leisure": "stadium",
+        "sport": "soccer",
+        "id": "way/28662539"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0889133,
+              -19.7642842
+            ],
+            [
+              -44.0884974,
+              -19.7648649
+            ],
+            [
+              -44.0876874,
+              -19.7642847
+            ],
+            [
+              -44.0881033,
+              -19.7637041
+            ],
+            [
+              -44.0889133,
+              -19.7642842
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

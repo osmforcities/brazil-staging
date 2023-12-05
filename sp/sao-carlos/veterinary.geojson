@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/492768990",
+      "properties": {
+        "timestamp": "2009-09-17T21:56:14Z",
+        "version": 3,
+        "changeset": 2517114,
+        "amenity": "veterinary",
+        "id": "node/492768990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8893532,
+          -22.0087677
+        ]
+      }
+    }
+  ]
+}

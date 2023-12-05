@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/43216082",
+      "properties": {
+        "timestamp": "2009-10-27T16:13:16Z",
+        "version": 1,
+        "changeset": 2966399,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Universitária",
+        "id": "way/43216082"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5194901,
+              -27.598864
+            ],
+            [
+              -48.5201551,
+              -27.5988225
+            ],
+            [
+              -48.5202156,
+              -27.5995834
+            ],
+            [
+              -48.5195506,
+              -27.5996249
+            ],
+            [
+              -48.5194901,
+              -27.598864
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/335419079",
+      "properties": {
+        "timestamp": "2009-01-22T17:07:00Z",
+        "version": 2,
+        "changeset": 826243,
+        "amenity": "doctors",
+        "id": "node/335419079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1104317,
+          -22.9032861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/335419101",
+      "properties": {
+        "timestamp": "2009-07-30T04:36:14Z",
+        "version": 5,
+        "changeset": 1980976,
+        "addr:housenumber": "185",
+        "addr:street": "Rua Presidente Backer",
+        "amenity": "doctors",
+        "name": "Dental Express",
+        "id": "node/335419101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1097313,
+          -22.9029672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448775216",
+      "properties": {
+        "timestamp": "2009-07-30T15:20:54Z",
+        "version": 2,
+        "changeset": 1985580,
+        "addr:postcode": "24220-031",
+        "addr:street": "Rua General Pereira da Silva",
+        "amenity": "doctors",
+        "name": "Oftalmos Reunidos",
+        "id": "node/448775216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1108197,
+          -22.902419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448777827",
+      "properties": {
+        "timestamp": "2009-07-27T01:03:45Z",
+        "version": 2,
+        "changeset": 1950653,
+        "addr:housenumber": "186",
+        "amenity": "doctors",
+        "name": "Otorrinos Reunidos",
+        "id": "node/448777827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1086158,
+          -22.9034883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654214",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:16Z",
+        "version": 1,
+        "changeset": 1998374,
+        "addr:postcode": "24230-263",
+        "addr:street": "Rua Coronel Moreira César",
+        "amenity": "doctors",
+        "name": "Saddy Diagnósticos",
+        "id": "node/452654214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1107518,
+          -22.9068768
+        ]
+      }
+    }
+  ]
+}

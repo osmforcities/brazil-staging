@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/321510735",
+      "properties": {
+        "timestamp": "2008-12-24T18:57:41Z",
+        "version": 1,
+        "changeset": 585562,
+        "amenity": "hospital",
+        "created_by": "Merkaartor 0.12",
+        "name": "Posto de Saúde Bernardo Monteiro",
+        "id": "node/321510735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0815901,
+          -19.9321119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321529901",
+      "properties": {
+        "timestamp": "2008-12-24T23:25:58Z",
+        "version": 1,
+        "changeset": 604373,
+        "amenity": "hospital",
+        "created_by": "Merkaartor 0.12",
+        "name": "Hospital Municipal",
+        "id": "node/321529901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0611141,
+          -19.9364237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453229829",
+      "properties": {
+        "timestamp": "2009-08-24T18:33:51Z",
+        "version": 2,
+        "changeset": 2247483,
+        "amenity": "hospital",
+        "name": "Iria Diniz",
+        "id": "node/453229829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0470889,
+          -19.9398175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453234829",
+      "properties": {
+        "timestamp": "2009-08-01T16:38:46Z",
+        "version": 1,
+        "changeset": 2005119,
+        "amenity": "hospital",
+        "name": "Hospital Santa Helena",
+        "id": "node/453234829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0441197,
+          -19.9398351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453686209",
+      "properties": {
+        "timestamp": "2009-09-19T17:09:14Z",
+        "version": 2,
+        "changeset": 2536180,
+        "amenity": "hospital",
+        "name": "Pronto Socorro Unimed",
+        "id": "node/453686209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0259611,
+          -19.9490305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453690483",
+      "properties": {
+        "timestamp": "2009-08-01T23:37:56Z",
+        "version": 1,
+        "changeset": 2008758,
+        "amenity": "hospital",
+        "name": "Hospital São José",
+        "id": "node/453690483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0150767,
+          -19.9654834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453690501",
+      "properties": {
+        "timestamp": "2009-08-01T23:37:56Z",
+        "version": 1,
+        "changeset": 2008758,
+        "amenity": "hospital",
+        "name": "Hospital Santa Rita",
+        "id": "node/453690501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0148246,
+          -19.9659574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469480769",
+      "properties": {
+        "timestamp": "2009-08-16T23:45:10Z",
+        "version": 1,
+        "changeset": 2172144,
+        "amenity": "hospital",
+        "id": "node/469480769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0298557,
+          -19.9425381
+        ]
+      }
+    }
+  ]
+}

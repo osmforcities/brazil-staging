@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/43226306",
+      "properties": {
+        "timestamp": "2009-10-27T23:26:20Z",
+        "version": 2,
+        "changeset": 2970003,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "name": "Farmácia SESI",
+        "id": "way/43226306"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5194681,
+              -27.5983371
+            ],
+            [
+              -48.5193201,
+              -27.5982021
+            ],
+            [
+              -48.5194768,
+              -27.5980671
+            ],
+            [
+              -48.5196248,
+              -27.5982021
+            ],
+            [
+              -48.5194681,
+              -27.5983371
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

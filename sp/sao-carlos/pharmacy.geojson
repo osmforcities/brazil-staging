@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/492136303",
+      "properties": {
+        "timestamp": "2009-09-11T02:31:12Z",
+        "version": 3,
+        "changeset": 2442264,
+        "amenity": "pharmacy",
+        "id": "node/492136303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8910506,
+          -22.0124431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/492767998",
+      "properties": {
+        "timestamp": "2009-09-22T00:05:09Z",
+        "version": 4,
+        "changeset": 2563579,
+        "amenity": "pharmacy",
+        "id": "node/492767998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8905099,
+          -22.0166684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/498578560",
+      "properties": {
+        "timestamp": "2009-09-16T23:49:34Z",
+        "version": 1,
+        "changeset": 2507576,
+        "amenity": "pharmacy",
+        "name": "Rosário",
+        "id": "node/498578560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.896955,
+          -22.0115878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/499609661",
+      "properties": {
+        "timestamp": "2009-09-17T21:56:52Z",
+        "version": 1,
+        "changeset": 2517114,
+        "amenity": "pharmacy",
+        "id": "node/499609661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8900055,
+          -22.0106695
+        ]
+      }
+    }
+  ]
+}

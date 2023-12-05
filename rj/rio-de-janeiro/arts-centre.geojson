@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/416165998",
+      "properties": {
+        "timestamp": "2009-06-07T15:12:48Z",
+        "version": 2,
+        "changeset": 1448630,
+        "amenity": "arts_centre",
+        "name": "Centro Cultural João XXIII",
+        "id": "node/416165998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1854845,
+          -22.9474953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416979584",
+      "properties": {
+        "timestamp": "2009-06-07T15:34:40Z",
+        "version": 1,
+        "changeset": 1448899,
+        "amenity": "arts_centre",
+        "name": "Centro Cultural Veneza",
+        "id": "node/416979584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1759341,
+          -22.9508827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/553450417",
+      "properties": {
+        "timestamp": "2009-11-03T21:52:40Z",
+        "version": 1,
+        "changeset": 3028739,
+        "amenity": "arts_centre",
+        "name": "Centro Cultural Justiça Federal",
+        "id": "node/553450417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1751166,
+          -22.9105521
+        ]
+      }
+    }
+  ]
+}

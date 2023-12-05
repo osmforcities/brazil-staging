@@ -1,0 +1,438 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37334977",
+      "properties": {
+        "timestamp": "2009-07-06T12:18:00Z",
+        "version": 1,
+        "changeset": 1752006,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/37334977"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4791951,
+              -29.6872969
+            ],
+            [
+              -51.4797683,
+              -29.6882426
+            ],
+            [
+              -51.4791593,
+              -29.6885865
+            ],
+            [
+              -51.4786005,
+              -29.6875978
+            ],
+            [
+              -51.4791951,
+              -29.6872969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37935338",
+      "properties": {
+        "timestamp": "2009-07-22T12:21:48Z",
+        "version": 1,
+        "changeset": 1903895,
+        "leisure": "stadium",
+        "name": "ARCA",
+        "sport": "soccer",
+        "id": "way/37935338"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4516682,
+              -29.6685753
+            ],
+            [
+              -51.4511678,
+              -29.669418
+            ],
+            [
+              -51.4506824,
+              -29.6691297
+            ],
+            [
+              -51.4511829,
+              -29.6682871
+            ],
+            [
+              -51.4516682,
+              -29.6685753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39599081",
+      "properties": {
+        "timestamp": "2009-08-26T18:44:08Z",
+        "version": 1,
+        "changeset": 2270034,
+        "leisure": "sports_centre",
+        "name": "Ginásio Domingos dos Santos",
+        "sport": "multi",
+        "id": "way/39599081"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4569401,
+              -29.6705764
+            ],
+            [
+              -51.4569788,
+              -29.670885
+            ],
+            [
+              -51.4566174,
+              -29.6709192
+            ],
+            [
+              -51.4565787,
+              -29.6706106
+            ],
+            [
+              -51.4569401,
+              -29.6705764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39599082",
+      "properties": {
+        "timestamp": "2009-08-26T18:44:08Z",
+        "version": 1,
+        "changeset": 2270034,
+        "leisure": "pitch",
+        "sport": "basketball",
+        "id": "way/39599082"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4552684,
+              -29.6699046
+            ],
+            [
+              -51.4550526,
+              -29.66992
+            ],
+            [
+              -51.4550287,
+              -29.6696672
+            ],
+            [
+              -51.4552445,
+              -29.6696518
+            ],
+            [
+              -51.4552684,
+              -29.6699046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39599084",
+      "properties": {
+        "timestamp": "2009-08-26T18:44:09Z",
+        "version": 1,
+        "changeset": 2270034,
+        "leisure": "sports_centre",
+        "name": "Azulão",
+        "sport": "multi",
+        "id": "way/39599084"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4581859,
+              -29.6704278
+            ],
+            [
+              -51.4585756,
+              -29.6706008
+            ],
+            [
+              -51.4583836,
+              -29.6709274
+            ],
+            [
+              -51.4579939,
+              -29.6707543
+            ],
+            [
+              -51.4581859,
+              -29.6704278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39599086",
+      "properties": {
+        "timestamp": "2009-08-26T18:44:09Z",
+        "version": 1,
+        "changeset": 2270034,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/39599086"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4555871,
+              -29.670224
+            ],
+            [
+              -51.4553564,
+              -29.6701443
+            ],
+            [
+              -51.4554964,
+              -29.6698386
+            ],
+            [
+              -51.4557271,
+              -29.6699184
+            ],
+            [
+              -51.4555871,
+              -29.670224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39599087",
+      "properties": {
+        "timestamp": "2009-08-26T18:44:09Z",
+        "version": 1,
+        "changeset": 2270034,
+        "leisure": "pitch",
+        "sport": "basketball",
+        "id": "way/39599087"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4551131,
+              -29.670206
+            ],
+            [
+              -51.454934,
+              -29.6702256
+            ],
+            [
+              -51.4549004,
+              -29.6699931
+            ],
+            [
+              -51.4550795,
+              -29.6699736
+            ],
+            [
+              -51.4551131,
+              -29.670206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39600262",
+      "properties": {
+        "timestamp": "2009-08-26T19:13:02Z",
+        "version": 1,
+        "changeset": 2270353,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/39600262"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5541112,
+              -29.6558794
+            ],
+            [
+              -51.5538971,
+              -29.6557892
+            ],
+            [
+              -51.5541277,
+              -29.6553761
+            ],
+            [
+              -51.5543418,
+              -29.6554663
+            ],
+            [
+              -51.5541112,
+              -29.6558794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38234981",
+      "properties": {
+        "timestamp": "2009-07-29T12:20:14Z",
+        "version": 1,
+        "changeset": 1974672,
+        "sport": "soccer",
+        "id": "way/38234981"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.4567835,
+            -29.7040893
+          ],
+          [
+            -51.4558511,
+            -29.7044701
+          ],
+          [
+            -51.4560365,
+            -29.7049241
+          ],
+          [
+            -51.456969,
+            -29.7045433
+          ],
+          [
+            -51.4567835,
+            -29.7040893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39599083",
+      "properties": {
+        "timestamp": "2009-08-26T18:44:08Z",
+        "version": 1,
+        "changeset": 2270034,
+        "sport": "soccer",
+        "id": "way/39599083"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.4557432,
+            -29.6698442
+          ],
+          [
+            -51.4555523,
+            -29.6697916
+          ],
+          [
+            -51.4555795,
+            -29.6697173
+          ],
+          [
+            -51.4557704,
+            -29.6697699
+          ],
+          [
+            -51.4557432,
+            -29.6698442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/567072727",
+      "properties": {
+        "timestamp": "2009-12-16T16:34:44Z",
+        "version": 3,
+        "changeset": 3387879,
+        "addr:housenumber": "861",
+        "addr:street": "Rua Buarque de Macedo",
+        "leisure": "sports_centre",
+        "name": "Academia Equilíbrio",
+        "sport": "gymnastics",
+        "website": "http://www.acequilibrio.com.br/",
+        "id": "node/567072727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4570092,
+          -29.6773105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571098001",
+      "properties": {
+        "timestamp": "2009-11-25T16:51:55Z",
+        "version": 1,
+        "changeset": 3213872,
+        "addr:city": "Montenegro",
+        "addr:housenumber": "455",
+        "addr:street": "Rua Campos Neto",
+        "leisure": "sports_centre",
+        "name": "SESI Montenegro",
+        "sport": "multi",
+        "id": "node/571098001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4901199,
+          -29.6977187
+        ]
+      }
+    }
+  ]
+}

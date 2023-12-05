@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/370205739",
+      "properties": {
+        "timestamp": "2009-04-06T00:15:32Z",
+        "version": 1,
+        "changeset": 257471,
+        "amenity": "hospital",
+        "name": "Hospital Adventista de Belém",
+        "id": "node/370205739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4571235,
+          -1.4351908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204836",
+      "properties": {
+        "timestamp": "2009-09-22T14:35:58Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "hospital",
+        "name": "Beneficente Portuguesa",
+        "id": "node/505204836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4829433,
+          -1.4479952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204837",
+      "properties": {
+        "timestamp": "2009-09-22T14:35:58Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "hospital",
+        "name": "Unimed",
+        "id": "node/505204837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4919126,
+          -1.4424866
+        ]
+      }
+    }
+  ]
+}

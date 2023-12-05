@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/315623344",
+      "properties": {
+        "timestamp": "2008-11-29T22:14:25Z",
+        "version": 1,
+        "changeset": 811444,
+        "name": "Radison SAS Hotel",
+        "tourism": "hotel",
+        "id": "node/315623344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2930711,
+          -20.3058919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/532822354",
+      "properties": {
+        "timestamp": "2009-10-25T13:03:10Z",
+        "version": 2,
+        "changeset": 2945994,
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Hotel Minuano",
+        "tourism": "hotel",
+        "id": "node/532822354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2906435,
+          -20.2910644
+        ]
+      }
+    }
+  ]
+}

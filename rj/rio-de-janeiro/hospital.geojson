@@ -1,0 +1,461 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/38596343",
+      "properties": {
+        "timestamp": "2009-08-05T23:48:18Z",
+        "version": 2,
+        "changeset": 2051249,
+        "addr:housenumber": "745",
+        "addr:street": "Estrada da Cacuia",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Hospital Municipal Paulino Werneck",
+        "id": "way/38596343"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1849127,
+              -22.8107105
+            ],
+            [
+              -43.184917,
+              -22.8107733
+            ],
+            [
+              -43.1849213,
+              -22.8108371
+            ],
+            [
+              -43.1842175,
+              -22.8110744
+            ],
+            [
+              -43.1841831,
+              -22.8109716
+            ],
+            [
+              -43.1849127,
+              -22.8107105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331107838",
+      "properties": {
+        "timestamp": "2009-02-10T04:34:10Z",
+        "version": 2,
+        "changeset": 319830,
+        "amenity": "hospital",
+        "created_by": "Potlatch 0.10f",
+        "name": "Instituto Nacional de Cardiologia",
+        "id": "node/331107838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1903737,
+          -22.9367065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344023732",
+      "properties": {
+        "timestamp": "2009-02-10T06:12:55Z",
+        "version": 1,
+        "changeset": 319830,
+        "amenity": "hospital",
+        "created_by": "Potlatch 0.10f",
+        "name": "Instituto Estadual de Cardiologia Aloysio de Castro",
+        "url": "http://www.governo.rj.gov.br/indice.asp?orgao=422",
+        "id": "node/344023732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1995077,
+          -22.9530371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415797968",
+      "properties": {
+        "timestamp": "2009-07-29T18:33:31Z",
+        "version": 2,
+        "changeset": 1977802,
+        "amenity": "hospital",
+        "name": "Rocha Maia",
+        "id": "node/415797968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1770168,
+          -22.9531459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416969462",
+      "properties": {
+        "timestamp": "2009-06-07T15:34:40Z",
+        "version": 2,
+        "changeset": 1448899,
+        "amenity": "hospital",
+        "name": "Policlínica de Botafogo",
+        "id": "node/416969462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1787214,
+          -22.9505178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418044496",
+      "properties": {
+        "timestamp": "2009-10-09T15:33:58Z",
+        "version": 2,
+        "changeset": 2794690,
+        "amenity": "hospital",
+        "name": "Unidade de Pronto Atendimento - Botafogo",
+        "id": "node/418044496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1844228,
+          -22.9498516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448816560",
+      "properties": {
+        "timestamp": "2009-07-29T16:52:56Z",
+        "version": 3,
+        "changeset": 1976950,
+        "amenity": "hospital",
+        "name": "Cruz Vermelha",
+        "source": "survey",
+        "id": "node/448816560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1879138,
+          -22.9114794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448816561",
+      "properties": {
+        "timestamp": "2009-07-29T15:15:12Z",
+        "version": 2,
+        "changeset": 1976177,
+        "amenity": "hospital",
+        "name": "Instituto Nacional do Câncer",
+        "source": "survey",
+        "url": "http://www.inca.gov.br/",
+        "id": "node/448816561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1886176,
+          -22.9125151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450799288",
+      "properties": {
+        "timestamp": "2009-07-29T16:52:52Z",
+        "version": 1,
+        "changeset": 1976950,
+        "amenity": "hospital",
+        "name": "Hospital Espanhol",
+        "source": "survey",
+        "id": "node/450799288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1907267,
+          -22.9132788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457273332",
+      "properties": {
+        "timestamp": "2009-08-06T00:42:45Z",
+        "version": 2,
+        "changeset": 2051438,
+        "barrier": "entrance",
+        "bicycle": "no",
+        "foot": "yes",
+        "id": "node/457273332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.184917,
+          -22.8107733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461805311",
+      "properties": {
+        "timestamp": "2009-08-11T15:56:12Z",
+        "version": 1,
+        "changeset": 2109158,
+        "amenity": "hospital",
+        "name": "Maternidade Escola da UFRJ",
+        "id": "node/461805311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1857927,
+          -22.9332409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496189120",
+      "properties": {
+        "timestamp": "2009-09-14T16:33:04Z",
+        "version": 1,
+        "changeset": 2482604,
+        "amenity": "hospital",
+        "name": "Hospital Jesus",
+        "id": "node/496189120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2424101,
+          -22.9109579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496189145",
+      "properties": {
+        "timestamp": "2009-09-25T03:34:47Z",
+        "version": 2,
+        "changeset": 2611560,
+        "amenity": "hospital",
+        "name": "Clínicas Integradas",
+        "id": "node/496189145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2424023,
+          -22.9167845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496497349",
+      "properties": {
+        "timestamp": "2009-09-14T22:20:30Z",
+        "version": 1,
+        "changeset": 2486921,
+        "amenity": "hospital",
+        "name": "Casa Santa Ana",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "working_hours": "Mo-Fr 08:00-13:00",
+        "id": "node/496497349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.366058,
+          -22.9502944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506849956",
+      "properties": {
+        "timestamp": "2009-09-24T23:45:08Z",
+        "version": 1,
+        "changeset": 2610951,
+        "amenity": "hospital",
+        "id": "node/506849956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177855,
+          -22.9636347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506849957",
+      "properties": {
+        "timestamp": "2009-09-24T23:45:08Z",
+        "version": 1,
+        "changeset": 2610951,
+        "amenity": "hospital",
+        "id": "node/506849957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1768765,
+          -22.9630657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506849960",
+      "properties": {
+        "timestamp": "2009-09-24T23:45:10Z",
+        "version": 1,
+        "changeset": 2610951,
+        "amenity": "hospital",
+        "name": "Hospital Galdino Campos",
+        "id": "node/506849960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1834769,
+          -22.9681155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/548919020",
+      "properties": {
+        "timestamp": "2009-10-31T16:09:46Z",
+        "version": 1,
+        "changeset": 2998736,
+        "amenity": "hospital",
+        "name": "Hospital de Clínicas IV Centenário Rio de Janeiro",
+        "id": "node/548919020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1919774,
+          -22.9271159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557945",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:07Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "hospital",
+        "name": "Miguel Couto",
+        "id": "node/557557945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2240924,
+          -22.977639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645209",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:22Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "hospital",
+        "name": "Hospital Português",
+        "id": "node/559645209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1911037,
+          -22.9127717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569884557",
+      "properties": {
+        "timestamp": "2009-11-24T02:53:20Z",
+        "version": 1,
+        "changeset": 3201438,
+        "addr:housenumber": "831",
+        "addr:street": "Rua Equador",
+        "amenity": "hospital",
+        "name": "Mathilde Rodrigues Von DellinGer da Graça",
+        "id": "node/569884557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2079729,
+          -22.8999168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583012158",
+      "properties": {
+        "timestamp": "2009-12-07T21:56:02Z",
+        "version": 1,
+        "changeset": 3320091,
+        "amenity": "hospital",
+        "name": "Lourenço Jorge",
+        "id": "node/583012158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3643057,
+          -22.994976
+        ]
+      }
+    }
+  ]
+}

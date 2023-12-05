@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30389290",
+      "properties": {
+        "timestamp": "2009-07-30T15:20:55Z",
+        "version": 5,
+        "changeset": 1985580,
+        "addr:housenumber": "190",
+        "addr:postcode": "24220-031",
+        "addr:street": "Rua General Pereira da Silva",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "Geo - Reabilitação Oral",
+        "id": "way/30389290"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1104516,
+              -22.9020671
+            ],
+            [
+              -43.1105385,
+              -22.9021415
+            ],
+            [
+              -43.1104087,
+              -22.9022853
+            ],
+            [
+              -43.1103234,
+              -22.9022061
+            ],
+            [
+              -43.1104516,
+              -22.9020671
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

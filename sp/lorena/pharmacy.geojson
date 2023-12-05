@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/533915662",
+      "properties": {
+        "timestamp": "2009-10-16T20:19:52Z",
+        "version": 1,
+        "changeset": 2868022,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "id": "node/533915662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.1068239,
+          -22.7496329
+        ]
+      }
+    }
+  ]
+}

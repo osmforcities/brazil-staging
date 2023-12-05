@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/441247811",
+      "properties": {
+        "timestamp": "2009-11-11T12:52:13Z",
+        "version": 2,
+        "changeset": 3089793,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Agafarma",
+        "id": "node/441247811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5934901,
+          -29.5556803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441247813",
+      "properties": {
+        "timestamp": "2009-11-11T12:52:12Z",
+        "version": 3,
+        "changeset": 3089793,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmavida",
+        "id": "node/441247813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5946162,
+          -29.5546597
+        ]
+      }
+    }
+  ]
+}

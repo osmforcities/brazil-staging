@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/320978291",
+      "properties": {
+        "timestamp": "2008-12-22T20:58:49Z",
+        "version": 1,
+        "changeset": 552206,
+        "amenity": "hospital",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/320978291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1155991,
+          -22.8946188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654165",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:15Z",
+        "version": 1,
+        "changeset": 1998374,
+        "addr:street": "Rua Governador Roberto Silveira",
+        "amenity": "hospital",
+        "name": "Centro Hospitalar São Lucas",
+        "id": "node/452654165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.108965,
+          -22.9008785
+        ]
+      }
+    }
+  ]
+}

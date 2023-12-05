@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/460199365",
+      "properties": {
+        "timestamp": "2009-08-10T01:25:46Z",
+        "version": 1,
+        "changeset": 2092113,
+        "amenity": "cinema",
+        "name": "Espaço Unibanco - shopping Miramar",
+        "id": "node/460199365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3344149,
+          -23.9671453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460200523",
+      "properties": {
+        "timestamp": "2009-08-10T01:30:36Z",
+        "version": 1,
+        "changeset": 2092113,
+        "amenity": "cinema",
+        "name": "Cine Roxy",
+        "id": "node/460200523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3322606,
+          -23.9639923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460204231",
+      "properties": {
+        "timestamp": "2009-08-10T02:09:35Z",
+        "version": 1,
+        "changeset": 2092113,
+        "amenity": "cinema",
+        "name": "Posto 4 Cine Arte",
+        "id": "node/460204231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.330192,
+          -23.9706432
+        ]
+      }
+    }
+  ]
+}

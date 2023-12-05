@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/259796163",
+      "properties": {
+        "timestamp": "2008-05-06T15:29:20Z",
+        "version": 5,
+        "changeset": 347221,
+        "created_by": "JOSM",
+        "name": "Solar do Caeté",
+        "tourism": "hotel",
+        "id": "node/259796163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7624438,
+          -1.0572828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796165",
+      "properties": {
+        "timestamp": "2008-04-29T16:59:23Z",
+        "version": 3,
+        "changeset": 287746,
+        "created_by": "JOSM",
+        "name": "Aruans",
+        "tourism": "hotel",
+        "id": "node/259796165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7633948,
+          -1.0565336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796166",
+      "properties": {
+        "timestamp": "2008-05-26T13:01:02Z",
+        "version": 2,
+        "changeset": 527839,
+        "created_by": "JOSM",
+        "name": "Delta",
+        "tourism": "hotel",
+        "id": "node/259796166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7642715,
+          -1.0573283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796167",
+      "properties": {
+        "timestamp": "2008-05-26T13:00:59Z",
+        "version": 2,
+        "changeset": 527839,
+        "created_by": "JOSM",
+        "name": "Bragança Palace Hotel",
+        "tourism": "hotel",
+        "id": "node/259796167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7650311,
+          -1.0548139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796169",
+      "properties": {
+        "timestamp": "2008-05-07T19:43:22Z",
+        "version": 3,
+        "changeset": 359446,
+        "created_by": "JOSM",
+        "name": "Marujo's Suite Hotel",
+        "tourism": "hotel",
+        "id": "node/259796169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7675526,
+          -1.0559409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796170",
+      "properties": {
+        "timestamp": "2009-06-17T02:05:17Z",
+        "version": 5,
+        "changeset": 1540888,
+        "created_by": "JOSM",
+        "name": "Hotel Millenyum",
+        "tourism": "hotel",
+        "id": "node/259796170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7682986,
+          -1.0591565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/260585942",
+      "properties": {
+        "timestamp": "2008-05-02T19:53:38Z",
+        "version": 3,
+        "changeset": 310936,
+        "created_by": "JOSM",
+        "name": "Lucian Apart Hotel",
+        "tourism": "hotel",
+        "id": "node/260585942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7658835,
+          -1.0580481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/422345144",
+      "properties": {
+        "timestamp": "2009-06-17T02:05:17Z",
+        "version": 1,
+        "changeset": 1540888,
+        "name": "Nova Era",
+        "tourism": "hotel",
+        "id": "node/422345144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7682816,
+          -1.0592404
+        ]
+      }
+    }
+  ]
+}

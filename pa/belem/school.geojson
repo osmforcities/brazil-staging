@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/505204840",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:00Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "school",
+        "name": "FAP",
+        "id": "node/505204840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.491801,
+          -1.4413969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204866",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:04Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "school",
+        "name": "FACI",
+        "id": "node/505204866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4929254,
+          -1.4417831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204874",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:05Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "school",
+        "name": "Esamaz",
+        "id": "node/505204874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4934404,
+          -1.444177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505204961",
+      "properties": {
+        "timestamp": "2009-09-22T14:36:12Z",
+        "version": 1,
+        "changeset": 2569603,
+        "amenity": "school",
+        "name": "Instituto Dom Bosco",
+        "id": "node/505204961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4923933,
+          -1.4483985
+        ]
+      }
+    }
+  ]
+}

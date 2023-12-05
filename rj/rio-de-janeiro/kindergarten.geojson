@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/415826502",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:12Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "79",
+        "addr:street": "Rua Ramon Franco",
+        "amenity": "kindergarten",
+        "name": "Centro Educacional da Urca",
+        "url": "http://www.ceurca.com.br",
+        "id": "node/415826502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.167844,
+          -22.9522423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495249865",
+      "properties": {
+        "timestamp": "2009-09-13T15:31:55Z",
+        "version": 1,
+        "changeset": 2470009,
+        "addr:housenumber": "21",
+        "addr:street": "Rua B",
+        "amenity": "kindergarten",
+        "name": "Creche Luzes do Amanhã",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/495249865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3652366,
+          -22.9528163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558550",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:33Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "kindergarten",
+        "name": "Criativa",
+        "id": "node/557558550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1922493,
+          -22.9647185
+        ]
+      }
+    }
+  ]
+}

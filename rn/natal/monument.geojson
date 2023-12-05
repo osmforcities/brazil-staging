@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/505404603",
+      "properties": {
+        "timestamp": "2009-09-22T18:02:00Z",
+        "version": 1,
+        "changeset": 2573760,
+        "historic": "monument",
+        "name": "Árvore de Natal Gigante",
+        "id": "node/505404603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2075073,
+          -5.8462603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/568830900",
+      "properties": {
+        "timestamp": "2009-11-22T23:10:14Z",
+        "version": 1,
+        "changeset": 3191898,
+        "historic": "monument",
+        "name": "Arco do Sol",
+        "id": "node/568830900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.184108,
+          -5.8663449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/568830907",
+      "properties": {
+        "timestamp": "2009-11-22T23:10:15Z",
+        "version": 1,
+        "changeset": 3191898,
+        "historic": "monument",
+        "id": "node/568830907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.210802,
+          -5.8383227
+        ]
+      }
+    }
+  ]
+}

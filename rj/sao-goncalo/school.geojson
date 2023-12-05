@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/33161095",
+      "properties": {
+        "timestamp": "2009-04-14T04:01:22Z",
+        "version": 3,
+        "changeset": 518243,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Municipal Estefânia de Carvalho",
+        "id": "way/33161095"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.9876624,
+              -22.8073459
+            ],
+            [
+              -42.9884434,
+              -22.8077099
+            ],
+            [
+              -42.9881001,
+              -22.8082875
+            ],
+            [
+              -42.9871388,
+              -22.8078523
+            ],
+            [
+              -42.9876624,
+              -22.8073459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33161238",
+      "properties": {
+        "timestamp": "2009-04-14T03:52:35Z",
+        "version": 1,
+        "changeset": 518243,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Batista de Laranjal",
+        "id": "way/33161238"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.9853363,
+              -22.806531
+            ],
+            [
+              -42.9859972,
+              -22.8066339
+            ],
+            [
+              -42.9857312,
+              -22.8071956
+            ],
+            [
+              -42.9851561,
+              -22.8068791
+            ],
+            [
+              -42.9853363,
+              -22.806531
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

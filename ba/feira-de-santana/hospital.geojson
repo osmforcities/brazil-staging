@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/585189900",
+      "properties": {
+        "timestamp": "2009-12-10T15:17:41Z",
+        "version": 1,
+        "changeset": 3342440,
+        "amenity": "hospital",
+        "name": "Hospital da Mulher",
+        "id": "node/585189900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9785283,
+          -12.2417176
+        ]
+      }
+    }
+  ]
+}

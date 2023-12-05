@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/34380442",
+      "properties": {
+        "timestamp": "2009-05-12T13:49:21Z",
+        "version": 2,
+        "changeset": 1163930,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Conjunto das Quimicas",
+        "id": "way/34380442"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.727023,
+              -23.5657249
+            ],
+            [
+              -46.7262419,
+              -23.5660868
+            ],
+            [
+              -46.7259845,
+              -23.5655755
+            ],
+            [
+              -46.7267998,
+              -23.5652372
+            ],
+            [
+              -46.727023,
+              -23.5657249
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

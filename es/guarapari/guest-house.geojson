@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/378464695",
+      "properties": {
+        "timestamp": "2009-04-16T23:49:28Z",
+        "version": 1,
+        "changeset": 596933,
+        "name": "Pousada Diamantina",
+        "tourism": "guest_house",
+        "id": "node/378464695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4763502,
+          -20.651298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479222275",
+      "properties": {
+        "timestamp": "2009-08-31T18:53:35Z",
+        "version": 1,
+        "changeset": 2329148,
+        "name": "Pousada Mar e Mata",
+        "tourism": "guest_house",
+        "id": "node/479222275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4776901,
+          -20.6492393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/532814212",
+      "properties": {
+        "timestamp": "2009-10-16T03:40:33Z",
+        "version": 1,
+        "changeset": 2860499,
+        "amenity": "brothel",
+        "name": "Casa Blanca",
+        "tourism": "guest_house",
+        "id": "node/532814212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5557092,
+          -20.7441808
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/534252248",
+      "properties": {
+        "timestamp": "2009-10-17T14:05:52Z",
+        "version": 1,
+        "changeset": 2873758,
+        "name": "Pousada Carolina",
+        "stars": "2",
+        "tourism": "hotel",
+        "id": "node/534252248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3632778,
+          -23.8114115
+        ]
+      }
+    }
+  ]
+}

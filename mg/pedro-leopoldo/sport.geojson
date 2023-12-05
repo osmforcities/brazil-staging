@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23721174",
+      "properties": {
+        "timestamp": "2008-04-19T19:48:51Z",
+        "version": 2,
+        "changeset": 189418,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/23721174"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0424801,
+              -19.6278103
+            ],
+            [
+              -44.041937,
+              -19.6274443
+            ],
+            [
+              -44.0424762,
+              -19.6267083
+            ],
+            [
+              -44.0430114,
+              -19.6270744
+            ],
+            [
+              -44.0424801,
+              -19.6278103
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

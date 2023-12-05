@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/313552629",
+      "properties": {
+        "timestamp": "2008-11-26T19:28:58Z",
+        "version": 3,
+        "changeset": 796518,
+        "amenity": "school",
+        "name": "Americano Batista",
+        "id": "node/313552629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5029473,
+          -20.6730009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315623565",
+      "properties": {
+        "timestamp": "2008-11-29T22:15:07Z",
+        "version": 1,
+        "changeset": 811444,
+        "amenity": "school",
+        "id": "node/315623565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5075492,
+          -20.6637592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315623581",
+      "properties": {
+        "timestamp": "2009-05-19T20:08:25Z",
+        "version": 3,
+        "changeset": 1253487,
+        "alt_name": "Escola de 2° Grau Guarapari",
+        "amenity": "school",
+        "name": "EEEM Guarapari",
+        "id": "node/315623581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4973598,
+          -20.6709165
+        ]
+      }
+    }
+  ]
+}

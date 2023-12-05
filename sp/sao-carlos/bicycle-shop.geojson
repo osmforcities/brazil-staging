@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/494239422",
+      "properties": {
+        "timestamp": "2009-09-12T16:12:49Z",
+        "version": 1,
+        "changeset": 2458952,
+        "name": "Ciclo pedal",
+        "shop": "bicycle",
+        "id": "node/494239422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8810131,
+          -22.0211742
+        ]
+      }
+    }
+  ]
+}

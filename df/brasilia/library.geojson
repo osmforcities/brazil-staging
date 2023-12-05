@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/42404482",
+      "properties": {
+        "timestamp": "2009-10-12T12:22:36Z",
+        "version": 1,
+        "changeset": 2824896,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Central da UnB",
+        "id": "way/42404482"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8684685,
+              -15.7611686
+            ],
+            [
+              -47.8682269,
+              -15.7615311
+            ],
+            [
+              -47.8672239,
+              -15.7608363
+            ],
+            [
+              -47.8674716,
+              -15.7604979
+            ],
+            [
+              -47.8684685,
+              -15.7611686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43376766",
+      "properties": {
+        "timestamp": "2009-10-30T13:54:51Z",
+        "version": 2,
+        "changeset": 2989282,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Demonstrativa de Brasília",
+        "opening_hours": "Seg-sex 7h30 às 23h;Sáb 8h às 14h",
+        "id": "way/43376766"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9030271,
+              -15.8103695
+            ],
+            [
+              -47.9028653,
+              -15.8105584
+            ],
+            [
+              -47.9025921,
+              -15.810356
+            ],
+            [
+              -47.9027675,
+              -15.8101739
+            ],
+            [
+              -47.9030271,
+              -15.8103695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599789781",
+      "properties": {
+        "timestamp": "2009-12-29T20:10:39Z",
+        "version": 2,
+        "changeset": 3484589,
+        "amenity": "library",
+        "name": "Biblioteca Pública de Ceilândia",
+        "id": "node/599789781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1165446,
+          -15.8153776
+        ]
+      }
+    }
+  ]
+}

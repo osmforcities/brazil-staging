@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/335989640",
+      "properties": {
+        "timestamp": "2009-01-24T17:40:34Z",
+        "version": 1,
+        "changeset": 832786,
+        "amenity": "doctors",
+        "created_by": "Potlatch 0.10f",
+        "name": "Posto de Saúde V. Prudente",
+        "id": "node/335989640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5827299,
+          -23.5823468
+        ]
+      }
+    }
+  ]
+}

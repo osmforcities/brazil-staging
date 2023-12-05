@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/438033660",
+      "properties": {
+        "timestamp": "2009-07-09T11:38:06Z",
+        "version": 1,
+        "changeset": 1779830,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Agafarma",
+        "id": "node/438033660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4607096,
+          -29.6862492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438033661",
+      "properties": {
+        "timestamp": "2009-07-09T13:47:46Z",
+        "version": 2,
+        "changeset": 1780752,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Progresso",
+        "id": "node/438033661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.460369,
+          -29.6867921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438033663",
+      "properties": {
+        "timestamp": "2009-12-09T13:58:08Z",
+        "version": 3,
+        "changeset": 3333826,
+        "addr:street": "Rua Ramiro Barcelos",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmácias São João",
+        "id": "node/438033663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4597768,
+          -29.6883057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438033666",
+      "properties": {
+        "timestamp": "2009-07-09T11:38:06Z",
+        "version": 1,
+        "changeset": 1779830,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Agafarma",
+        "id": "node/438033666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4620698,
+          -29.6838201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438033671",
+      "properties": {
+        "timestamp": "2009-12-16T17:12:37Z",
+        "version": 6,
+        "changeset": 3388134,
+        "addr:full": "Rua Buarque de Macedo, 1379, sala 01",
+        "addr:housenumber": "1379",
+        "addr:street": "Rua Buarque de Macedo",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Idealfarma",
+        "id": "node/438033671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4544569,
+          -29.6728375
+        ]
+      }
+    }
+  ]
+}

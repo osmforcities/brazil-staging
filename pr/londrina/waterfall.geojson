@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/534072164",
+      "properties": {
+        "timestamp": "2009-10-17T07:33:12Z",
+        "version": 1,
+        "changeset": 2870703,
+        "waterway": "waterfall",
+        "id": "node/534072164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1385164,
+          -23.3462944
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/324277900",
+      "properties": {
+        "timestamp": "2009-01-01T15:05:40Z",
+        "version": 1,
+        "changeset": 701299,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/324277900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0553986,
+          -22.9452227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992469",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:13Z",
+        "version": 1,
+        "changeset": 1683523,
+        "historic": "monument",
+        "name": "Arariboia",
+        "id": "node/430992469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1240408,
+          -22.8940045
+        ]
+      }
+    }
+  ]
+}

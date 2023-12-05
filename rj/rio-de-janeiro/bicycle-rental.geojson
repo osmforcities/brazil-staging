@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/332238489",
+      "properties": {
+        "timestamp": "2009-04-17T06:48:29Z",
+        "version": 3,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "created_by": "Potlatch 0.10f",
+        "name": "Metrô - Cardeal Arcoverde",
+        "operator": "SAMBA",
+        "ref": "17",
+        "id": "node/332238489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1805218,
+          -22.9647492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365737776",
+      "properties": {
+        "timestamp": "2009-04-17T06:47:34Z",
+        "version": 5,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "created_by": "Potlatch 0.10f",
+        "name": "Leme",
+        "operator": "SAMBA",
+        "ref": "19",
+        "id": "node/365737776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1652182,
+          -22.9621649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378687378",
+      "properties": {
+        "timestamp": "2009-04-17T06:47:30Z",
+        "version": 2,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "created_by": "Potlatch 0.10f",
+        "name": "Princesa Isabel",
+        "operator": "SAMBA",
+        "ref": "18",
+        "id": "node/378687378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1732863,
+          -22.9645437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378688422",
+      "properties": {
+        "timestamp": "2009-04-17T06:51:58Z",
+        "version": 2,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "created_by": "Potlatch 0.10f",
+        "name": "Metrô - Siqueira Campos",
+        "operator": "SAMBA",
+        "ref": "16",
+        "id": "node/378688422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.187414,
+          -22.9674045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378689007",
+      "properties": {
+        "timestamp": "2009-04-17T06:54:41Z",
+        "version": 3,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "created_by": "Potlatch 0.10f",
+        "name": "Santa Clara",
+        "operator": "SAMBA",
+        "ref": "15",
+        "id": "node/378689007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1861952,
+          -22.9729283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378689662",
+      "properties": {
+        "timestamp": "2009-04-17T06:57:35Z",
+        "version": 2,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "created_by": "Potlatch 0.10f",
+        "name": "Miguel Lemos",
+        "operator": "SAMBA",
+        "ref": "13",
+        "id": "node/378689662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1890448,
+          -22.9785705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378690135",
+      "properties": {
+        "timestamp": "2009-04-17T06:57:58Z",
+        "version": 1,
+        "changeset": 599138,
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "created_by": "Potlatch 0.10f",
+        "name": "Posto 6",
+        "operator": "SAMBA",
+        "ref": "12",
+        "id": "node/378690135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1885899,
+          -22.9859745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310720",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:34Z",
+        "version": 1,
+        "changeset": 1346979,
+        "amenity": "bicycle_rental",
+        "name": "Cicle Calle",
+        "shop": "bicycle",
+        "id": "node/412310720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1905681,
+          -22.9867153
+        ]
+      }
+    }
+  ]
+}

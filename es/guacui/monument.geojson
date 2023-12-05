@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/311433724",
+      "properties": {
+        "timestamp": "2008-11-12T02:29:50Z",
+        "version": 1,
+        "changeset": 738496,
+        "historic": "monument",
+        "tourism": "viewpoint",
+        "id": "node/311433724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6717882,
+          -20.7731273
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/442752778",
+      "properties": {
+        "timestamp": "2009-07-17T01:11:00Z",
+        "version": 1,
+        "changeset": 1849976,
+        "amenity": "pharmacy",
+        "name": "Panvel",
+        "id": "node/442752778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2087253,
+          -30.0287749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598724534",
+      "properties": {
+        "timestamp": "2009-12-23T23:27:59Z",
+        "version": 1,
+        "changeset": 3438779,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Agafarma",
+        "id": "node/598724534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.12465,
+          -30.0396772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598724543",
+      "properties": {
+        "timestamp": "2009-12-23T23:28:00Z",
+        "version": 1,
+        "changeset": 3438779,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "FarMais",
+        "id": "node/598724543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1258896,
+          -30.0399572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598724556",
+      "properties": {
+        "timestamp": "2009-12-23T23:28:05Z",
+        "version": 1,
+        "changeset": 3438779,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "CompreBem",
+        "id": "node/598724556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1263298,
+          -30.040066
+        ]
+      }
+    }
+  ]
+}

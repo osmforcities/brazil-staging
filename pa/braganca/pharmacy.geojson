@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/259796143",
+      "properties": {
+        "timestamp": "2008-05-12T14:35:43Z",
+        "version": 3,
+        "changeset": 425735,
+        "amenity": "pharmacy",
+        "created_by": "JOSM",
+        "name": "Extrafarma",
+        "source": "survey",
+        "id": "node/259796143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7670425,
+          -1.0547005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796144",
+      "properties": {
+        "timestamp": "2008-05-12T14:35:27Z",
+        "version": 3,
+        "changeset": 425735,
+        "amenity": "pharmacy",
+        "created_by": "JOSM",
+        "name": "Big Ben",
+        "source": "survey",
+        "id": "node/259796144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7668842,
+          -1.0552785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796145",
+      "properties": {
+        "timestamp": "2008-05-12T14:35:37Z",
+        "version": 2,
+        "changeset": 425735,
+        "amenity": "pharmacy",
+        "created_by": "JOSM",
+        "source": "survey",
+        "id": "node/259796145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7639508,
+          -1.0572415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/259796146",
+      "properties": {
+        "timestamp": "2008-11-13T22:49:23Z",
+        "version": 4,
+        "changeset": 743714,
+        "amenity": "pharmacy",
+        "created_by": "JOSM",
+        "name": "Farmácia Juliana",
+        "source": "survey",
+        "id": "node/259796146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7680055,
+          -1.0503921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262477095",
+      "properties": {
+        "timestamp": "2008-05-12T14:48:08Z",
+        "version": 3,
+        "changeset": 425735,
+        "amenity": "pharmacy",
+        "created_by": "JOSM",
+        "name": "Erika Farma",
+        "source": "survey",
+        "id": "node/262477095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7625896,
+          -1.0540347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311868302",
+      "properties": {
+        "timestamp": "2008-11-13T22:49:19Z",
+        "version": 1,
+        "changeset": 743714,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmácia Popular",
+        "id": "node/311868302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7685972,
+          -1.0496799
+        ]
+      }
+    }
+  ]
+}

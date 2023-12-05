@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/492635628",
+      "properties": {
+        "timestamp": "2009-09-10T18:23:52Z",
+        "version": 1,
+        "changeset": 2438561,
+        "amenity": "hospital",
+        "name": "Hospital das Clinicas UE",
+        "id": "node/492635628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8085855,
+          -21.18546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/492636301",
+      "properties": {
+        "timestamp": "2009-09-10T18:24:24Z",
+        "version": 1,
+        "changeset": 2438561,
+        "amenity": "hospital",
+        "name": "Hospital São Francisco",
+        "id": "node/492636301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8096584,
+          -21.1847237
+        ]
+      }
+    }
+  ]
+}

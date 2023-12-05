@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/302182117",
+      "properties": {
+        "timestamp": "2009-01-05T18:13:17Z",
+        "version": 4,
+        "changeset": 738961,
+        "amenity": "cinema",
+        "created_by": "Potlatch 0.10f",
+        "name": "Cinema São Luiz",
+        "id": "node/302182117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1772503,
+          -22.9308364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331377552",
+      "properties": {
+        "timestamp": "2009-10-12T23:37:31Z",
+        "version": 4,
+        "changeset": 2831511,
+        "amenity": "cinema",
+        "name": "Espaço Museu da República",
+        "id": "node/331377552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1756576,
+          -22.926405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416165999",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:23Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "35",
+        "addr:street": "Rua Voluntários da Pátria",
+        "amenity": "cinema",
+        "name": "Estação",
+        "url": "http://www.estacaovirtual.com.br/",
+        "id": "node/416165999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1827584,
+          -22.9511108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450971843",
+      "properties": {
+        "timestamp": "2009-07-29T20:13:40Z",
+        "version": 1,
+        "changeset": 1978819,
+        "amenity": "cinema",
+        "name": "Rio Sul",
+        "id": "node/450971843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1764962,
+          -22.9576255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450971847",
+      "properties": {
+        "timestamp": "2009-07-29T20:13:40Z",
+        "version": 1,
+        "changeset": 1978819,
+        "amenity": "cinema",
+        "name": "Cinemark Botafogo",
+        "id": "node/450971847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1839012,
+          -22.9475936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450971849",
+      "properties": {
+        "timestamp": "2009-07-29T20:13:40Z",
+        "version": 1,
+        "changeset": 1978819,
+        "amenity": "cinema",
+        "name": "Odeon Petrobrás",
+        "url": "http://grupoestacao.com.br/",
+        "id": "node/450971849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1759046,
+          -22.9115543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534004130",
+      "properties": {
+        "timestamp": "2009-10-17T00:06:13Z",
+        "version": 1,
+        "changeset": 2869745,
+        "amenity": "cinema",
+        "name": "Cine Santa Teresa",
+        "id": "node/534004130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1862276,
+          -22.921544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557786",
+      "properties": {
+        "timestamp": "2009-11-06T03:29:58Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "cinema",
+        "name": "Cine Leblon",
+        "id": "node/557557786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2196979,
+          -22.9839842
+        ]
+      }
+    }
+  ]
+}

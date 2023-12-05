@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/384725169",
+      "properties": {
+        "timestamp": "2009-04-25T13:00:51Z",
+        "version": 1,
+        "changeset": 947649,
+        "amenity": "school",
+        "id": "node/384725169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1427784,
+          -19.9334633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443702775",
+      "properties": {
+        "timestamp": "2009-07-19T17:07:32Z",
+        "version": 2,
+        "changeset": 1874996,
+        "amenity": "school",
+        "id": "node/443702775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2795321,
+          -19.829892
+        ]
+      }
+    }
+  ]
+}

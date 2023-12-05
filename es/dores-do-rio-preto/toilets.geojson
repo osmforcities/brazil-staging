@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/294968496",
+      "properties": {
+        "timestamp": "2009-02-28T14:21:25Z",
+        "version": 3,
+        "changeset": 699367,
+        "amenity": "toilets",
+        "barrier": "toll_booth",
+        "name": "Parque Caparão",
+        "tourism": "information",
+        "id": "node/294968496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8188482,
+          -20.5036041
+        ]
+      }
+    }
+  ]
+}

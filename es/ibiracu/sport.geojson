@@ -1,0 +1,457 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26467708",
+      "properties": {
+        "timestamp": "2009-01-24T22:13:02Z",
+        "version": 8,
+        "changeset": 831621,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "stadium",
+        "loc_name": "Marcão",
+        "name": "Estádio Marcos José Campagnaro",
+        "sport": "soccer",
+        "id": "way/26467708"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3672943,
+              -19.829657
+            ],
+            [
+              -40.3666935,
+              -19.8295197
+            ],
+            [
+              -40.3669081,
+              -19.82868
+            ],
+            [
+              -40.3675089,
+              -19.8288173
+            ],
+            [
+              -40.3672943,
+              -19.829657
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26501959",
+      "properties": {
+        "timestamp": "2008-10-18T03:14:19Z",
+        "version": 6,
+        "changeset": 420711,
+        "area": "yes",
+        "created_by": "Potlatch 0.10e",
+        "leisure": "pitch",
+        "sport": "volleyball",
+        "id": "way/26501959"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3655259,
+              -19.8248544
+            ],
+            [
+              -40.3653714,
+              -19.8248382
+            ],
+            [
+              -40.3653864,
+              -19.8246651
+            ],
+            [
+              -40.3655408,
+              -19.8246732
+            ],
+            [
+              -40.3655259,
+              -19.8248544
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26502196",
+      "properties": {
+        "timestamp": "2008-10-18T03:14:16Z",
+        "version": 3,
+        "changeset": 420711,
+        "area": "yes",
+        "created_by": "Potlatch 0.10e",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/26502196"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3653949,
+              -19.8241968
+            ],
+            [
+              -40.3653177,
+              -19.8249316
+            ],
+            [
+              -40.3648407,
+              -19.8248983
+            ],
+            [
+              -40.3649265,
+              -19.8241635
+            ],
+            [
+              -40.3653949,
+              -19.8241968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29159498",
+      "properties": {
+        "timestamp": "2008-12-21T21:35:20Z",
+        "version": 2,
+        "changeset": 528357,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/29159498"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3706357,
+              -19.8333145
+            ],
+            [
+              -40.3706443,
+              -19.8335244
+            ],
+            [
+              -40.3705413,
+              -19.8335244
+            ],
+            [
+              -40.3705327,
+              -19.8333145
+            ],
+            [
+              -40.3706357,
+              -19.8333145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29160406",
+      "properties": {
+        "timestamp": "2009-02-22T12:06:11Z",
+        "version": 6,
+        "changeset": 610612,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/29160406"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3688245,
+              -19.8353394
+            ],
+            [
+              -40.3679061,
+              -19.8353394
+            ],
+            [
+              -40.3679061,
+              -19.8348065
+            ],
+            [
+              -40.3688245,
+              -19.8348065
+            ],
+            [
+              -40.3688245,
+              -19.8353394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30183686",
+      "properties": {
+        "timestamp": "2009-01-17T14:49:09Z",
+        "version": 1,
+        "changeset": 799672,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "pitch",
+        "sport": "volleyball",
+        "id": "way/30183686"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3628164,
+              -19.8402836
+            ],
+            [
+              -40.3627649,
+              -19.8403401
+            ],
+            [
+              -40.3626619,
+              -19.8402594
+            ],
+            [
+              -40.3627134,
+              -19.8402029
+            ],
+            [
+              -40.3628164,
+              -19.8402836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30183711",
+      "properties": {
+        "timestamp": "2009-01-20T14:00:18Z",
+        "version": 2,
+        "changeset": 817794,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/30183711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3627639,
+              -19.8400071
+            ],
+            [
+              -40.3624817,
+              -19.8403401
+            ],
+            [
+              -40.3622575,
+              -19.8401686
+            ],
+            [
+              -40.3625494,
+              -19.8398537
+            ],
+            [
+              -40.3627639,
+              -19.8400071
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30183737",
+      "properties": {
+        "timestamp": "2009-01-17T14:59:56Z",
+        "version": 3,
+        "changeset": 799672,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "natural": "water",
+        "sport": "swimming",
+        "id": "way/30183737"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3629709,
+              -19.8399687
+            ],
+            [
+              -40.3628765,
+              -19.8400818
+            ],
+            [
+              -40.3626705,
+              -19.8399284
+            ],
+            [
+              -40.3627649,
+              -19.8398153
+            ],
+            [
+              -40.3629709,
+              -19.8399687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30452219",
+      "properties": {
+        "timestamp": "2009-01-31T16:31:41Z",
+        "version": 6,
+        "changeset": 858730,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "sports_centre",
+        "name": "Centro de Educação Física Marcos Rosalém",
+        "sport": "soccer",
+        "id": "way/30452219"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3620157,
+              -19.8273639
+            ],
+            [
+              -40.3620157,
+              -19.8275658
+            ],
+            [
+              -40.3617239,
+              -19.8275658
+            ],
+            [
+              -40.3617239,
+              -19.8273639
+            ],
+            [
+              -40.3620157,
+              -19.8273639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30884004",
+      "properties": {
+        "timestamp": "2009-02-25T00:04:46Z",
+        "version": 4,
+        "changeset": 667248,
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "sports_centre",
+        "sport": "soccer",
+        "id": "way/30884004"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3704693,
+              -19.8205403
+            ],
+            [
+              -40.3705587,
+              -19.8207521
+            ],
+            [
+              -40.3703921,
+              -19.8208229
+            ],
+            [
+              -40.3703062,
+              -19.8206049
+            ],
+            [
+              -40.3704693,
+              -19.8205403
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354486294",
+      "properties": {
+        "timestamp": "2009-03-01T12:55:29Z",
+        "version": 2,
+        "changeset": 716912,
+        "created_by": "Potlatch 0.10f",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "node/354486294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3716253,
+          -19.8309382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/447588162",
+      "properties": {
+        "timestamp": "2009-07-24T23:55:58Z",
+        "version": 1,
+        "changeset": 1929934,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "node/447588162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3798592,
+          -19.8325466
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/435923724",
+      "properties": {
+        "timestamp": "2009-08-01T15:48:24Z",
+        "version": 2,
+        "changeset": 2004659,
+        "amenity": "pharmacy",
+        "name": "Droga Verde",
+        "id": "node/435923724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6709551,
+          -23.5281074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444963390",
+      "properties": {
+        "timestamp": "2009-08-12T21:42:48Z",
+        "version": 2,
+        "changeset": 2123873,
+        "amenity": "pharmacy",
+        "name": "Farma & Cia",
+        "id": "node/444963390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5615758,
+          -23.5434916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444963392",
+      "properties": {
+        "timestamp": "2009-08-10T20:04:03Z",
+        "version": 2,
+        "changeset": 2101563,
+        "amenity": "pharmacy",
+        "name": "Drogaria Sao Paulo",
+        "id": "node/444963392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5631021,
+          -23.5469898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456043013",
+      "properties": {
+        "timestamp": "2009-08-04T15:05:48Z",
+        "version": 1,
+        "changeset": 2036135,
+        "amenity": "pharmacy",
+        "name": "Farmácia Sigma",
+        "id": "node/456043013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7335559,
+          -23.5237703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456043041",
+      "properties": {
+        "timestamp": "2009-08-04T15:06:20Z",
+        "version": 1,
+        "changeset": 2036135,
+        "amenity": "pharmacy",
+        "id": "node/456043041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7364656,
+          -23.5235106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456330295",
+      "properties": {
+        "timestamp": "2009-08-04T19:49:52Z",
+        "version": 2,
+        "changeset": 2038408,
+        "amenity": "pharmacy",
+        "id": "node/456330295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6881189,
+          -23.5350483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457592989",
+      "properties": {
+        "timestamp": "2009-08-06T20:20:04Z",
+        "version": 1,
+        "changeset": 2059087,
+        "amenity": "pharmacy",
+        "id": "node/457592989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6415211,
+          -23.5580896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491895211",
+      "properties": {
+        "timestamp": "2009-09-10T05:16:35Z",
+        "version": 1,
+        "changeset": 2431942,
+        "amenity": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/491895211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7340848,
+          -23.6525084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598678128",
+      "properties": {
+        "timestamp": "2009-12-23T20:32:49Z",
+        "version": 1,
+        "changeset": 3437319,
+        "amenity": "pharmacy",
+        "id": "node/598678128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6430063,
+          -23.5528451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598678164",
+      "properties": {
+        "timestamp": "2009-12-23T20:32:58Z",
+        "version": 1,
+        "changeset": 3437319,
+        "amenity": "pharmacy",
+        "id": "node/598678164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6384787,
+          -23.5536418
+        ]
+      }
+    }
+  ]
+}

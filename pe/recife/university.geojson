@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/44119716",
+      "properties": {
+        "timestamp": "2009-11-11T01:31:24Z",
+        "version": 1,
+        "changeset": 3086947,
+        "amenity": "university",
+        "name": "Universidade Católica de Pernambuco",
+        "id": "way/44119716"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8862898,
+              -8.0546275
+            ],
+            [
+              -34.8876202,
+              -8.0537777
+            ],
+            [
+              -34.8885471,
+              -8.0553414
+            ],
+            [
+              -34.8873112,
+              -8.0560468
+            ],
+            [
+              -34.886676,
+              -8.0551969
+            ],
+            [
+              -34.8862898,
+              -8.0546275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560404588",
+      "properties": {
+        "timestamp": "2009-11-10T13:10:49Z",
+        "version": 1,
+        "changeset": 3081803,
+        "amenity": "university",
+        "name": "FCAP - UPE",
+        "id": "node/560404588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9034684,
+          -8.0608496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560404598",
+      "properties": {
+        "timestamp": "2009-11-10T13:10:50Z",
+        "version": 1,
+        "changeset": 3081803,
+        "amenity": "university",
+        "name": "Escola politécnica - UPE",
+        "id": "node/560404598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9034427,
+          -8.0594984
+        ]
+      }
+    }
+  ]
+}

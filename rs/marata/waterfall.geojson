@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/441625534",
+      "properties": {
+        "timestamp": "2009-07-14T12:55:22Z",
+        "version": 1,
+        "changeset": 1826128,
+        "name": "Cascata do Maratá",
+        "waterway": "waterfall",
+        "id": "node/441625534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5645716,
+          -29.5414298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441625536",
+      "properties": {
+        "timestamp": "2009-07-14T12:55:22Z",
+        "version": 1,
+        "changeset": 1826128,
+        "name": "Cascata Vitória",
+        "waterway": "waterfall",
+        "id": "node/441625536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5540302,
+          -29.5642829
+        ]
+      }
+    }
+  ]
+}

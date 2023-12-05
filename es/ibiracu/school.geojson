@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30184046",
+      "properties": {
+        "timestamp": "2009-08-02T14:33:38Z",
+        "version": 22,
+        "changeset": 2013742,
+        "amenity": "school",
+        "area": "yes",
+        "building": "yes",
+        "created_by": "Potlatch 0.10f",
+        "source": "survey",
+        "id": "way/30184046"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3664299,
+              -19.8314831
+            ],
+            [
+              -40.3659235,
+              -19.8312974
+            ],
+            [
+              -40.3660608,
+              -19.8310149
+            ],
+            [
+              -40.3660265,
+              -19.8309987
+            ],
+            [
+              -40.3659836,
+              -19.8310875
+            ],
+            [
+              -40.3658634,
+              -19.8310391
+            ],
+            [
+              -40.3659492,
+              -19.8308534
+            ],
+            [
+              -40.3660694,
+              -19.8309018
+            ],
+            [
+              -40.3660351,
+              -19.8309745
+            ],
+            [
+              -40.3660694,
+              -19.8309906
+            ],
+            [
+              -40.3660952,
+              -19.8309422
+            ],
+            [
+              -40.3661552,
+              -19.8309664
+            ],
+            [
+              -40.3662153,
+              -19.8308372
+            ],
+            [
+              -40.3665071,
+              -19.8309503
+            ],
+            [
+              -40.3664299,
+              -19.831136
+            ],
+            [
+              -40.3664986,
+              -19.8311602
+            ],
+            [
+              -40.3664556,
+              -19.8312571
+            ],
+            [
+              -40.3665157,
+              -19.8312813
+            ],
+            [
+              -40.3664299,
+              -19.8314831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298304321",
+      "properties": {
+        "timestamp": "2009-01-17T15:18:26Z",
+        "version": 6,
+        "changeset": 799672,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "loc_name": "Polivalente",
+        "name": "Escola Narceu de Paiva Filho",
+        "id": "node/298304321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3662325,
+          -19.8311683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336116159",
+      "properties": {
+        "timestamp": "2009-07-25T00:10:29Z",
+        "version": 3,
+        "changeset": 1929934,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Maria Lucas Gomes",
+        "id": "node/336116159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3615086,
+          -19.8274599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336117814",
+      "properties": {
+        "timestamp": "2009-02-22T12:43:58Z",
+        "version": 4,
+        "changeset": 610612,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Jardim de Infância Daniel Comboni",
+        "source": "local_knowledge",
+        "id": "node/336117814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.366756,
+          -19.8304304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/349084067",
+      "properties": {
+        "timestamp": "2009-02-22T12:43:40Z",
+        "version": 1,
+        "changeset": 610612,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Nossa Senhora da Saúde",
+        "source": "local_knowledge",
+        "id": "node/349084067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3669792,
+          -19.8298894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/351165747",
+      "properties": {
+        "timestamp": "2009-02-25T00:04:13Z",
+        "version": 3,
+        "changeset": 667248,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Associação Pestalozi de Ibiraçu",
+        "id": "node/351165747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3705981,
+          -19.8203788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/351166402",
+      "properties": {
+        "timestamp": "2009-02-25T00:15:19Z",
+        "version": 4,
+        "changeset": 667248,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Elzita Barbarioli",
+        "id": "node/351166402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3707955,
+          -19.8205483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354488987",
+      "properties": {
+        "timestamp": "2009-03-01T13:05:17Z",
+        "version": 1,
+        "changeset": 716912,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Professora Ericina Macedo Pagiola",
+        "id": "node/354488987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3675226,
+          -19.8335461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354490092",
+      "properties": {
+        "timestamp": "2009-03-01T13:10:59Z",
+        "version": 1,
+        "changeset": 716912,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Chapeuzinho Vermelho",
+        "id": "node/354490092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3701233,
+          -19.8336107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/402620034",
+      "properties": {
+        "timestamp": "2009-05-17T13:26:20Z",
+        "version": 2,
+        "changeset": 1221333,
+        "amenity": "school",
+        "name": "Cachinhos de Ouro",
+        "id": "node/402620034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3625971,
+          -19.8237814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/464805589",
+      "properties": {
+        "timestamp": "2009-08-13T23:51:43Z",
+        "version": 1,
+        "changeset": 2137453,
+        "amenity": "school",
+        "name": "Centro Educacional Fênix",
+        "id": "node/464805589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3640759,
+          -19.8332137
+        ]
+      }
+    }
+  ]
+}

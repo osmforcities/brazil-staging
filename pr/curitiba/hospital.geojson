@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24722177",
+      "properties": {
+        "timestamp": "2008-06-06T00:25:47Z",
+        "version": 2,
+        "changeset": 77353,
+        "amenity": "hospital",
+        "area": "yes",
+        "created_by": "Potlatch 0.9c",
+        "name": "Hospital Cajuru",
+        "id": "way/24722177"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2481978,
+              -25.4357573
+            ],
+            [
+              -49.2449449,
+              -25.4366719
+            ],
+            [
+              -49.2447732,
+              -25.4366952
+            ],
+            [
+              -49.2449964,
+              -25.435424
+            ],
+            [
+              -49.2478202,
+              -25.4356798
+            ],
+            [
+              -49.2481978,
+              -25.4357573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24753443",
+      "properties": {
+        "timestamp": "2008-06-07T17:47:14Z",
+        "version": 2,
+        "changeset": 89892,
+        "amenity": "hospital",
+        "area": "yes",
+        "created_by": "Potlatch 0.9c",
+        "name": "Hospital Erasto Gaertner",
+        "id": "way/24753443"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2404007,
+              -25.4526454
+            ],
+            [
+              -49.23883,
+              -25.4549316
+            ],
+            [
+              -49.2370619,
+              -25.4538079
+            ],
+            [
+              -49.2383837,
+              -25.4520022
+            ],
+            [
+              -49.2404007,
+              -25.4526454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24776093",
+      "properties": {
+        "timestamp": "2008-06-08T19:55:38Z",
+        "version": 1,
+        "changeset": 103790,
+        "amenity": "hospital",
+        "area": "yes",
+        "created_by": "Potlatch 0.9c",
+        "name": "Santa Casa",
+        "id": "way/24776093"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2733162,
+              -25.436742
+            ],
+            [
+              -49.2725867,
+              -25.4381914
+            ],
+            [
+              -49.2717455,
+              -25.4378581
+            ],
+            [
+              -49.2724922,
+              -25.4364087
+            ],
+            [
+              -49.2733162,
+              -25.436742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24776411",
+      "properties": {
+        "timestamp": "2008-06-08T20:04:17Z",
+        "version": 2,
+        "changeset": 103790,
+        "amenity": "hospital",
+        "area": "yes",
+        "created_by": "Potlatch 0.9c",
+        "name": "Hospital de Clinicas da UFPR",
+        "id": "way/24776411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2615317,
+              -25.424766
+            ],
+            [
+              -49.2619694,
+              -25.4238126
+            ],
+            [
+              -49.2624844,
+              -25.4240529
+            ],
+            [
+              -49.2620638,
+              -25.4249986
+            ],
+            [
+              -49.2615317,
+              -25.424766
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/598666734",
+      "properties": {
+        "timestamp": "2009-12-23T19:54:27Z",
+        "version": 1,
+        "changeset": 3437285,
+        "amenity": "hospital",
+        "id": "node/598666734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1687579,
+          -27.4713597
+        ]
+      }
+    }
+  ]
+}

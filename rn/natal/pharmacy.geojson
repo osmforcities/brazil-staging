@@ -1,0 +1,294 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/501152486",
+      "properties": {
+        "timestamp": "2009-11-21T00:35:35Z",
+        "version": 2,
+        "changeset": 3172895,
+        "amenity": "pharmacy",
+        "id": "node/501152486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2123532,
+          -5.8426413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501152488",
+      "properties": {
+        "timestamp": "2009-11-21T00:35:36Z",
+        "version": 2,
+        "changeset": 3172895,
+        "amenity": "pharmacy",
+        "id": "node/501152488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.209662,
+          -5.8402708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501253480",
+      "properties": {
+        "timestamp": "2009-09-19T02:03:58Z",
+        "version": 1,
+        "changeset": 2529712,
+        "amenity": "pharmacy",
+        "id": "node/501253480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1856346,
+          -5.8664813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501619253",
+      "properties": {
+        "timestamp": "2009-09-19T10:48:02Z",
+        "version": 1,
+        "changeset": 2532245,
+        "amenity": "pharmacy",
+        "id": "node/501619253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2139066,
+          -5.821738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502196316",
+      "properties": {
+        "timestamp": "2009-09-19T18:27:19Z",
+        "version": 1,
+        "changeset": 2536832,
+        "amenity": "pharmacy",
+        "name": "Farmácia San Vale",
+        "id": "node/502196316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2246147,
+          -5.8666586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502407506",
+      "properties": {
+        "timestamp": "2009-09-19T20:33:53Z",
+        "version": 1,
+        "changeset": 2538218,
+        "amenity": "pharmacy",
+        "id": "node/502407506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1979471,
+          -5.8566945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503126850",
+      "properties": {
+        "timestamp": "2009-09-20T13:13:34Z",
+        "version": 1,
+        "changeset": 2544507,
+        "amenity": "pharmacy",
+        "id": "node/503126850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2362163,
+          -5.8568028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/504801602",
+      "properties": {
+        "timestamp": "2009-09-22T00:56:59Z",
+        "version": 1,
+        "changeset": 2563665,
+        "amenity": "pharmacy",
+        "id": "node/504801602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.207698,
+          -5.8192045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506569651",
+      "properties": {
+        "timestamp": "2009-09-24T12:50:40Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "pharmacy",
+        "id": "node/506569651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2303637,
+          -5.8221435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/572685094",
+      "properties": {
+        "timestamp": "2009-11-28T00:43:02Z",
+        "version": 1,
+        "changeset": 3233013,
+        "amenity": "pharmacy",
+        "id": "node/572685094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2092193,
+          -5.8085135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/596686245",
+      "properties": {
+        "timestamp": "2009-12-19T20:53:56Z",
+        "version": 1,
+        "changeset": 3409747,
+        "amenity": "pharmacy",
+        "id": "node/596686245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2119874,
+          -5.8165274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598873610",
+      "properties": {
+        "timestamp": "2009-12-24T10:28:16Z",
+        "version": 1,
+        "changeset": 3440999,
+        "amenity": "pharmacy",
+        "id": "node/598873610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2229415,
+          -5.8712097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598914601",
+      "properties": {
+        "timestamp": "2009-12-24T11:20:57Z",
+        "version": 1,
+        "changeset": 3441356,
+        "amenity": "pharmacy",
+        "id": "node/598914601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2245993,
+          -5.8195967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598914604",
+      "properties": {
+        "timestamp": "2009-12-24T11:20:57Z",
+        "version": 1,
+        "changeset": 3441356,
+        "amenity": "pharmacy",
+        "id": "node/598914604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2118818,
+          -5.8147349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599971645",
+      "properties": {
+        "timestamp": "2009-12-27T12:58:52Z",
+        "version": 1,
+        "changeset": 3462399,
+        "amenity": "pharmacy",
+        "id": "node/599971645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2103921,
+          -5.8451891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599971666",
+      "properties": {
+        "timestamp": "2009-12-27T12:58:53Z",
+        "version": 1,
+        "changeset": 3462399,
+        "amenity": "pharmacy",
+        "id": "node/599971666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1961791,
+          -5.8582598
+        ]
+      }
+    }
+  ]
+}

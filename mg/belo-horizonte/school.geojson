@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29433056",
+      "properties": {
+        "timestamp": "2009-01-01T20:53:55Z",
+        "version": 1,
+        "changeset": 703904,
+        "amenity": "school",
+        "created_by": "Merkaartor 0.12",
+        "id": "way/29433056"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9335858,
+              -19.9372456
+            ],
+            [
+              -43.9326471,
+              -19.9374877
+            ],
+            [
+              -43.9323896,
+              -19.9365749
+            ],
+            [
+              -43.9335858,
+              -19.9372456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29433060",
+      "properties": {
+        "timestamp": "2009-01-01T20:54:05Z",
+        "version": 1,
+        "changeset": 703904,
+        "amenity": "school",
+        "created_by": "Merkaartor 0.12",
+        "id": "way/29433060"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.933736,
+              -19.9370035
+            ],
+            [
+              -43.932529,
+              -19.936348
+            ],
+            [
+              -43.9335161,
+              -19.936111
+            ],
+            [
+              -43.933736,
+              -19.9370035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29433410",
+      "properties": {
+        "timestamp": "2009-01-01T21:05:59Z",
+        "version": 1,
+        "changeset": 703904,
+        "amenity": "school",
+        "created_by": "Merkaartor 0.12",
+        "id": "way/29433410"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9306032,
+              -19.9355512
+            ],
+            [
+              -43.9308822,
+              -19.9366506
+            ],
+            [
+              -43.9303457,
+              -19.9367766
+            ],
+            [
+              -43.930056,
+              -19.9356672
+            ],
+            [
+              -43.9306032,
+              -19.9355512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29442310",
+      "properties": {
+        "timestamp": "2009-01-02T01:24:19Z",
+        "version": 1,
+        "changeset": 706983,
+        "amenity": "school",
+        "created_by": "Merkaartor 0.12",
+        "id": "way/29442310"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9383119,
+              -19.9402714
+            ],
+            [
+              -43.938505,
+              -19.9410378
+            ],
+            [
+              -43.9378076,
+              -19.9412144
+            ],
+            [
+              -43.9376038,
+              -19.9404327
+            ],
+            [
+              -43.9383119,
+              -19.9402714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38795649",
+      "properties": {
+        "timestamp": "2009-08-10T02:38:32Z",
+        "version": 2,
+        "changeset": 2092234,
+        "amenity": "school",
+        "name": "Escola Municipal Arthur Guimarães",
+        "id": "way/38795649"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9613139,
+              -19.8978627
+            ],
+            [
+              -43.9614485,
+              -19.8977967
+            ],
+            [
+              -43.9615327,
+              -19.8978332
+            ],
+            [
+              -43.9616701,
+              -19.8978412
+            ],
+            [
+              -43.9617817,
+              -19.8978654
+            ],
+            [
+              -43.9618503,
+              -19.8979946
+            ],
+            [
+              -43.9619104,
+              -19.8981479
+            ],
+            [
+              -43.9619447,
+              -19.898277
+            ],
+            [
+              -43.9620048,
+              -19.8984304
+            ],
+            [
+              -43.9617988,
+              -19.8984223
+            ],
+            [
+              -43.9616443,
+              -19.8984546
+            ],
+            [
+              -43.9614898,
+              -19.8984385
+            ],
+            [
+              -43.9613353,
+              -19.8984546
+            ],
+            [
+              -43.9612688,
+              -19.8984766
+            ],
+            [
+              -43.9612495,
+              -19.8983174
+            ],
+            [
+              -43.9612238,
+              -19.8981883
+            ],
+            [
+              -43.9612409,
+              -19.8980591
+            ],
+            [
+              -43.9612924,
+              -19.8979381
+            ],
+            [
+              -43.9613139,
+              -19.8978627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38795672",
+      "properties": {
+        "timestamp": "2009-08-10T02:40:57Z",
+        "version": 1,
+        "changeset": 2092234,
+        "amenity": "school",
+        "name": "Creche Comunitária Caiçara",
+        "id": "way/38795672"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9612924,
+              -19.8974054
+            ],
+            [
+              -43.9616701,
+              -19.8977847
+            ],
+            [
+              -43.9612323,
+              -19.897809
+            ],
+            [
+              -43.9612924,
+              -19.8974054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460206417",
+      "properties": {
+        "timestamp": "2009-08-10T02:36:16Z",
+        "version": 1,
+        "changeset": 2092234,
+        "amenity": "school",
+        "name": "Creche comunitaria caiçaras",
+        "id": "node/460206417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9613782,
+          -19.897704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460206484",
+      "properties": {
+        "timestamp": "2009-08-10T02:38:29Z",
+        "version": 1,
+        "changeset": 2092234,
+        "amenity": "school",
+        "name": "Escola Municipal Arthur Guimarães",
+        "id": "node/460206484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9615842,
+          -19.8981318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/499621562",
+      "properties": {
+        "timestamp": "2009-09-17T22:42:53Z",
+        "version": 1,
+        "changeset": 2517421,
+        "amenity": "school",
+        "name": "Izabella Hendrix",
+        "id": "node/499621562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9396089,
+          -19.9321071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560385501",
+      "properties": {
+        "timestamp": "2009-12-07T13:40:11Z",
+        "version": 3,
+        "changeset": 3315929,
+        "amenity": "school",
+        "name": "Escola de Engenharia - UFMG",
+        "id": "node/560385501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9354739,
+          -19.9150456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560386189",
+      "properties": {
+        "timestamp": "2009-11-10T11:43:27Z",
+        "version": 1,
+        "changeset": 3081435,
+        "amenity": "school",
+        "id": "node/560386189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9360856,
+          -19.9152917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573382930",
+      "properties": {
+        "timestamp": "2009-11-28T14:46:38Z",
+        "version": 3,
+        "changeset": 3236680,
+        "amenity": "school",
+        "name": "Escola da Serra",
+        "id": "node/573382930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9187066,
+          -19.9472994
+        ]
+      }
+    }
+  ]
+}

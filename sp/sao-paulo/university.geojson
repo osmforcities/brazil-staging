@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/34379335",
+      "properties": {
+        "timestamp": "2009-05-12T13:14:18Z",
+        "version": 1,
+        "changeset": 1163534,
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universidade Sao Judas Tadeu",
+        "id": "way/34379335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7140115,
+              -23.5682164
+            ],
+            [
+              -46.7139944,
+              -23.5683265
+            ],
+            [
+              -46.7141145,
+              -23.5683265
+            ],
+            [
+              -46.7140974,
+              -23.5686255
+            ],
+            [
+              -46.7139858,
+              -23.5686255
+            ],
+            [
+              -46.7139944,
+              -23.5691683
+            ],
+            [
+              -46.7134708,
+              -23.5691604
+            ],
+            [
+              -46.7135309,
+              -23.5681928
+            ],
+            [
+              -46.7140115,
+              -23.5682164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38629632",
+      "properties": {
+        "timestamp": "2009-08-06T19:33:02Z",
+        "version": 1,
+        "changeset": 2058672,
+        "amenity": "university",
+        "area": "yes",
+        "building": "yes",
+        "name": "Mackenzie",
+        "id": "way/38629632"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6520683,
+              -23.5455533
+            ],
+            [
+              -46.6534073,
+              -23.5470562
+            ],
+            [
+              -46.6522314,
+              -23.548858
+            ],
+            [
+              -46.6496651,
+              -23.5479846
+            ],
+            [
+              -46.6513388,
+              -23.5466391
+            ],
+            [
+              -46.6510384,
+              -23.5463559
+            ],
+            [
+              -46.6520683,
+              -23.5455533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38629633",
+      "properties": {
+        "timestamp": "2009-08-06T19:33:03Z",
+        "version": 1,
+        "changeset": 2058672,
+        "amenity": "university",
+        "area": "yes",
+        "building": "yes",
+        "name": "PUC",
+        "id": "way/38629633"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.648575,
+              -23.5491334
+            ],
+            [
+              -46.6487724,
+              -23.5486062
+            ],
+            [
+              -46.6490214,
+              -23.548677
+            ],
+            [
+              -46.648884,
+              -23.5492121
+            ],
+            [
+              -46.648575,
+              -23.5491334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38709142",
+      "properties": {
+        "timestamp": "2009-08-08T13:07:21Z",
+        "version": 1,
+        "changeset": 2074942,
+        "amenity": "university",
+        "area": "yes",
+        "building": "yes",
+        "name": "Universidade Sao Judas Tadeu",
+        "id": "way/38709142"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5977588,
+              -23.5530768
+            ],
+            [
+              -46.5967459,
+              -23.5521562
+            ],
+            [
+              -46.5976558,
+              -23.5512986
+            ],
+            [
+              -46.5986342,
+              -23.5522585
+            ],
+            [
+              -46.5977588,
+              -23.5530768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457592973",
+      "properties": {
+        "timestamp": "2009-08-06T20:20:03Z",
+        "version": 1,
+        "changeset": 2059087,
+        "amenity": "university",
+        "name": "Unibero",
+        "id": "node/457592973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6408516,
+          -23.5579165
+        ]
+      }
+    }
+  ]
+}

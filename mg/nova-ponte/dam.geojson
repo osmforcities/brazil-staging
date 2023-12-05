@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24046585",
+      "properties": {
+        "timestamp": "2008-04-30T18:27:41Z",
+        "version": 1,
+        "changeset": 291727,
+        "created_by": "JOSM",
+        "waterway": "dam",
+        "id": "way/24046585"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.6974826,
+            -19.1272835
+          ],
+          [
+            -47.6942044,
+            -19.1342041
+          ]
+        ]
+      }
+    }
+  ]
+}

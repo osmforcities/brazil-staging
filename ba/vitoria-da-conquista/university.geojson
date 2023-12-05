@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/81357627",
+      "properties": {
+        "timestamp": "2007-10-20T15:17:54Z",
+        "version": 1,
+        "changeset": 266398,
+        "amenity": "university",
+        "created_by": "JOSM",
+        "name": "Fainor - Faculdade Independente do Nordeste",
+        "id": "node/81357627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.817059,
+          -14.8613098
+        ]
+      }
+    }
+  ]
+}

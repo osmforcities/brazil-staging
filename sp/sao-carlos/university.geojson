@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/493041644",
+      "properties": {
+        "timestamp": "2009-10-26T19:56:45Z",
+        "version": 6,
+        "changeset": 2959592,
+        "amenity": "university",
+        "name": "USP São Carlos - Campus I",
+        "place": "locality",
+        "place_name": "USP São Carlos",
+        "id": "node/493041644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8977684,
+          -22.0056374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569704385",
+      "properties": {
+        "timestamp": "2009-11-23T21:29:40Z",
+        "version": 1,
+        "changeset": 3199943,
+        "amenity": "university",
+        "name": "Universidade Federal de São Carlos",
+        "place": "locality",
+        "place_name": "Univesridade Federal de São Carlos",
+        "id": "node/569704385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8832854,
+          -21.9878806
+        ]
+      }
+    }
+  ]
+}

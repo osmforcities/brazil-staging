@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/494741304",
+      "properties": {
+        "timestamp": "2009-09-13T04:22:32Z",
+        "version": 5,
+        "changeset": 2464561,
+        "amenity": "university",
+        "name": "FATEC",
+        "id": "node/494741304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4251967,
+          -23.4813575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495418860",
+      "properties": {
+        "timestamp": "2009-09-13T17:36:50Z",
+        "version": 2,
+        "changeset": 2471448,
+        "amenity": "university",
+        "name": "Uniso",
+        "id": "node/495418860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3979619,
+          -23.5005974
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/282381815",
+      "properties": {
+        "timestamp": "2008-11-28T19:34:25Z",
+        "version": 4,
+        "changeset": 805249,
+        "name": "Hotel Coronado",
+        "tourism": "hotel",
+        "id": "node/282381815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.498115,
+          -20.6739244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313552043",
+      "properties": {
+        "timestamp": "2008-11-21T19:14:34Z",
+        "version": 1,
+        "changeset": 777452,
+        "name": "Dinotel Guarapari",
+        "tourism": "hotel",
+        "id": "node/313552043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4986148,
+          -20.6686653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313552044",
+      "properties": {
+        "timestamp": "2008-11-26T19:28:55Z",
+        "version": 3,
+        "changeset": 796518,
+        "name": "Hotel Atlântico",
+        "tourism": "hotel",
+        "id": "node/313552044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4953856,
+          -20.6709531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315340645",
+      "properties": {
+        "timestamp": "2008-11-28T19:34:14Z",
+        "version": 1,
+        "changeset": 805249,
+        "name": "Porto do Sol",
+        "tourism": "hotel",
+        "id": "node/315340645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4955984,
+          -20.6624077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315340651",
+      "properties": {
+        "timestamp": "2009-06-23T21:05:37Z",
+        "version": 2,
+        "changeset": 1606069,
+        "name": "Bristol Residence Hotel",
+        "tourism": "hotel",
+        "id": "node/315340651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5004769,
+          -20.6747609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315638715",
+      "properties": {
+        "timestamp": "2008-11-29T23:19:54Z",
+        "version": 1,
+        "changeset": 811444,
+        "name": "Hotel Meaipe",
+        "tourism": "hotel",
+        "id": "node/315638715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5408932,
+          -20.7373023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339012473",
+      "properties": {
+        "timestamp": "2009-06-23T21:05:37Z",
+        "version": 2,
+        "changeset": 1606069,
+        "name": "Novo Hotel Vieira",
+        "tourism": "hotel",
+        "id": "node/339012473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.498702,
+          -20.6725601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339406336",
+      "properties": {
+        "timestamp": "2009-01-31T18:56:00Z",
+        "version": 1,
+        "changeset": 859720,
+        "name": "Hotel Bom Jesus",
+        "tourism": "hotel",
+        "id": "node/339406336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4988165,
+          -20.6719387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428623682",
+      "properties": {
+        "timestamp": "2009-06-23T21:05:34Z",
+        "version": 1,
+        "changeset": 1606069,
+        "name": "Tourist Hotel Guarapari",
+        "tourism": "hotel",
+        "id": "node/428623682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4974001,
+          -20.6718316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428623707",
+      "properties": {
+        "timestamp": "2009-06-23T21:05:36Z",
+        "version": 1,
+        "changeset": 1606069,
+        "name": "Hotel Hotur Guarapari",
+        "tourism": "hotel",
+        "id": "node/428623707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5012909,
+          -20.6751823
+        ]
+      }
+    }
+  ]
+}

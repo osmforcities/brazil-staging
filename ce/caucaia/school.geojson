@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/479158289",
+      "properties": {
+        "timestamp": "2009-08-31T17:52:10Z",
+        "version": 1,
+        "changeset": 2328259,
+        "amenity": "school",
+        "name": "EEF Rita de Cássia",
+        "id": "node/479158289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6352003,
+          -3.7659073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479158334",
+      "properties": {
+        "timestamp": "2009-08-31T17:52:19Z",
+        "version": 1,
+        "changeset": 2328259,
+        "amenity": "school",
+        "name": "EEF Marly Ferreira Martins",
+        "id": "node/479158334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6414745,
+          -3.7646141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479158340",
+      "properties": {
+        "timestamp": "2009-08-31T17:52:20Z",
+        "version": 1,
+        "changeset": 2328259,
+        "amenity": "school",
+        "name": "EEFM André Viana Camurça",
+        "id": "node/479158340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6388653,
+          -3.7639632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479158348",
+      "properties": {
+        "timestamp": "2009-08-31T17:52:22Z",
+        "version": 1,
+        "changeset": 2328259,
+        "amenity": "school",
+        "name": "EEFM José Sarney",
+        "id": "node/479158348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6365049,
+          -3.7664212
+        ]
+      }
+    }
+  ]
+}

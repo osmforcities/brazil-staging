@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/305618235",
+      "properties": {
+        "timestamp": "2008-10-19T13:22:13Z",
+        "version": 1,
+        "changeset": 437045,
+        "amenity": "cinema",
+        "name": "CineRitz Guarapari",
+        "id": "node/305618235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4983032,
+          -20.6701521
+        ]
+      }
+    }
+  ]
+}

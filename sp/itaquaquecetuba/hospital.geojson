@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/454723918",
+      "properties": {
+        "timestamp": "2009-08-03T01:24:29Z",
+        "version": 1,
+        "changeset": 2020683,
+        "amenity": "hospital",
+        "name": "Hospital Santa Marcelina",
+        "id": "node/454723918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3455274,
+          -23.4725146
+        ]
+      }
+    }
+  ]
+}

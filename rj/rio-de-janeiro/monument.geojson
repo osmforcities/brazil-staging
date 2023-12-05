@@ -1,0 +1,603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/25075044",
+      "properties": {
+        "timestamp": "2009-11-06T13:12:38Z",
+        "version": 14,
+        "changeset": 3048016,
+        "ele": "710",
+        "historic": "monument",
+        "int_name": "Christ the Redeemer",
+        "name": "Corcovado",
+        "natural": "peak",
+        "source": "Yahoo imagery",
+        "tourism": "attraction",
+        "id": "node/25075044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2090675,
+          -22.9529591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299613259",
+      "properties": {
+        "timestamp": "2009-01-05T18:12:57Z",
+        "version": 5,
+        "changeset": 738961,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "name": "Pirâmide Estácio de Sá",
+        "id": "node/299613259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1698946,
+          -22.9396974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302182701",
+      "properties": {
+        "timestamp": "2009-07-02T13:19:54Z",
+        "version": 8,
+        "changeset": 1709736,
+        "historic": "monument",
+        "layer": "1",
+        "id": "node/302182701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.173378,
+          -22.9164602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332092260",
+      "properties": {
+        "timestamp": "2009-02-01T19:21:26Z",
+        "version": 2,
+        "changeset": 27333,
+        "historic": "monument",
+        "id": "node/332092260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1660356,
+          -22.9547809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332130130",
+      "properties": {
+        "timestamp": "2009-01-14T22:52:04Z",
+        "version": 2,
+        "changeset": 789584,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/332130130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1704095,
+          -22.9550199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332517972",
+      "properties": {
+        "timestamp": "2009-07-01T19:57:05Z",
+        "version": 3,
+        "changeset": 1703673,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/332517972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1759254,
+          -22.9199518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332517973",
+      "properties": {
+        "timestamp": "2009-01-17T05:40:55Z",
+        "version": 1,
+        "changeset": 800479,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/332517973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1759362,
+          -22.9185283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338741820",
+      "properties": {
+        "timestamp": "2009-07-02T13:19:55Z",
+        "version": 3,
+        "changeset": 1709736,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "layer": "1",
+        "id": "node/338741820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1737983,
+          -22.9168368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338741915",
+      "properties": {
+        "timestamp": "2009-07-02T13:19:55Z",
+        "version": 2,
+        "changeset": 1709736,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "layer": "1",
+        "id": "node/338741915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1734381,
+          -22.9166657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339536813",
+      "properties": {
+        "timestamp": "2009-02-01T19:21:25Z",
+        "version": 3,
+        "changeset": 27333,
+        "historic": "monument",
+        "id": "node/339536813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1740151,
+          -22.9153156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/342963099",
+      "properties": {
+        "timestamp": "2009-02-07T12:48:32Z",
+        "version": 1,
+        "changeset": 223544,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "name": "Monumento a Dom João VI",
+        "id": "node/342963099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1727861,
+          -22.9024141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/342963757",
+      "properties": {
+        "timestamp": "2009-02-07T12:49:23Z",
+        "version": 1,
+        "changeset": 223544,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "name": "Monumento ao Almirante Negro",
+        "id": "node/342963757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1730521,
+          -22.9021058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/342964468",
+      "properties": {
+        "timestamp": "2009-02-07T12:50:42Z",
+        "version": 2,
+        "changeset": 223544,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "name": "Chafariz da Praça XV",
+        "note": "It's not a water related note because it's historic (desactivated, but remains in place)",
+        "id": "node/342964468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1739019,
+          -22.9027225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/342967023",
+      "properties": {
+        "timestamp": "2009-02-07T12:53:49Z",
+        "version": 1,
+        "changeset": 223544,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "name": "Monumento ao General Osório",
+        "id": "node/342967023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1746228,
+          -22.9031494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344022191",
+      "properties": {
+        "timestamp": "2009-02-10T05:49:12Z",
+        "version": 1,
+        "changeset": 319830,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/344022191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.196862,
+          -22.9532616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344374584",
+      "properties": {
+        "timestamp": "2009-02-11T05:13:00Z",
+        "version": 2,
+        "changeset": 349811,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/344374584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2012982,
+          -22.9395366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344564834",
+      "properties": {
+        "timestamp": "2009-10-11T04:05:10Z",
+        "version": 3,
+        "changeset": 2809806,
+        "historic": "monument",
+        "name": "Obelisco",
+        "id": "node/344564834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1743895,
+          -22.9130699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344569552",
+      "properties": {
+        "timestamp": "2009-02-12T03:01:41Z",
+        "version": 1,
+        "changeset": 376225,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "id": "node/344569552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1775826,
+          -22.9327396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365722500",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:54Z",
+        "version": 3,
+        "changeset": 2016069,
+        "historic": "monument",
+        "name": "Simon Bolívar",
+        "id": "node/365722500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1778426,
+          -22.9556034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365737686",
+      "properties": {
+        "timestamp": "2009-03-25T21:07:26Z",
+        "version": 1,
+        "changeset": 857648,
+        "created_by": "Potlatch 0.10f",
+        "historic": "monument",
+        "name": "Monumento Almirante Júlio Cesar de Noronha",
+        "id": "node/365737686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1652153,
+          -22.9619478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166018",
+      "properties": {
+        "timestamp": "2009-06-06T01:25:01Z",
+        "version": 1,
+        "changeset": 1433936,
+        "historic": "monument",
+        "name": "Manoel Thomaz de Carvalho Britto",
+        "id": "node/416166018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1825449,
+          -22.947826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430964804",
+      "properties": {
+        "timestamp": "2009-06-29T22:52:56Z",
+        "version": 1,
+        "changeset": 1682973,
+        "historic": "monument",
+        "name": "Estátua do Bellini",
+        "id": "node/430964804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2310261,
+          -22.9135572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448817576",
+      "properties": {
+        "timestamp": "2009-07-27T05:01:02Z",
+        "version": 1,
+        "changeset": 1951141,
+        "historic": "monument",
+        "id": "node/448817576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1751422,
+          -22.9140488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/459407632",
+      "properties": {
+        "timestamp": "2009-08-09T03:09:53Z",
+        "version": 1,
+        "changeset": 2080899,
+        "historic": "monument",
+        "name": "Homenagem ao Aviador",
+        "id": "node/459407632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2218055,
+          -22.8156108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461805320",
+      "properties": {
+        "timestamp": "2009-08-11T15:56:13Z",
+        "version": 1,
+        "changeset": 2109158,
+        "historic": "monument",
+        "name": "Del Prete",
+        "id": "node/461805320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1844949,
+          -22.9329748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/473242005",
+      "properties": {
+        "timestamp": "2009-08-25T00:23:32Z",
+        "version": 1,
+        "changeset": 2251074,
+        "historic": "monument",
+        "id": "node/473242005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.166802,
+          -22.9551149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/481595601",
+      "properties": {
+        "timestamp": "2009-09-28T22:25:42Z",
+        "version": 2,
+        "changeset": 2671048,
+        "historic": "monument",
+        "id": "node/481595601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1748764,
+          -22.9039901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506239957",
+      "properties": {
+        "timestamp": "2009-09-23T16:00:17Z",
+        "version": 1,
+        "changeset": 2596371,
+        "historic": "monument",
+        "id": "node/506239957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1744156,
+          -22.9041469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/523401044",
+      "properties": {
+        "timestamp": "2009-10-06T22:16:41Z",
+        "version": 1,
+        "changeset": 2765958,
+        "historic": "monument",
+        "id": "node/523401044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1731332,
+          -22.9377914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/545504552",
+      "properties": {
+        "timestamp": "2009-10-30T04:01:41Z",
+        "version": 1,
+        "changeset": 2986548,
+        "historic": "monument",
+        "monument": "statue",
+        "name": "Pequeno Jornalista",
+        "id": "node/545504552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1778851,
+          -22.9051198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558222",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:20Z",
+        "version": 1,
+        "changeset": 3045487,
+        "historic": "monument",
+        "monument": "statue",
+        "name": "Dorival Caymmi",
+        "id": "node/557558222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1887216,
+          -22.9857542
+        ]
+      }
+    }
+  ]
+}

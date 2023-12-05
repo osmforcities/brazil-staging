@@ -1,0 +1,308 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/560398646",
+      "properties": {
+        "timestamp": "2009-11-13T11:31:20Z",
+        "version": 2,
+        "changeset": 3105105,
+        "amenity": "school",
+        "name": "colégio GGE",
+        "id": "node/560398646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8987383,
+          -8.0621764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560417256",
+      "properties": {
+        "timestamp": "2009-11-10T13:44:39Z",
+        "version": 1,
+        "changeset": 3081803,
+        "amenity": "school",
+        "name": "Ginário Pernambucano",
+        "id": "node/560417256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87935,
+          -8.0579432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560628925",
+      "properties": {
+        "timestamp": "2009-11-17T01:01:44Z",
+        "version": 2,
+        "changeset": 3137945,
+        "amenity": "school",
+        "name": "Colégio Sancarlos",
+        "id": "node/560628925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9282542,
+          -8.0477011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560628928",
+      "properties": {
+        "timestamp": "2009-11-11T01:19:22Z",
+        "version": 1,
+        "changeset": 3086947,
+        "amenity": "school",
+        "id": "node/560628928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9318144,
+          -8.0587322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561453321",
+      "properties": {
+        "timestamp": "2009-11-12T21:15:54Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "school",
+        "name": "colégio contato",
+        "id": "node/561453321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8963055,
+          -8.0543224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561453328",
+      "properties": {
+        "timestamp": "2009-11-12T21:15:54Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "school",
+        "name": "Colégio Americano Batista",
+        "id": "node/561453328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8955416,
+          -8.0538295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561522263",
+      "properties": {
+        "timestamp": "2009-11-12T22:04:09Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "school",
+        "name": "Colégio Souza Leão",
+        "id": "node/561522263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9198574,
+          -8.0541609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561522268",
+      "properties": {
+        "timestamp": "2009-11-12T22:04:10Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "school",
+        "name": "Colégio Dom Bosco",
+        "id": "node/561522268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9252476,
+          -8.061631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561522277",
+      "properties": {
+        "timestamp": "2009-11-12T22:04:11Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "school",
+        "name": "Colégio da Policia militar",
+        "id": "node/561522277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8992066,
+          -8.0593959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561522281",
+      "properties": {
+        "timestamp": "2009-11-12T22:04:12Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "school",
+        "name": "Colégio público",
+        "id": "node/561522281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8965887,
+          -8.0527927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561900077",
+      "properties": {
+        "timestamp": "2009-11-13T01:29:54Z",
+        "version": 1,
+        "changeset": 3103090,
+        "amenity": "school",
+        "name": "Colégio Militar do Recife",
+        "id": "node/561900077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9462382,
+          -8.0628837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/562820801",
+      "properties": {
+        "timestamp": "2009-11-13T12:33:05Z",
+        "version": 1,
+        "changeset": 3105454,
+        "amenity": "school",
+        "name": "curso de espanhol - Instituto Cervantes",
+        "id": "node/562820801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8971333,
+          -8.06176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564834391",
+      "properties": {
+        "timestamp": "2009-11-15T16:14:52Z",
+        "version": 1,
+        "changeset": 3123457,
+        "amenity": "school",
+        "name": "colégio boa viagem",
+        "id": "node/564834391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8951337,
+          -8.1109763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564834394",
+      "properties": {
+        "timestamp": "2009-11-15T16:14:52Z",
+        "version": 1,
+        "changeset": 3123457,
+        "amenity": "school",
+        "name": "colégio santa maria",
+        "id": "node/564834394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8969018,
+          -8.1122339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564865655",
+      "properties": {
+        "timestamp": "2009-11-15T16:47:35Z",
+        "version": 1,
+        "changeset": 3123457,
+        "amenity": "school",
+        "name": "Escola Americana",
+        "id": "node/564865655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9070298,
+          -8.1363567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/568208493",
+      "properties": {
+        "timestamp": "2009-11-22T02:39:40Z",
+        "version": 1,
+        "changeset": 3182289,
+        "amenity": "school",
+        "name": "Colégio GGE (1º ao 9º ano)",
+        "id": "node/568208493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9017546,
+          -8.0590755
+        ]
+      }
+    }
+  ]
+}

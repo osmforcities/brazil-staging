@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/414335008",
+      "properties": {
+        "timestamp": "2009-09-25T09:08:28Z",
+        "version": 2,
+        "changeset": 2614347,
+        "addr:city": "Urubici",
+        "addr:country": "BR",
+        "addr:street": "Rua Ari Vieira Rodrigues",
+        "name": "Pousada Alto da Colina",
+        "phone": "+55-49-3278-4669",
+        "tourism": "guest_house",
+        "website": "http://www.pousadaaltodacolina.com/",
+        "id": "node/414335008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5879673,
+          -28.0139519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419660",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada Cafe Mel",
+        "tourism": "guest_house",
+        "id": "node/415419660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5858138,
+          -27.9980112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419661",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada Cafe no Bule",
+        "tourism": "guest_house",
+        "id": "node/415419661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5848371,
+          -27.9977961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419662",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada a Aconchega da Serra",
+        "tourism": "guest_house",
+        "id": "node/415419662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5820585,
+          -27.9918205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419663",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada vo Natalia",
+        "tourism": "guest_house",
+        "id": "node/415419663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5820047,
+          -27.9916969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419664",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada da Flores",
+        "tourism": "guest_house",
+        "id": "node/415419664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5843881,
+          -27.9940138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419666",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada Rhose",
+        "tourism": "guest_house",
+        "id": "node/415419666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5859662,
+          -27.9980014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415419667",
+      "properties": {
+        "timestamp": "2009-06-03T19:51:18Z",
+        "version": 1,
+        "changeset": 1415727,
+        "name": "Pousada Girassol",
+        "tourism": "guest_house",
+        "id": "node/415419667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5900327,
+          -28.0106097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/425024057",
+      "properties": {
+        "timestamp": "2009-06-19T07:03:17Z",
+        "version": 1,
+        "changeset": 1561334,
+        "name": "Pousada Urubici",
+        "tourism": "guest_house",
+        "id": "node/425024057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5751497,
+          -28.0403946
+        ]
+      }
+    }
+  ]
+}

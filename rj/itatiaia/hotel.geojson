@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/591763998",
+      "properties": {
+        "timestamp": "2009-12-15T10:27:14Z",
+        "version": 1,
+        "changeset": 3378163,
+        "name": "Hotel do Sino",
+        "tourism": "hotel",
+        "id": "node/591763998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5238081,
+          -22.4425876
+        ]
+      }
+    }
+  ]
+}

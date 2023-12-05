@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/452854210",
+      "properties": {
+        "timestamp": "2009-08-01T03:35:19Z",
+        "version": 1,
+        "changeset": 1999693,
+        "amenity": "hospital",
+        "name": "Hospital Municipal Nossa Senhora Aparecida",
+        "id": "node/452854210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8151777,
+          -30.8491669
+        ]
+      }
+    }
+  ]
+}

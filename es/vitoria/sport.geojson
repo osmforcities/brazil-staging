@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28898448",
+      "properties": {
+        "timestamp": "2009-09-10T03:10:59Z",
+        "version": 3,
+        "changeset": 2431614,
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": "way/28898448"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2911846,
+              -20.2997234
+            ],
+            [
+              -40.2915022,
+              -20.2996751
+            ],
+            [
+              -40.2915708,
+              -20.3000615
+            ],
+            [
+              -40.2912447,
+              -20.3001098
+            ],
+            [
+              -40.2911846,
+              -20.2997234
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

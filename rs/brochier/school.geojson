@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/546292124",
+      "properties": {
+        "timestamp": "2009-12-11T18:52:09Z",
+        "version": 3,
+        "changeset": 3351208,
+        "addr:city": "Brochier",
+        "addr:housenumber": "257",
+        "addr:street": "Rua 11 de Abril",
+        "amenity": "school",
+        "name": "Escola Municipal de Educação Infantil Sapatinho de Cristal",
+        "id": "node/546292124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5887664,
+          -29.562924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/546294949",
+      "properties": {
+        "timestamp": "2009-12-07T16:05:32Z",
+        "version": 2,
+        "changeset": 3316958,
+        "addr:city": "Brochier",
+        "addr:housenumber": "472",
+        "addr:street": "Rua Erni Oscar Fauth",
+        "amenity": "school",
+        "name": "Escola Estadual de Ensino Médio Erni Oscar Fauth",
+        "id": "node/546294949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5929907,
+          -29.5510659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/582919762",
+      "properties": {
+        "timestamp": "2009-12-07T16:05:32Z",
+        "version": 1,
+        "changeset": 3316958,
+        "addr:city": "Brochier",
+        "addr:housenumber": "411",
+        "addr:street": "Rua 11 de Abril",
+        "amenity": "school",
+        "name": "Associação Pestalozzi de Brochier",
+        "id": "node/582919762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5881538,
+          -29.5629781
+        ]
+      }
+    }
+  ]
+}

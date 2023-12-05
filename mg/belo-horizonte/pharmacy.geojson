@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/315989092",
+      "properties": {
+        "timestamp": "2009-07-22T20:40:44Z",
+        "version": 2,
+        "changeset": 1908618,
+        "amenity": "pharmacy",
+        "id": "node/315989092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9652623,
+          -19.8678754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/319210792",
+      "properties": {
+        "timestamp": "2008-12-16T14:32:13Z",
+        "version": 1,
+        "changeset": 413879,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.12",
+        "opening_hours": "24/7",
+        "id": "node/319210792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.976528,
+          -19.9292222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/319258498",
+      "properties": {
+        "timestamp": "2009-01-29T01:13:05Z",
+        "version": 2,
+        "changeset": 850871,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.13",
+        "name": "Araújo",
+        "opening_hours": "24/7",
+        "id": "node/319258498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9202123,
+          -19.9388039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320407508",
+      "properties": {
+        "timestamp": "2008-12-21T04:20:16Z",
+        "version": 1,
+        "changeset": 516842,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.12",
+        "opening_hours": "24/7",
+        "id": "node/320407508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9345621,
+          -19.9402386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321274331",
+      "properties": {
+        "timestamp": "2008-12-23T16:06:52Z",
+        "version": 1,
+        "changeset": 567795,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.12",
+        "name": "Araújo",
+        "id": "node/321274331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9540564,
+          -19.9687556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/324384209",
+      "properties": {
+        "timestamp": "2009-10-05T02:13:24Z",
+        "version": 2,
+        "changeset": 2744775,
+        "amenity": "pharmacy",
+        "name": "Araújo",
+        "opening_hours": "24/7",
+        "id": "node/324384209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9288651,
+          -19.9351174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338835626",
+      "properties": {
+        "timestamp": "2009-01-29T01:13:05Z",
+        "version": 1,
+        "changeset": 850871,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.13",
+        "id": "node/338835626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9200138,
+          -19.9392123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338929711",
+      "properties": {
+        "timestamp": "2009-01-29T15:09:20Z",
+        "version": 1,
+        "changeset": 852985,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.13",
+        "id": "node/338929711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9472812,
+          -19.9236897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357661389",
+      "properties": {
+        "timestamp": "2009-03-09T01:03:44Z",
+        "version": 1,
+        "changeset": 772712,
+        "amenity": "pharmacy",
+        "created_by": "Merkaartor 0.13",
+        "name": "Araújo",
+        "id": "node/357661389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9219772,
+          -19.9426767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456322669",
+      "properties": {
+        "timestamp": "2009-08-04T19:23:44Z",
+        "version": 1,
+        "changeset": 2038432,
+        "amenity": "pharmacy",
+        "id": "node/456322669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9568003,
+          -19.9331331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456322671",
+      "properties": {
+        "timestamp": "2009-08-04T19:23:45Z",
+        "version": 1,
+        "changeset": 2038432,
+        "amenity": "pharmacy",
+        "name": "Araújo",
+        "id": "node/456322671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9570337,
+          -19.9327322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460206314",
+      "properties": {
+        "timestamp": "2009-08-10T02:32:32Z",
+        "version": 1,
+        "changeset": 2092234,
+        "amenity": "pharmacy",
+        "id": "node/460206314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9680645,
+          -19.89086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/504709867",
+      "properties": {
+        "timestamp": "2009-09-22T01:21:32Z",
+        "version": 2,
+        "changeset": 2563785,
+        "amenity": "pharmacy",
+        "name": "Araújo",
+        "id": "node/504709867"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9204779,
+          -19.9490255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505535329",
+      "properties": {
+        "timestamp": "2009-09-22T18:45:15Z",
+        "version": 1,
+        "changeset": 2574295,
+        "amenity": "pharmacy",
+        "id": "node/505535329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9416378,
+          -19.9395654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564238255",
+      "properties": {
+        "timestamp": "2009-11-14T21:50:15Z",
+        "version": 1,
+        "changeset": 3117418,
+        "amenity": "pharmacy",
+        "name": "Araújo",
+        "id": "node/564238255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9313253,
+          -19.9356394
+        ]
+      }
+    }
+  ]
+}

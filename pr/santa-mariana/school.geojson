@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29225324",
+      "properties": {
+        "timestamp": "2008-12-27T21:29:57Z",
+        "version": 8,
+        "changeset": 629787,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Estadual Pedro Moreira",
+        "id": "way/29225324"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5264818,
+              -23.1475612
+            ],
+            [
+              -50.5262501,
+              -23.1482715
+            ],
+            [
+              -50.5253317,
+              -23.1480584
+            ],
+            [
+              -50.5255549,
+              -23.1473245
+            ],
+            [
+              -50.5264818,
+              -23.1475612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29225535",
+      "properties": {
+        "timestamp": "2008-12-27T22:57:19Z",
+        "version": 7,
+        "changeset": 629787,
+        "amenity": "school",
+        "area": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Estadual Joaquim Maria Machado de Assis",
+        "id": "way/29225535"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5131351,
+              -23.1476371
+            ],
+            [
+              -50.5128176,
+              -23.148532
+            ],
+            [
+              -50.5114614,
+              -23.1479133
+            ],
+            [
+              -50.511779,
+              -23.147203
+            ],
+            [
+              -50.5131351,
+              -23.1476371
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29231082",
+      "properties": {
+        "timestamp": "2008-12-27T15:31:40Z",
+        "version": 3,
+        "changeset": 628290,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Estadual Gino Dellamuta",
+        "id": "way/29231082"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5128605,
+              -23.1528063
+            ],
+            [
+              -50.5133325,
+              -23.1529463
+            ],
+            [
+              -50.5131179,
+              -23.1535955
+            ],
+            [
+              -50.5126888,
+              -23.1534771
+            ],
+            [
+              -50.5128605,
+              -23.1528063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321446282",
+      "properties": {
+        "timestamp": "2008-12-24T12:44:53Z",
+        "version": 2,
+        "changeset": 584089,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Pedro Moreira",
+        "id": "node/321446282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5259153,
+          -23.1478738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321448381",
+      "properties": {
+        "timestamp": "2008-12-24T12:56:11Z",
+        "version": 1,
+        "changeset": 584089,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Estadual Joaquim Maria Machado de Assis",
+        "id": "node/321448381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5123197,
+          -23.1477791
+        ]
+      }
+    }
+  ]
+}

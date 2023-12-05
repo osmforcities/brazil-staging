@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/497396479",
+      "properties": {
+        "timestamp": "2009-09-15T23:57:56Z",
+        "version": 3,
+        "changeset": 2497795,
+        "amenity": "hospital",
+        "key": "Santa Casa",
+        "id": "node/497396479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9012573,
+          -22.0112414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/499609699",
+      "properties": {
+        "timestamp": "2009-09-17T21:57:08Z",
+        "version": 2,
+        "changeset": 2517114,
+        "amenity": "hospital",
+        "name": "Unimed",
+        "id": "node/499609699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8900055,
+          -22.0108844
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/560406019",
+      "properties": {
+        "timestamp": "2009-11-10T13:17:07Z",
+        "version": 1,
+        "changeset": 3081803,
+        "amenity": "cinema",
+        "name": "Cinema São Luís",
+        "id": "node/560406019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8819077,
+          -8.0621753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/561522275",
+      "properties": {
+        "timestamp": "2009-11-12T22:04:11Z",
+        "version": 1,
+        "changeset": 3101816,
+        "amenity": "cinema",
+        "name": "Cinema da Fundação",
+        "id": "node/561522275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8999447,
+          -8.0594384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564865669",
+      "properties": {
+        "timestamp": "2009-11-15T16:47:41Z",
+        "version": 1,
+        "changeset": 3123457,
+        "amenity": "cinema",
+        "id": "node/564865669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9053819,
+          -8.1191675
+        ]
+      }
+    }
+  ]
+}

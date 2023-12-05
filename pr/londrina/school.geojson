@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/361223532",
+      "properties": {
+        "timestamp": "2009-03-16T22:12:57Z",
+        "version": 1,
+        "changeset": 823030,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Londtran - Escola de Trânsito de Londrina",
+        "id": "node/361223532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1632968,
+          -23.3054117
+        ]
+      }
+    }
+  ]
+}

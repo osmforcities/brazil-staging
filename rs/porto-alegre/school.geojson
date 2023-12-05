@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/441008121",
+      "properties": {
+        "timestamp": "2009-07-17T01:49:16Z",
+        "version": 4,
+        "changeset": 1850047,
+        "amenity": "school",
+        "name": "Colégio Americano",
+        "id": "node/441008121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.200393,
+          -30.0367157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442752977",
+      "properties": {
+        "timestamp": "2009-07-17T01:14:16Z",
+        "version": 1,
+        "changeset": 1849976,
+        "amenity": "school",
+        "name": "Colégio Bom Conselho",
+        "id": "node/442752977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2085794,
+          -30.0275042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442753602",
+      "properties": {
+        "timestamp": "2009-07-17T01:22:33Z",
+        "version": 1,
+        "changeset": 1850027,
+        "amenity": "school",
+        "name": "Colégio Uruguai",
+        "id": "node/442753602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1987787,
+          -30.0276935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647407",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:28Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "school",
+        "name": "Protásio Alves",
+        "id": "node/476647407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2177204,
+          -30.0475835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647411",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:29Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "school",
+        "name": "Esc. Téc. Parobé",
+        "id": "node/476647411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2314276,
+          -30.0378132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647415",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:30Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "school",
+        "name": "Julio de Castilhos",
+        "id": "node/476647415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2127165,
+          -30.0440619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647417",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:32Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "school",
+        "name": "Escola Monteiro Lobato",
+        "id": "node/476647417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1736035,
+          -30.0250991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647419",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:32Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "school",
+        "name": "Escola Província de São Pedro",
+        "id": "node/476647419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1728052,
+          -30.0254409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647427",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:34Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "school",
+        "name": "Escola Estadual Bahia",
+        "id": "node/476647427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1747793,
+          -30.0240661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647443",
+      "properties": {
+        "timestamp": "2009-12-16T12:36:38Z",
+        "version": 2,
+        "changeset": 3386220,
+        "amenity": "school",
+        "name": "Escola Prof. Alcides Cunha",
+        "id": "node/476647443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1230721,
+          -30.0399414
+        ]
+      }
+    }
+  ]
+}

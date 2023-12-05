@@ -1,0 +1,1275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30931526",
+      "properties": {
+        "timestamp": "2009-02-10T06:20:19Z",
+        "version": 4,
+        "changeset": 319830,
+        "amenity": "school",
+        "building": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Pedro II - Unidade Humaitá II",
+        "url": "http://www.cp2.g12.br/UEs/hu2/Index.htm",
+        "id": "way/30931526"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1995506,
+              -22.9551394
+            ],
+            [
+              -43.1985206,
+              -22.9562459
+            ],
+            [
+              -43.1983318,
+              -22.9558744
+            ],
+            [
+              -43.1992244,
+              -22.9549023
+            ],
+            [
+              -43.1995506,
+              -22.9551394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30931528",
+      "properties": {
+        "timestamp": "2009-02-10T06:20:24Z",
+        "version": 2,
+        "changeset": 319830,
+        "amenity": "school",
+        "building": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Pedro II - Unidade Humaitá I",
+        "url": "http://www.cp2.g12.br/UEs/hu1/index.htm",
+        "id": "way/30931528"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1995763,
+              -22.9551236
+            ],
+            [
+              -43.1992416,
+              -22.9548865
+            ],
+            [
+              -43.1997223,
+              -22.9542858
+            ],
+            [
+              -43.200057,
+              -22.9545071
+            ],
+            [
+              -43.1996278,
+              -22.9549813
+            ],
+            [
+              -43.1996708,
+              -22.9550287
+            ],
+            [
+              -43.1995763,
+              -22.9551236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299616014",
+      "properties": {
+        "timestamp": "2008-09-25T01:27:37Z",
+        "version": 1,
+        "changeset": 695838,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10b",
+        "name": "CIEP",
+        "id": "node/299616014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.199509,
+          -22.9592982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299617842",
+      "properties": {
+        "timestamp": "2008-09-25T02:13:32Z",
+        "version": 1,
+        "changeset": 695838,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10b",
+        "name": "CIEP",
+        "id": "node/299617842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2224944,
+          -22.9782012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299619255",
+      "properties": {
+        "timestamp": "2008-11-24T03:43:45Z",
+        "version": 2,
+        "changeset": 788396,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10b",
+        "name": "Escola Técnica do Arsenal de Marinha",
+        "id": "node/299619255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1739658,
+          -22.8949356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305085889",
+      "properties": {
+        "timestamp": "2008-11-24T03:43:44Z",
+        "version": 3,
+        "changeset": 788396,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10e",
+        "name": "Centro de Instrução Almirante Wanderkolk",
+        "id": "node/305085889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1748179,
+          -22.8837416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/330966148",
+      "properties": {
+        "timestamp": "2009-01-10T18:21:06Z",
+        "version": 1,
+        "changeset": 767006,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "CIEP 001 - Centro Integrado de Educação Pública Presidente Tancredo Neves",
+        "id": "node/330966148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1767656,
+          -22.9230977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331381453",
+      "properties": {
+        "timestamp": "2009-02-12T01:29:03Z",
+        "version": 2,
+        "changeset": 376225,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Instituto Nacional de Educação de Surdos",
+        "id": "node/331381453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1875595,
+          -22.9341661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338738119",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:08Z",
+        "version": 2,
+        "changeset": 1683925,
+        "addr:housenumber": "113",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Santo Antonio Maria Zaccaria",
+        "url": "http://www.zaccaria.g12.br/",
+        "id": "node/338738119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1761699,
+          -22.9243117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344369520",
+      "properties": {
+        "timestamp": "2009-02-11T02:34:28Z",
+        "version": 1,
+        "changeset": 349811,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Instituto D'España",
+        "id": "node/344369520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2010179,
+          -22.9558206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366618621",
+      "properties": {
+        "timestamp": "2009-03-28T17:14:10Z",
+        "version": 1,
+        "changeset": 865230,
+        "amenity": "school",
+        "name": "Escola Rana Cosac",
+        "id": "node/366618621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1624505,
+          -22.9469517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/386125889",
+      "properties": {
+        "timestamp": "2009-10-11T03:31:40Z",
+        "version": 2,
+        "changeset": 2809745,
+        "amenity": "school",
+        "name": "Colégio Amaro Cavalcanti",
+        "id": "node/386125889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.178625,
+          -22.9303252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/386125980",
+      "properties": {
+        "timestamp": "2009-11-22T23:41:28Z",
+        "version": 3,
+        "changeset": 3192086,
+        "amenity": "school",
+        "name": "Escola Municipal Vital Brasil",
+        "id": "node/386125980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1760058,
+          -22.9252166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/401621563",
+      "properties": {
+        "timestamp": "2009-07-21T23:47:07Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:continent": "South America",
+        "addr:country": "BR",
+        "addr:housenumber": "722",
+        "addr:state_code": "RJ",
+        "addr:street": "Estrada da Gávea",
+        "amenity": "school",
+        "name": "Escola Carolina Patrício",
+        "url": "http://www.carolinapatricio.com.br/",
+        "id": "node/401621563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2598457,
+          -22.995819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310725",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:34Z",
+        "version": 1,
+        "changeset": 1346979,
+        "amenity": "school",
+        "name": "Escola Municipal Castelnuovo",
+        "id": "node/412310725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.191916,
+          -22.9874166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310726",
+      "properties": {
+        "timestamp": "2009-05-28T22:34:35Z",
+        "version": 1,
+        "changeset": 1346979,
+        "amenity": "school",
+        "name": "Escola Municipal Santo Tomás de Aquino",
+        "id": "node/412310726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.165476,
+          -22.9617995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412486892",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:12Z",
+        "version": 2,
+        "changeset": 3045487,
+        "amenity": "school",
+        "name": "Notre Dame Ipanema",
+        "id": "node/412486892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2041626,
+          -22.9827041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415816265",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:11Z",
+        "version": 3,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "459",
+        "addr:street": "Avenida Pasteur",
+        "amenity": "school",
+        "name": "Colégio Mary Poppins",
+        "url": "http://www.marypoppins.com.br/",
+        "id": "node/415816265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1683901,
+          -22.9537731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415816266",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:11Z",
+        "version": 3,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "433",
+        "addr:street": "Avenida Pasteur",
+        "amenity": "school",
+        "name": "Escola Municipal Minas Gerais",
+        "id": "node/415816266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.168877,
+          -22.9536398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166001",
+      "properties": {
+        "timestamp": "2009-06-06T01:25:00Z",
+        "version": 1,
+        "changeset": 1433936,
+        "amenity": "school",
+        "name": "Colégio Imperial",
+        "id": "node/416166001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1810544,
+          -22.9513458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418012876",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:51Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "117",
+        "addr:street": "Rua Voluntários da Pátria",
+        "amenity": "school",
+        "name": "Microcamp",
+        "id": "node/418012876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1854831,
+          -22.9518849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418044481",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:56Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "147",
+        "addr:street": "Rua Voluntários da Pátria",
+        "amenity": "school",
+        "name": "Curso Freitas Ribeiro",
+        "url": "http://www.cursofreitasribeiro.com.br/",
+        "id": "node/418044481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.186439,
+          -22.9522063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/422079884",
+      "properties": {
+        "timestamp": "2009-07-21T23:49:24Z",
+        "version": 3,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "153",
+        "addr:postcode": "22221-000",
+        "amenity": "school",
+        "name": "Colégio Pinheiro Guimarães",
+        "url": "http://www.pinheiroguimaraes.br/",
+        "id": "node/422079884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782425,
+          -22.9259983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430964806",
+      "properties": {
+        "timestamp": "2009-06-29T22:52:56Z",
+        "version": 1,
+        "changeset": 1682973,
+        "amenity": "school",
+        "name": "Escola Municipal Friedenreich",
+        "id": "node/430964806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2317986,
+          -22.9128852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013517",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:00Z",
+        "version": 1,
+        "changeset": 1683925,
+        "amenity": "school",
+        "name": "Liceu Franco-Brasileiro",
+        "id": "node/431013517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1797624,
+          -22.9316878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013524",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:00Z",
+        "version": 1,
+        "changeset": 1683925,
+        "amenity": "school",
+        "name": "CNA",
+        "id": "node/431013524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1795254,
+          -22.9316088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013585",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:03Z",
+        "version": 1,
+        "changeset": 1683925,
+        "amenity": "school",
+        "name": "Colégio Bonfim",
+        "url": "http://bonfimcolegio.com.br/",
+        "id": "node/431013585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1768142,
+          -22.928231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431750145",
+      "properties": {
+        "timestamp": "2009-07-01T19:57:01Z",
+        "version": 1,
+        "changeset": 1703673,
+        "addr:housenumber": "38",
+        "amenity": "school",
+        "name": "Autoescola",
+        "id": "node/431750145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1773282,
+          -22.922567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452638358",
+      "properties": {
+        "timestamp": "2009-07-31T20:36:13Z",
+        "version": 1,
+        "changeset": 1997707,
+        "amenity": "school",
+        "name": "Colégio Cenecista Capitão Lemos Cunha",
+        "id": "node/452638358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2137117,
+          -22.8068203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452665714",
+      "properties": {
+        "timestamp": "2009-07-31T22:04:14Z",
+        "version": 1,
+        "changeset": 1998291,
+        "amenity": "school",
+        "name": "Colégio Cambaúba",
+        "id": "node/452665714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2082701,
+          -22.8058946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/454457447",
+      "properties": {
+        "timestamp": "2009-10-06T22:43:54Z",
+        "version": 2,
+        "changeset": 2766183,
+        "amenity": "school",
+        "name": "Colégio da Imaculada Conceição",
+        "id": "node/454457447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1845147,
+          -22.9454909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/454457605",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:30Z",
+        "version": 1,
+        "changeset": 2016069,
+        "addr:housenumber": "77",
+        "addr:street": "Travessa Pepe",
+        "amenity": "school",
+        "id": "node/454457605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1820516,
+          -22.9541385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494018374",
+      "properties": {
+        "timestamp": "2009-09-12T11:13:02Z",
+        "version": 1,
+        "changeset": 2456107,
+        "amenity": "school",
+        "name": "INSD",
+        "id": "node/494018374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2928562,
+          -22.8276629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494527305",
+      "properties": {
+        "timestamp": "2009-09-14T15:39:51Z",
+        "version": 2,
+        "changeset": 2482604,
+        "amenity": "school",
+        "key": "Centro de Artes Calouste Gulbenkian",
+        "id": "node/494527305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1958212,
+          -22.9083885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495141006",
+      "properties": {
+        "timestamp": "2009-09-13T13:57:56Z",
+        "version": 1,
+        "changeset": 2469195,
+        "amenity": "school",
+        "name": "Centro Integrado de Educação Pública João Batista dos Santos",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/495141006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3596319,
+          -22.9475051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495166243",
+      "properties": {
+        "timestamp": "2009-09-13T14:16:58Z",
+        "version": 1,
+        "changeset": 2469195,
+        "addr:housenumber": "20",
+        "addr:street": "Rua Aquilino Ribeiro",
+        "amenity": "school",
+        "name": "Creche Escola Estação do Saber",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/495166243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3708414,
+          -22.946114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495209011",
+      "properties": {
+        "timestamp": "2009-09-14T22:02:52Z",
+        "version": 2,
+        "changeset": 2486921,
+        "amenity": "school",
+        "name": "Escola Municipal José Clemente",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/495209011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3691221,
+          -22.9482157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496161627",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:21Z",
+        "version": 2,
+        "changeset": 3066829,
+        "amenity": "school",
+        "name": "Colégio Cruzeiro",
+        "id": "node/496161627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1894643,
+          -22.9113328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496464081",
+      "properties": {
+        "timestamp": "2009-09-14T21:49:56Z",
+        "version": 1,
+        "changeset": 2486858,
+        "amenity": "school",
+        "name": "Escola Municipal Joaquim Fontes",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/496464081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3695654,
+          -22.949425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496502551",
+      "properties": {
+        "timestamp": "2009-09-14T22:31:55Z",
+        "version": 1,
+        "changeset": 2486921,
+        "amenity": "school",
+        "name": "Escola Municipal Augusto Magne",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/496502551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3622213,
+          -22.9510136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496503009",
+      "properties": {
+        "timestamp": "2009-09-14T22:33:00Z",
+        "version": 1,
+        "changeset": 2486921,
+        "amenity": "school",
+        "name": "Escola Municipal Monsenhor Cordioli",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/496503009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3616463,
+          -22.9509346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496509568",
+      "properties": {
+        "timestamp": "2009-09-14T22:45:02Z",
+        "version": 1,
+        "changeset": 2486921,
+        "amenity": "school",
+        "name": "Sala Carolina Maria de Jesus",
+        "working_hours": "Mo-Fr 10:00-16:00; Sa 10:00-12:00",
+        "id": "node/496509568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3634573,
+          -22.9495119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496511776",
+      "properties": {
+        "timestamp": "2009-09-14T22:50:16Z",
+        "version": 1,
+        "changeset": 2486921,
+        "amenity": "school",
+        "name": "Escola Municipal Alberto Rangel",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/496511776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3628736,
+          -22.9494092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496525695",
+      "properties": {
+        "timestamp": "2009-09-14T23:07:12Z",
+        "version": 1,
+        "changeset": 2487274,
+        "addr:housenumber": "Quadra 29",
+        "addr:street": "Rua do Cenáculo",
+        "amenity": "school",
+        "name": "Fundação para a Infância e Adolescência",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/496525695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3628393,
+          -22.9482473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496528460",
+      "properties": {
+        "timestamp": "2009-09-14T23:13:30Z",
+        "version": 1,
+        "changeset": 2487274,
+        "amenity": "school",
+        "name": "Futuro do Amanhã",
+        "source": "Wikimapa",
+        "wikimapa:author": "juliane",
+        "id": "node/496528460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3637234,
+          -22.9480972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749000",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:25Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "104",
+        "addr:street": "Rua República do Peru",
+        "amenity": "school",
+        "name": "Colégio Estadual Pedro Álvares Cabral",
+        "id": "node/529749000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1810796,
+          -22.9679773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749003",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:26Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "1976",
+        "addr:street": "Avenida Atlântica",
+        "amenity": "school",
+        "name": "Escola Municipal Doutor Cícero Penna",
+        "id": "node/529749003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1812427,
+          -22.968649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749008",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:28Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "21",
+        "addr:street": "Rua Tonelero",
+        "amenity": "school",
+        "name": "Escola Municipal Alencastro Guimarães",
+        "id": "node/529749008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1810195,
+          -22.9647135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749009",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:28Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "56",
+        "addr:street": "Rua Tonelero",
+        "amenity": "school",
+        "name": "Colégio Sagrado Coração de Maria",
+        "telephone": "+55-21-25459900",
+        "url": "http://www.scm-rj.com.br/",
+        "id": "node/529749009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1822126,
+          -22.9644606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749015",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:32Z",
+        "version": 1,
+        "changeset": 2831751,
+        "amenity": "school",
+        "name": "Colégio Estadual Infante Dom Henrique",
+        "id": "node/529749015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1776721,
+          -22.961908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749031",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:38Z",
+        "version": 1,
+        "changeset": 2831751,
+        "amenity": "school",
+        "name": "Escola Roma",
+        "id": "node/529749031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176213,
+          -22.965156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557474",
+      "properties": {
+        "timestamp": "2009-11-06T03:29:41Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "school",
+        "name": "Corcovado",
+        "id": "node/557557474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1947384,
+          -22.9507061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557532",
+      "properties": {
+        "timestamp": "2009-11-06T03:29:42Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "school",
+        "name": "Santo Inácio",
+        "id": "node/557557532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1901292,
+          -22.9491095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557639",
+      "properties": {
+        "timestamp": "2009-11-06T03:29:48Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "school",
+        "name": "Escola de Artes Visuais do Parque Lage",
+        "id": "node/557557639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2121706,
+          -22.960032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558303",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:24Z",
+        "version": 1,
+        "changeset": 3045487,
+        "amenity": "school",
+        "name": "Colégio São Paulo",
+        "id": "node/557558303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.194807,
+          -22.9874925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645092",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:04Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "school",
+        "name": "Escola de Música da UFRJ",
+        "id": "node/559645092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1781519,
+          -22.9135623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645134",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:11Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "school",
+        "name": "Colégio de Aplicação Professor José de Souza Herdy",
+        "id": "node/559645134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1781261,
+          -22.9154359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645169",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:15Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "school",
+        "name": "MABE",
+        "id": "node/559645169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1848381,
+          -22.9139655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645252",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:28Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "school",
+        "name": "Externato Angelorium",
+        "id": "node/559645252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177757,
+          -22.9199737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/567544108",
+      "properties": {
+        "timestamp": "2009-11-20T20:23:33Z",
+        "version": 1,
+        "changeset": 3171405,
+        "amenity": "school",
+        "name": "Centro de Estudos Guerra de Moraes",
+        "id": "node/567544108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1773267,
+          -22.9049416
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/320548710",
+      "properties": {
+        "timestamp": "2008-12-21T14:02:53Z",
+        "version": 3,
+        "changeset": 538597,
+        "created_by": "Potlatch 0.10f",
+        "name": "Lord Hotel",
+        "tourism": "hotel",
+        "id": "node/320548710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3045866,
+          -2.5288192
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/427946372",
+      "properties": {
+        "timestamp": "2009-12-11T18:42:01Z",
+        "version": 3,
+        "changeset": 3351141,
+        "amenity": "hospital",
+        "name": "Hospital São João",
+        "id": "node/427946372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5923965,
+          -29.5578904
+        ]
+      }
+    }
+  ]
+}

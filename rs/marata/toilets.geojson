@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/39218866",
+      "properties": {
+        "timestamp": "2009-08-17T15:05:56Z",
+        "version": 1,
+        "changeset": 2178482,
+        "amenity": "toilets",
+        "building": "yes",
+        "id": "way/39218866"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5556214,
+              -29.5496254
+            ],
+            [
+              -51.5555662,
+              -29.5496207
+            ],
+            [
+              -51.5555696,
+              -29.5495904
+            ],
+            [
+              -51.5556248,
+              -29.5495951
+            ],
+            [
+              -51.5556214,
+              -29.5496254
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

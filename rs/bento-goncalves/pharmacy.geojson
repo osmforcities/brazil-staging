@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/506716307",
+      "properties": {
+        "timestamp": "2009-10-06T13:55:08Z",
+        "version": 2,
+        "changeset": 2760412,
+        "amenity": "pharmacy",
+        "id": "node/506716307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5216441,
+          -29.1680126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506716335",
+      "properties": {
+        "timestamp": "2009-10-06T13:55:20Z",
+        "version": 3,
+        "changeset": 2760412,
+        "amenity": "pharmacy",
+        "name": "Mina",
+        "id": "node/506716335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5217471,
+          -29.1684098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506716507",
+      "properties": {
+        "timestamp": "2009-09-24T17:45:33Z",
+        "version": 1,
+        "changeset": 2607609,
+        "amenity": "pharmacy",
+        "name": "Musafarma",
+        "id": "node/506716507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5216462,
+          -29.1684778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506716765",
+      "properties": {
+        "timestamp": "2009-09-24T17:46:16Z",
+        "version": 1,
+        "changeset": 2607609,
+        "amenity": "pharmacy",
+        "id": "node/506716765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5207879,
+          -29.1718278
+        ]
+      }
+    }
+  ]
+}

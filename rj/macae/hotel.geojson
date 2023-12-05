@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/501852628",
+      "properties": {
+        "timestamp": "2009-09-19T14:51:29Z",
+        "version": 1,
+        "changeset": 2534845,
+        "name": "Lagos Copa",
+        "tourism": "hotel",
+        "id": "node/501852628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7714938,
+          -22.3854461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501852696",
+      "properties": {
+        "timestamp": "2009-09-19T14:51:31Z",
+        "version": 1,
+        "changeset": 2534845,
+        "name": "Comfort Suites",
+        "tourism": "hotel",
+        "id": "node/501852696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8023044,
+          -22.4074591
+        ]
+      }
+    }
+  ]
+}

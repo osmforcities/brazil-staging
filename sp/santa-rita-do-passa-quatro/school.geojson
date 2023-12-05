@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/488183288",
+      "properties": {
+        "timestamp": "2009-09-08T18:58:04Z",
+        "version": 4,
+        "changeset": 2416969,
+        "amenity": "school",
+        "name": "E. E. Nelson Fernandes",
+        "id": "node/488183288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4780366,
+          -21.7121409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/488194454",
+      "properties": {
+        "timestamp": "2009-09-07T18:16:51Z",
+        "version": 1,
+        "changeset": 2404761,
+        "amenity": "school",
+        "name": "Madre Carmelita",
+        "id": "node/488194454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4834885,
+          -21.7024191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/574793905",
+      "properties": {
+        "timestamp": "2009-11-29T16:34:58Z",
+        "version": 1,
+        "changeset": 3247368,
+        "alt_name": "Centro Educacional SESI 255",
+        "amenity": "school",
+        "name": "SESI",
+        "id": "node/574793905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4734548,
+          -21.7061375
+        ]
+      }
+    }
+  ]
+}

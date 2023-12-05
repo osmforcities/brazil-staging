@@ -1,0 +1,541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30105200",
+      "properties": {
+        "timestamp": "2009-05-13T20:52:28Z",
+        "version": 3,
+        "changeset": 1179371,
+        "amenity": "university",
+        "created_by": "Potlatch 0.10f",
+        "name": "UFRJ - Campus Praia Vermelha",
+        "id": "way/30105200"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1763711,
+              -22.9563978
+            ],
+            [
+              -43.1743283,
+              -22.9535367
+            ],
+            [
+              -43.1741137,
+              -22.9536577
+            ],
+            [
+              -43.1739224,
+              -22.9533051
+            ],
+            [
+              -43.1738133,
+              -22.9531236
+            ],
+            [
+              -43.1739077,
+              -22.9530625
+            ],
+            [
+              -43.1734614,
+              -22.9523907
+            ],
+            [
+              -43.1749377,
+              -22.9514344
+            ],
+            [
+              -43.175178,
+              -22.9513395
+            ],
+            [
+              -43.1753411,
+              -22.9514502
+            ],
+            [
+              -43.1775126,
+              -22.9544851
+            ],
+            [
+              -43.1775727,
+              -22.9547143
+            ],
+            [
+              -43.1775641,
+              -22.9549514
+            ],
+            [
+              -43.1766457,
+              -22.9554256
+            ],
+            [
+              -43.177032,
+              -22.9560026
+            ],
+            [
+              -43.1763711,
+              -22.9563978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30136579",
+      "properties": {
+        "timestamp": "2009-06-05T00:22:20Z",
+        "version": 14,
+        "changeset": 1425369,
+        "amenity": "university",
+        "created_by": "Potlatch 0.10f",
+        "name": "Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - Campus V",
+        "url": "http://www.unirio.br/",
+        "id": "way/30136579"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1683825,
+              -22.9542027
+            ],
+            [
+              -43.1684177,
+              -22.9541914
+            ],
+            [
+              -43.169421,
+              -22.9538707
+            ],
+            [
+              -43.1696165,
+              -22.9544117
+            ],
+            [
+              -43.1698602,
+              -22.9543334
+            ],
+            [
+              -43.1700108,
+              -22.9547439
+            ],
+            [
+              -43.1700159,
+              -22.9547419
+            ],
+            [
+              -43.1713657,
+              -22.954362
+            ],
+            [
+              -43.1715013,
+              -22.9548463
+            ],
+            [
+              -43.1716489,
+              -22.9553736
+            ],
+            [
+              -43.1701778,
+              -22.9551068
+            ],
+            [
+              -43.1687736,
+              -22.9553025
+            ],
+            [
+              -43.1683825,
+              -22.9542027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33298755",
+      "properties": {
+        "timestamp": "2009-07-21T23:55:06Z",
+        "version": 4,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "480",
+        "addr:postcode": "22290-240",
+        "addr:street": "Avenida Pasteur",
+        "amenity": "university",
+        "landuse": "military",
+        "name": "Escola de Guerra Naval",
+        "url": "http://www.egn.mar.mil.br/",
+        "id": "way/33298755"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1683524,
+              -22.954219
+            ],
+            [
+              -43.1687129,
+              -22.955199
+            ],
+            [
+              -43.1675284,
+              -22.9555072
+            ],
+            [
+              -43.1672623,
+              -22.9547327
+            ],
+            [
+              -43.1673396,
+              -22.954543
+            ],
+            [
+              -43.1683524,
+              -22.954219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34428503",
+      "properties": {
+        "timestamp": "2009-07-21T23:55:11Z",
+        "version": 3,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "296",
+        "addr:postcode": "22290-240",
+        "addr:street": "Avenida Pasteur",
+        "amenity": "university",
+        "name": "UNIRIO - Campus IV",
+        "note": "Prédio da Reitoria, Prédio da Nutrição e Prédio da Enfermagem",
+        "url": "http://www.unirio.br/",
+        "id": "way/34428503"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1734549,
+              -22.9523986
+            ],
+            [
+              -43.1738856,
+              -22.9530583
+            ],
+            [
+              -43.173793,
+              -22.9531225
+            ],
+            [
+              -43.1738977,
+              -22.9532943
+            ],
+            [
+              -43.1735441,
+              -22.9534896
+            ],
+            [
+              -43.1731083,
+              -22.9526202
+            ],
+            [
+              -43.1734549,
+              -22.9523986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38517376",
+      "properties": {
+        "timestamp": "2009-08-05T22:36:51Z",
+        "version": 2,
+        "changeset": 2050866,
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universidade Estácio de Sá",
+        "id": "way/38517376"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2011267,
+              -22.8049769
+            ],
+            [
+              -43.2010102,
+              -22.8048032
+            ],
+            [
+              -43.2014944,
+              -22.8045272
+            ],
+            [
+              -43.2016475,
+              -22.8047555
+            ],
+            [
+              -43.2014991,
+              -22.8048401
+            ],
+            [
+              -43.2015804,
+              -22.8049613
+            ],
+            [
+              -43.2010769,
+              -22.8052484
+            ],
+            [
+              -43.200959,
+              -22.8050726
+            ],
+            [
+              -43.2011267,
+              -22.8049769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299615128",
+      "properties": {
+        "timestamp": "2009-08-02T16:48:51Z",
+        "version": 4,
+        "changeset": 2016069,
+        "amenity": "university",
+        "name": "Universidade Santa Úrsula",
+        "url": "http://usu.br/",
+        "id": "node/299615128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1830693,
+          -22.9415389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299617722",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:08Z",
+        "version": 3,
+        "changeset": 3045487,
+        "amenity": "university",
+        "name": "Pontifícia Universidade Católica",
+        "id": "node/299617722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.233242,
+          -22.9791957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326439672",
+      "properties": {
+        "timestamp": "2009-07-06T13:03:05Z",
+        "version": 8,
+        "changeset": 1752329,
+        "amenity": "university",
+        "created_by": "Potlatch 0.10f",
+        "description": "Universidade Federal do Rio de Janeiro (UFRJ) - Campus Praia Vermelha",
+        "name": "UFRJ",
+        "old_name": "Universidade do Brasil",
+        "id": "node/326439672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1750578,
+          -22.953666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338512236",
+      "properties": {
+        "timestamp": "2009-01-28T03:07:21Z",
+        "version": 1,
+        "changeset": 846466,
+        "amenity": "university",
+        "name": "UniverCidade",
+        "id": "node/338512236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1789196,
+          -22.904557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/395809161",
+      "properties": {
+        "timestamp": "2009-05-13T21:50:01Z",
+        "version": 1,
+        "changeset": 1180234,
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "node/395809161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1684177,
+          -22.9541914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/395809163",
+      "properties": {
+        "timestamp": "2009-05-13T21:50:01Z",
+        "version": 1,
+        "changeset": 1180234,
+        "barrier": "gate",
+        "bicycle": "no",
+        "foot": "yes",
+        "id": "node/395809163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1700159,
+          -22.9547419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418044497",
+      "properties": {
+        "timestamp": "2009-06-09T21:06:30Z",
+        "version": 1,
+        "changeset": 1471990,
+        "amenity": "university",
+        "name": "UNIRIO - CCJP",
+        "id": "node/418044497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1850388,
+          -22.9519604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479696149",
+      "properties": {
+        "timestamp": "2009-09-01T12:08:26Z",
+        "version": 2,
+        "changeset": 2336272,
+        "addr:housenumber": "106",
+        "addr:street": "Rua André Cavalcanti",
+        "amenity": "university",
+        "name": "Escola Nacional de Ciências Estatísticas",
+        "id": "node/479696149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1861187,
+          -22.9171005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/517744583",
+      "properties": {
+        "timestamp": "2009-10-02T16:01:51Z",
+        "version": 1,
+        "changeset": 2713691,
+        "amenity": "university",
+        "name": "UniverCidade",
+        "id": "node/517744583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1772543,
+          -22.9045506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645191",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:19Z",
+        "version": 1,
+        "changeset": 3066829,
+        "amenity": "university",
+        "name": "UNIRIO - Instituto Biomédico",
+        "id": "node/559645191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1917818,
+          -22.908629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583011545",
+      "properties": {
+        "timestamp": "2009-12-07T21:50:43Z",
+        "version": 1,
+        "changeset": 3320041,
+        "amenity": "university",
+        "name": "Universidade Castello Branco",
+        "id": "node/583011545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4366017,
+          -23.0050233
+        ]
+      }
+    }
+  ]
+}

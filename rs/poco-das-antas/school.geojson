@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/497678655",
+      "properties": {
+        "timestamp": "2009-09-21T12:55:45Z",
+        "version": 2,
+        "changeset": 2556818,
+        "amenity": "school",
+        "name": "Escola",
+        "id": "node/497678655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6145285,
+          -29.4516646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497678802",
+      "properties": {
+        "timestamp": "2009-09-21T12:55:46Z",
+        "version": 2,
+        "changeset": 2556818,
+        "amenity": "school",
+        "name": "Escola",
+        "id": "node/497678802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6709113,
+          -29.4244089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497678825",
+      "properties": {
+        "timestamp": "2009-09-21T12:55:44Z",
+        "version": 2,
+        "changeset": 2556818,
+        "amenity": "school",
+        "name": "Escola",
+        "id": "node/497678825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6705748,
+          -29.4497919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497678874",
+      "properties": {
+        "timestamp": "2009-09-21T12:55:46Z",
+        "version": 2,
+        "changeset": 2556818,
+        "amenity": "school",
+        "name": "Escola",
+        "id": "node/497678874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6509914,
+          -29.4196058
+        ]
+      }
+    }
+  ]
+}

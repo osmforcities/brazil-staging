@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/488569987",
+      "properties": {
+        "timestamp": "2009-09-07T22:04:47Z",
+        "version": 2,
+        "changeset": 2408238,
+        "amenity": "cinema",
+        "id": "node/488569987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8451366,
+          -14.8916896
+        ]
+      }
+    }
+  ]
+}

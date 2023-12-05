@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/571288616",
+      "properties": {
+        "timestamp": "2009-11-25T23:56:12Z",
+        "version": 1,
+        "changeset": 3217206,
+        "amenity": "school",
+        "id": "node/571288616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5115231,
+          -12.9987792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583564533",
+      "properties": {
+        "timestamp": "2009-12-09T13:55:57Z",
+        "version": 1,
+        "changeset": 3333811,
+        "amenity": "school",
+        "name": "ISBA",
+        "id": "node/583564533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5079867,
+          -13.0100803
+        ]
+      }
+    }
+  ]
+}

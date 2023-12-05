@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/315997515",
+      "properties": {
+        "timestamp": "2008-12-27T01:58:23Z",
+        "version": 5,
+        "changeset": 622199,
+        "created_by": "Potlatch 0.10f",
+        "name": "Cachoeira Grande",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/315997515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6343249,
+          -19.3470995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315998243",
+      "properties": {
+        "timestamp": "2009-01-17T23:56:03Z",
+        "version": 4,
+        "changeset": 806438,
+        "created_by": "Potlatch 0.10f",
+        "name": "Pedrão",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/315998243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.645149,
+          -19.3431312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321707007",
+      "properties": {
+        "timestamp": "2008-12-26T04:29:10Z",
+        "version": 1,
+        "changeset": 608086,
+        "name": "Cachoeira das Andorinhas",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/321707007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5575022,
+          -19.3424869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321707068",
+      "properties": {
+        "timestamp": "2008-12-27T02:00:29Z",
+        "version": 2,
+        "changeset": 622199,
+        "waterway": "waterfall",
+        "id": "node/321707068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5567501,
+          -19.3433852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321773756",
+      "properties": {
+        "timestamp": "2008-12-26T14:32:18Z",
+        "version": 1,
+        "changeset": 614185,
+        "name": "Cachoeira do S",
+        "waterway": "waterfall",
+        "id": "node/321773756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6076798,
+          -19.3801792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321774643",
+      "properties": {
+        "timestamp": "2008-12-27T02:00:43Z",
+        "version": 2,
+        "changeset": 622199,
+        "name": "Cachoeira Farofa de Cima",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/321774643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5701027,
+          -19.3770977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321774899",
+      "properties": {
+        "timestamp": "2008-12-27T02:02:51Z",
+        "version": 2,
+        "changeset": 622199,
+        "name": "Cachoeira da Farofa",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/321774899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5755766,
+          -19.3793967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321909327",
+      "properties": {
+        "timestamp": "2008-12-27T01:53:25Z",
+        "version": 1,
+        "changeset": 622199,
+        "name": "Cachoeira Braunas",
+        "waterway": "waterfall",
+        "id": "node/321909327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5363872,
+          -19.4447789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321909912",
+      "properties": {
+        "timestamp": "2008-12-27T01:56:53Z",
+        "version": 1,
+        "changeset": 622199,
+        "name": "Cachoeira de Baixo",
+        "waterway": "waterfall",
+        "id": "node/321909912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6430225,
+          -19.3430663
+        ]
+      }
+    }
+  ]
+}

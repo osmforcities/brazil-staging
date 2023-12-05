@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/460153932",
+      "properties": {
+        "timestamp": "2009-08-10T00:47:06Z",
+        "version": 1,
+        "changeset": 2091923,
+        "name": "Hotel Atlântico",
+        "tourism": "hotel",
+        "id": "node/460153932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3333935,
+          -23.9692472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460154758",
+      "properties": {
+        "timestamp": "2009-08-10T00:47:27Z",
+        "version": 1,
+        "changeset": 2091923,
+        "name": "Hotel Parque Balneário",
+        "tourism": "hotel",
+        "id": "node/460154758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.332767,
+          -23.969059
+        ]
+      }
+    }
+  ]
+}

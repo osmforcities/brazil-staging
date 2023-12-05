@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/305316432",
+      "properties": {
+        "timestamp": "2009-09-10T03:09:15Z",
+        "version": 3,
+        "changeset": 2431614,
+        "amenity": "drinking_water",
+        "id": "node/305316432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2747753,
+          -20.2336431
+        ]
+      }
+    }
+  ]
+}

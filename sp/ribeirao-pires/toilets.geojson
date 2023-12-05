@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/297245743",
+      "properties": {
+        "timestamp": "2008-09-15T16:30:28Z",
+        "version": 1,
+        "changeset": 643432,
+        "amenity": "toilets",
+        "id": "node/297245743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4486464,
+          -23.7513081
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/486883738",
+      "properties": {
+        "timestamp": "2009-11-28T19:20:10Z",
+        "version": 4,
+        "changeset": 3239358,
+        "addr:housenumber": "791",
+        "name": "Hotel Pousada da Colina",
+        "tourism": "hotel",
+        "id": "node/486883738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4818674,
+          -21.7065818
+        ]
+      }
+    }
+  ]
+}

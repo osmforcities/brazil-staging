@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/479233880",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:20Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "pharmacy",
+        "name": "Farmácia Pague Menos",
+        "id": "node/479233880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54022,
+          -3.7388173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479233994",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:30Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "pharmacy",
+        "name": "Farmácias Pague Menos",
+        "id": "node/479233994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5662782,
+          -3.7355112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479234523",
+      "properties": {
+        "timestamp": "2009-08-31T19:07:02Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "pharmacy",
+        "name": "Farmácia Pague Menos",
+        "id": "node/479234523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5515754,
+          -3.7245996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482168663",
+      "properties": {
+        "timestamp": "2009-09-03T10:47:20Z",
+        "version": 1,
+        "changeset": 2357676,
+        "amenity": "pharmacy",
+        "name": "Extra Farma",
+        "id": "node/482168663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5145948,
+          -3.7311626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482168667",
+      "properties": {
+        "timestamp": "2009-09-03T10:47:20Z",
+        "version": 1,
+        "changeset": 2357676,
+        "amenity": "pharmacy",
+        "name": "Pague Menos",
+        "id": "node/482168667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5125263,
+          -3.7318221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724625",
+      "properties": {
+        "timestamp": "2009-11-27T03:27:13Z",
+        "version": 1,
+        "changeset": 3225361,
+        "amenity": "pharmacy",
+        "id": "node/571724625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4964629,
+          -3.7474236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571728169",
+      "properties": {
+        "timestamp": "2009-11-29T13:25:50Z",
+        "version": 2,
+        "changeset": 3245317,
+        "amenity": "pharmacy",
+        "name": "Pague Menos",
+        "id": "node/571728169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4906255,
+          -3.7498967
+        ]
+      }
+    }
+  ]
+}

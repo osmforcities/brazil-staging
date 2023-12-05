@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41576816",
+      "properties": {
+        "timestamp": "2009-09-28T02:01:06Z",
+        "version": 2,
+        "changeset": 2659921,
+        "leisure": "pitch",
+        "name": "Futsal field",
+        "name:en": "Futsal field",
+        "name:ja": "フットサル場",
+        "sport": "soccer",
+        "id": "way/41576816"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8136271,
+              -14.1769957
+            ],
+            [
+              -47.8134164,
+              -14.1769834
+            ],
+            [
+              -47.8134631,
+              -14.1765908
+            ],
+            [
+              -47.8136798,
+              -14.1766142
+            ],
+            [
+              -47.8136271,
+              -14.1769957
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

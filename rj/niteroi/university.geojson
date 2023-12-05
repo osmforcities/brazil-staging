@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/301844917",
+      "properties": {
+        "timestamp": "2009-01-13T00:51:25Z",
+        "version": 3,
+        "changeset": 782520,
+        "amenity": "university",
+        "created_by": "Potlatch 0.10c",
+        "description": "Universidade Federal Fluminense - Reitoria, Cinema,",
+        "name": "UFF",
+        "id": "node/301844917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.116466,
+          -22.903368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992423",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:10Z",
+        "version": 1,
+        "changeset": 1683523,
+        "amenity": "university",
+        "name": "Estácio de Sá",
+        "id": "node/430992423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.119996,
+          -22.8942832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992446",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:12Z",
+        "version": 1,
+        "changeset": 1683523,
+        "amenity": "university",
+        "name": "Estácio",
+        "id": "node/430992446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1216992,
+          -22.8941552
+        ]
+      }
+    }
+  ]
+}

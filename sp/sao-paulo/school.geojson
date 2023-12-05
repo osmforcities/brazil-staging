@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/31389999",
+      "properties": {
+        "timestamp": "2009-02-23T06:45:17Z",
+        "version": 1,
+        "changeset": 637892,
+        "amenity": "school",
+        "name": "SESI Leopoldina",
+        "id": "way/31389999"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7300921,
+              -23.5272751
+            ],
+            [
+              -46.730163,
+              -23.527336
+            ],
+            [
+              -46.7302494,
+              -23.5275269
+            ],
+            [
+              -46.730249,
+              -23.5276153
+            ],
+            [
+              -46.7301943,
+              -23.5277624
+            ],
+            [
+              -46.7301003,
+              -23.5278585
+            ],
+            [
+              -46.7299781,
+              -23.527912
+            ],
+            [
+              -46.729852,
+              -23.5279172
+            ],
+            [
+              -46.7297331,
+              -23.5278779
+            ],
+            [
+              -46.7296363,
+              -23.5278003
+            ],
+            [
+              -46.729576,
+              -23.5277026
+            ],
+            [
+              -46.7295498,
+              -23.5275648
+            ],
+            [
+              -46.729578,
+              -23.5274318
+            ],
+            [
+              -46.729697,
+              -23.5272837
+            ],
+            [
+              -46.7298191,
+              -23.5272281
+            ],
+            [
+              -46.7299668,
+              -23.5272247
+            ],
+            [
+              -46.7300921,
+              -23.5272751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38043277",
+      "properties": {
+        "timestamp": "2009-07-24T16:37:05Z",
+        "version": 1,
+        "changeset": 1926470,
+        "amenity": "school",
+        "area": "yes",
+        "building": "yes",
+        "name": "EEMPG Martin Luther King",
+        "id": "way/38043277"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5623205,
+              -23.5458184
+            ],
+            [
+              -46.5625523,
+              -23.5449843
+            ],
+            [
+              -46.5636595,
+              -23.5452046
+            ],
+            [
+              -46.5634449,
+              -23.5460466
+            ],
+            [
+              -46.5623205,
+              -23.5458184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38376417",
+      "properties": {
+        "timestamp": "2009-08-01T19:39:54Z",
+        "version": 1,
+        "changeset": 2006845,
+        "amenity": "school",
+        "area": "yes",
+        "building": "yes",
+        "name": "Cultura Inglesa",
+        "operator": "Cultura Inglesa",
+        "id": "way/38376417"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5617594,
+              -23.5459027
+            ],
+            [
+              -46.5616479,
+              -23.5462647
+            ],
+            [
+              -46.5612788,
+              -23.5462175
+            ],
+            [
+              -46.5613732,
+              -23.5458319
+            ],
+            [
+              -46.5617594,
+              -23.5459027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43793370",
+      "properties": {
+        "timestamp": "2009-11-17T12:07:26Z",
+        "version": 5,
+        "changeset": 3140386,
+        "amenity": "school",
+        "name": "Pan-American Cristian Academy",
+        "id": "way/43793370"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7133402,
+              -23.7288103
+            ],
+            [
+              -46.7142961,
+              -23.7280851
+            ],
+            [
+              -46.7151575,
+              -23.7289637
+            ],
+            [
+              -46.7163355,
+              -23.7299779
+            ],
+            [
+              -46.7152921,
+              -23.7303898
+            ],
+            [
+              -46.7147405,
+              -23.7306075
+            ],
+            [
+              -46.7137421,
+              -23.7310276
+            ],
+            [
+              -46.7136156,
+              -23.7311
+            ],
+            [
+              -46.7133301,
+              -23.7312633
+            ],
+            [
+              -46.7129782,
+              -23.7315462
+            ],
+            [
+              -46.7126091,
+              -23.7320962
+            ],
+            [
+              -46.7124887,
+              -23.7324443
+            ],
+            [
+              -46.7118109,
+              -23.731664
+            ],
+            [
+              -46.7117422,
+              -23.7313969
+            ],
+            [
+              -46.7111929,
+              -23.7315383
+            ],
+            [
+              -46.7103045,
+              -23.7309228
+            ],
+            [
+              -46.7098362,
+              -23.7305983
+            ],
+            [
+              -46.7102587,
+              -23.7299386
+            ],
+            [
+              -46.7115255,
+              -23.7289936
+            ],
+            [
+              -46.712489,
+              -23.7294561
+            ],
+            [
+              -46.7133402,
+              -23.7288103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339752545",
+      "properties": {
+        "timestamp": "2009-02-01T16:49:53Z",
+        "version": 2,
+        "changeset": 21631,
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Colégio Friburgo",
+        "id": "node/339752545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.703796,
+          -23.6426405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/447070706",
+      "properties": {
+        "timestamp": "2009-08-12T21:42:50Z",
+        "version": 2,
+        "changeset": 2123873,
+        "amenity": "school",
+        "name": "EMEI Quintino Bocaiuva",
+        "id": "node/447070706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5620907,
+          -23.5418785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456364259",
+      "properties": {
+        "timestamp": "2009-08-04T20:34:50Z",
+        "version": 1,
+        "changeset": 2039172,
+        "amenity": "school",
+        "id": "node/456364259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.684205,
+          -23.5371651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/459161402",
+      "properties": {
+        "timestamp": "2009-08-08T20:27:53Z",
+        "version": 1,
+        "changeset": 2078974,
+        "amenity": "school",
+        "name": "Senac Idiomas",
+        "operator": "Senac",
+        "id": "node/459161402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5626011,
+          -23.5539813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491895248",
+      "properties": {
+        "timestamp": "2009-09-10T12:52:30Z",
+        "version": 2,
+        "changeset": 2435435,
+        "amenity": "school",
+        "name": "EMEI JULITA",
+        "id": "node/491895248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7390361,
+          -23.6602371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494210579",
+      "properties": {
+        "timestamp": "2009-09-12T15:07:51Z",
+        "version": 1,
+        "changeset": 2458310,
+        "amenity": "school",
+        "name": "Colégio Padre Manuel da Nóbrega",
+        "id": "node/494210579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6633318,
+          -23.5094523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494227943",
+      "properties": {
+        "timestamp": "2009-09-12T15:43:27Z",
+        "version": 1,
+        "changeset": 2458651,
+        "amenity": "school",
+        "name": "Colégio Albert Einstein",
+        "id": "node/494227943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6596091,
+          -23.5049154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496282182",
+      "properties": {
+        "timestamp": "2009-09-14T19:19:38Z",
+        "version": 1,
+        "changeset": 2484927,
+        "amenity": "school",
+        "name": "Colégio Nossa Senhora das Dores",
+        "id": "node/496282182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6619942,
+          -23.5067308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507071833",
+      "properties": {
+        "timestamp": "2009-09-25T13:35:07Z",
+        "version": 1,
+        "changeset": 2618476,
+        "amenity": "school",
+        "name": "SESI Leopoldina",
+        "id": "node/507071833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7299121,
+          -23.5275623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507071838",
+      "properties": {
+        "timestamp": "2009-09-25T13:35:07Z",
+        "version": 1,
+        "changeset": 2618476,
+        "amenity": "school",
+        "name": "Colégio Madre Paula Montalt",
+        "id": "node/507071838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7271312,
+          -23.5310563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507071860",
+      "properties": {
+        "timestamp": "2009-09-25T13:35:11Z",
+        "version": 1,
+        "changeset": 2618476,
+        "amenity": "school",
+        "name": "Colégio Oswald de Andrade",
+        "id": "node/507071860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7178272,
+          -23.5361083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/525522286",
+      "properties": {
+        "timestamp": "2009-10-08T12:44:44Z",
+        "version": 1,
+        "changeset": 2781807,
+        "amenity": "school",
+        "id": "node/525522286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7040811,
+          -23.633754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534422924",
+      "properties": {
+        "timestamp": "2009-10-18T13:50:36Z",
+        "version": 2,
+        "changeset": 2883110,
+        "amenity": "school",
+        "id": "node/534422924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7095207,
+          -23.6873718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/552908317",
+      "properties": {
+        "timestamp": "2009-11-03T11:42:29Z",
+        "version": 1,
+        "changeset": 3023836,
+        "amenity": "school",
+        "name": "EMEF Major Silvio Fleming",
+        "id": "node/552908317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5774206,
+          -23.5736111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/552908323",
+      "properties": {
+        "timestamp": "2009-11-03T11:42:29Z",
+        "version": 1,
+        "changeset": 3023836,
+        "amenity": "school",
+        "name": "E. E. Prof. Clemente Quaglio",
+        "id": "node/552908323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5795835,
+          -23.5729817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598678139",
+      "properties": {
+        "timestamp": "2009-12-23T20:32:52Z",
+        "version": 1,
+        "changeset": 3437319,
+        "amenity": "school",
+        "name": "EE Dra. Maria Augusta Saraiva",
+        "id": "node/598678139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6434134,
+          -23.5529189
+        ]
+      }
+    }
+  ]
+}

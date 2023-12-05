@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/378445700",
+      "properties": {
+        "timestamp": "2009-04-16T23:34:54Z",
+        "version": 1,
+        "changeset": 596933,
+        "amenity": "doctors",
+        "name": "CEMEG",
+        "id": "node/378445700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5027547,
+          -20.6727447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/386615581",
+      "properties": {
+        "timestamp": "2009-04-28T11:09:44Z",
+        "version": 1,
+        "changeset": 1002216,
+        "amenity": "doctors",
+        "name": "Posto Saúde de Guarapari",
+        "id": "node/386615581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5016529,
+          -20.6736287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387490920",
+      "properties": {
+        "timestamp": "2009-04-29T20:23:05Z",
+        "version": 1,
+        "changeset": 1020019,
+        "amenity": "doctors",
+        "name": "Centre de Dengue de Guarapari",
+        "id": "node/387490920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4963625,
+          -20.6680593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/526162780",
+      "properties": {
+        "timestamp": "2009-10-08T20:28:11Z",
+        "version": 1,
+        "changeset": 2786980,
+        "amenity": "doctors",
+        "name": "TopMed",
+        "id": "node/526162780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4989026,
+          -20.6629967
+        ]
+      }
+    }
+  ]
+}

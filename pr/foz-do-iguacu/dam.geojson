@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/32236291",
+      "properties": {
+        "timestamp": "2009-03-19T13:30:26Z",
+        "version": 3,
+        "changeset": 831272,
+        "created_by": "Potlatch 0.10f",
+        "name": "Itaipu Dam",
+        "name:es": "Itaipú",
+        "name:gn": "Itaipu",
+        "name:pt": "Itaipu",
+        "official_name": "Usina Hidrelétrica Itaipu Binacional",
+        "source": "Yahoo imagery",
+        "waterway": "dam",
+        "wikipedia:en": "en.wikipedia.org/wiki/Itaipu",
+        "id": "way/32236291"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.5848043,
+              -25.4097212
+            ],
+            [
+              -54.5844319,
+              -25.4082621
+            ],
+            [
+              -54.5844025,
+              -25.4080716
+            ],
+            [
+              -54.5927532,
+              -25.4064992
+            ],
+            [
+              -54.5928584,
+              -25.4066853
+            ],
+            [
+              -54.5931648,
+              -25.406635
+            ],
+            [
+              -54.5934826,
+              -25.4081894
+            ],
+            [
+              -54.5928586,
+              -25.4082714
+            ],
+            [
+              -54.5871273,
+              -25.409311
+            ],
+            [
+              -54.586484,
+              -25.4094209
+            ],
+            [
+              -54.5848043,
+              -25.4097212
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32303021",
+      "properties": {
+        "timestamp": "2009-03-19T13:20:28Z",
+        "version": 1,
+        "changeset": 831272,
+        "source": "Yahoo imagery",
+        "waterway": "dam",
+        "id": "way/32303021"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.5844319,
+            -25.4082621
+          ],
+          [
+            -54.5807638,
+            -25.4089354
+          ]
+        ]
+      }
+    }
+  ]
+}

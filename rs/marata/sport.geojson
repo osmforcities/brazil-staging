@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37670523",
+      "properties": {
+        "timestamp": "2009-08-26T14:57:05Z",
+        "version": 2,
+        "changeset": 2267875,
+        "leisure": "pitch",
+        "name": "Campo de Futebol",
+        "sport": "soccer",
+        "id": "way/37670523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5586734,
+              -29.5470783
+            ],
+            [
+              -51.5591493,
+              -29.5474491
+            ],
+            [
+              -51.5585313,
+              -29.5481227
+            ],
+            [
+              -51.5580625,
+              -29.5477395
+            ],
+            [
+              -51.5586734,
+              -29.5470783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37956414",
+      "properties": {
+        "timestamp": "2009-07-22T19:46:53Z",
+        "version": 1,
+        "changeset": 1907981,
+        "leisure": "stadium",
+        "sport": "soccer",
+        "id": "way/37956414"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5465519,
+              -29.5864833
+            ],
+            [
+              -51.5467436,
+              -29.5873527
+            ],
+            [
+              -51.5460982,
+              -29.5874603
+            ],
+            [
+              -51.5459065,
+              -29.5865909
+            ],
+            [
+              -51.5465519,
+              -29.5864833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39218276",
+      "properties": {
+        "timestamp": "2009-08-26T14:57:15Z",
+        "version": 2,
+        "changeset": 2267875,
+        "leisure": "pitch",
+        "name": "Campo de Futebol",
+        "sport": "soccer",
+        "id": "way/39218276"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5562244,
+              -29.5501179
+            ],
+            [
+              -51.556408,
+              -29.550515
+            ],
+            [
+              -51.5561321,
+              -29.5506116
+            ],
+            [
+              -51.5559485,
+              -29.5502145
+            ],
+            [
+              -51.5562244,
+              -29.5501179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42037434",
+      "properties": {
+        "timestamp": "2009-10-05T17:52:37Z",
+        "version": 1,
+        "changeset": 2752315,
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Ginásio de Esportes da Escola Municipal Lúdia Araújo de Viegas",
+        "sport": "multi",
+        "id": "way/42037434"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.505825,
+              -29.566495
+            ],
+            [
+              -51.5057948,
+              -29.5666347
+            ],
+            [
+              -51.505488,
+              -29.5665845
+            ],
+            [
+              -51.5055182,
+              -29.5664448
+            ],
+            [
+              -51.505825,
+              -29.566495
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

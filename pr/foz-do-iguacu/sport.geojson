@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/600223709",
+      "properties": {
+        "timestamp": "2009-12-28T02:15:34Z",
+        "version": 1,
+        "changeset": 3468510,
+        "sport": "golf",
+        "id": "node/600223709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5204822,
+          -25.5805234
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/38314160",
+      "properties": {
+        "timestamp": "2009-07-31T05:32:41Z",
+        "version": 1,
+        "changeset": 1990847,
+        "sport": "soccer",
+        "id": "way/38314160"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.4980486,
+            -22.9326883
+          ],
+          [
+            -42.4986409,
+            -22.932459
+          ],
+          [
+            -42.4982804,
+            -22.9317081
+          ],
+          [
+            -42.4976796,
+            -22.9319452
+          ],
+          [
+            -42.4980486,
+            -22.9326883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38314161",
+      "properties": {
+        "timestamp": "2009-07-31T05:32:41Z",
+        "version": 1,
+        "changeset": 1990847,
+        "highway": "road",
+        "sport": "soccer",
+        "id": "way/38314161"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.5001699,
+            -22.9327309
+          ],
+          [
+            -42.5002636,
+            -22.93374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38314162",
+      "properties": {
+        "timestamp": "2009-07-31T05:32:41Z",
+        "version": 1,
+        "changeset": 1990847,
+        "highway": "road",
+        "sport": "soccer",
+        "id": "way/38314162"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.4992236,
+            -22.9307022
+          ],
+          [
+            -42.4985121,
+            -22.9315419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38314163",
+      "properties": {
+        "timestamp": "2009-07-31T05:32:41Z",
+        "version": 1,
+        "changeset": 1990847,
+        "highway": "road",
+        "sport": "soccer",
+        "id": "way/38314163"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.497053,
+            -22.9306099
+          ],
+          [
+            -42.4976844,
+            -22.9318755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38314164",
+      "properties": {
+        "timestamp": "2009-07-31T05:32:42Z",
+        "version": 1,
+        "changeset": 1990847,
+        "highway": "road",
+        "sport": "soccer",
+        "id": "way/38314164"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.4968115,
+            -22.9306943
+          ],
+          [
+            -42.4974382,
+            -22.9319835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38314165",
+      "properties": {
+        "timestamp": "2009-07-31T05:32:42Z",
+        "version": 1,
+        "changeset": 1990847,
+        "highway": "road",
+        "sport": "soccer",
+        "id": "way/38314165"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.4954486,
+            -22.9321036
+          ],
+          [
+            -42.4962133,
+            -22.932547
+          ]
+        ]
+      }
+    }
+  ]
+}

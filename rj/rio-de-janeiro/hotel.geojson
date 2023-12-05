@@ -1,0 +1,1221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/331954898",
+      "properties": {
+        "timestamp": "2009-01-13T23:30:16Z",
+        "version": 2,
+        "changeset": 786657,
+        "created_by": "Potlatch 0.10f",
+        "tourism": "hotel",
+        "id": "node/331954898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1770941,
+          -22.9643533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331956610",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:41Z",
+        "version": 3,
+        "changeset": 2831751,
+        "addr:housenumber": "82",
+        "addr:street": "Rua Duvivier",
+        "name": "Royal Rio Palace Hotel",
+        "telephone": "+55-21-21229292",
+        "tourism": "hotel",
+        "url": "http://www.royalrio.com/",
+        "id": "node/331956610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782214,
+          -22.9645317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340473485",
+      "properties": {
+        "timestamp": "2009-06-30T18:00:26Z",
+        "version": 4,
+        "changeset": 1693589,
+        "addr:postcode": "22220-000",
+        "addr:street": "Rua do Catete",
+        "created_by": "Potlatch 0.10f",
+        "name": "Hotel Riazor",
+        "tourism": "hotel",
+        "id": "node/340473485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1767626,
+          -22.9261794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/400705918",
+      "properties": {
+        "timestamp": "2009-05-15T07:50:58Z",
+        "version": 1,
+        "changeset": 1195620,
+        "name": "Sheraton",
+        "stars": "5",
+        "tourism": "hotel",
+        "id": "node/400705918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2329727,
+          -22.9918222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412310724",
+      "properties": {
+        "timestamp": "2009-07-21T23:47:16Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "30",
+        "addr:state": "RJ",
+        "addr:street": "Rua Francisco Otaviano",
+        "name": "Copacabana Praia Hotel",
+        "stars": "4",
+        "tourism": "hotel",
+        "url": "http://www.copacabanapraiahotel.com.br/",
+        "id": "node/412310724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1899271,
+          -22.9869257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166041",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:34Z",
+        "version": 3,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "39",
+        "addr:postcode": "22290-030",
+        "addr:street": "Rua da Passagem",
+        "name": "Caesar Business",
+        "tourism": "hotel",
+        "url": "http://www.caesarbusiness.com/",
+        "id": "node/416166041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181948,
+          -22.9517891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013580",
+      "properties": {
+        "timestamp": "2009-06-30T04:45:03Z",
+        "version": 1,
+        "changeset": 1683925,
+        "name": "Rio Claro",
+        "tourism": "hotel",
+        "id": "node/431013580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1770776,
+          -22.9286291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013589",
+      "properties": {
+        "timestamp": "2009-09-25T20:06:04Z",
+        "version": 3,
+        "changeset": 2625900,
+        "addr:housenumber": "81",
+        "addr:postcode": "22210-040",
+        "addr:street": "Rua Ferreira Viana",
+        "name": "Windsor Florida Hotel",
+        "telephone": "+55-21-21956800",
+        "tourism": "hotel",
+        "url": "http://www.windsorhoteis.com.br/pt-br/loca.asp?hid=26",
+        "id": "node/431013589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1760352,
+          -22.9271553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431750143",
+      "properties": {
+        "timestamp": "2009-07-01T19:57:01Z",
+        "version": 1,
+        "changeset": 1703673,
+        "name": "Hotel Oásis do Catete",
+        "stars": "1",
+        "tourism": "hotel",
+        "id": "node/431750143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1773209,
+          -22.9225252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450799276",
+      "properties": {
+        "timestamp": "2009-07-29T16:52:52Z",
+        "version": 1,
+        "changeset": 1976950,
+        "tourism": "hotel",
+        "id": "node/450799276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1875272,
+          -22.9107907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452657840",
+      "properties": {
+        "timestamp": "2009-07-31T21:39:18Z",
+        "version": 1,
+        "changeset": 1998430,
+        "addr:housenumber": "172",
+        "addr:street": "Rua do Catete",
+        "name": "Vitória",
+        "tourism": "hotel",
+        "id": "node/452657840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1767685,
+          -22.9264561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479091125",
+      "properties": {
+        "timestamp": "2009-08-31T16:24:20Z",
+        "version": 1,
+        "changeset": 2327075,
+        "name": "Motel Emoção",
+        "tourism": "hotel",
+        "id": "node/479091125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3547239,
+          -22.8798828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502863752",
+      "properties": {
+        "timestamp": "2009-09-20T05:48:13Z",
+        "version": 1,
+        "changeset": 2540924,
+        "name": "Guanabara Palace Hotel",
+        "tourism": "hotel",
+        "id": "node/502863752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1795225,
+          -22.9009695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506849958",
+      "properties": {
+        "timestamp": "2009-09-24T23:45:08Z",
+        "version": 1,
+        "changeset": 2610951,
+        "addr:housenumber": "1702",
+        "addr:street": "Avenida Atlântica",
+        "name": "Hotel Copacabana Palace",
+        "price": "toprange",
+        "stars": "5",
+        "telephone": "+55-21-25487070",
+        "tourism": "hotel",
+        "url": "http://www.copacabanapalace.com/",
+        "id": "node/506849958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1787905,
+          -22.9671672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507684840",
+      "properties": {
+        "timestamp": "2009-09-25T20:01:49Z",
+        "version": 1,
+        "changeset": 2625806,
+        "addr:housenumber": "20",
+        "addr:postcode": "22210-030",
+        "addr:street": "Praia do Flamengo",
+        "name": "Hotel Novo Mundo",
+        "telephone": "+55-21-21057000",
+        "tourism": "hotel",
+        "url": "http://www.hotelnovomundo-rio.com.br/",
+        "id": "node/507684840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1733767,
+          -22.9251629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512847984",
+      "properties": {
+        "timestamp": "2009-09-29T00:30:48Z",
+        "version": 1,
+        "changeset": 2671662,
+        "name": "Hotel La Costa",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "id": "node/512847984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1826263,
+          -22.9142993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512851039",
+      "properties": {
+        "timestamp": "2009-11-23T00:47:06Z",
+        "version": 3,
+        "changeset": 3192341,
+        "addr:housenumber": "298",
+        "addr:street": "Rua São Clemente",
+        "name": "Hotel Panda",
+        "telephone": "+55-21-2537-3134",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.pandahotel.com.br/",
+        "id": "node/512851039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1923846,
+          -22.9494409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512852947",
+      "properties": {
+        "timestamp": "2009-09-29T00:36:34Z",
+        "version": 1,
+        "changeset": 2671697,
+        "addr:housenumber": "63",
+        "addr:street": "Rua do Catete",
+        "name": "Love Time Hotel",
+        "telephone": "+55-21-25581911",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.lovetimehotel.com.br/",
+        "id": "node/512852947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176588,
+          -22.9218953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512854718",
+      "properties": {
+        "timestamp": "2009-09-29T00:55:04Z",
+        "version": 3,
+        "changeset": 2671764,
+        "addr:housenumber": "218",
+        "addr:street": "Avenida Niemeyer",
+        "name": "Hotel Shalimar",
+        "telephone": "+55-21-33223392",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.hotelshalimar.com.br/",
+        "id": "node/512854718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.235907,
+          -22.9960706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512856865",
+      "properties": {
+        "timestamp": "2009-09-29T00:41:40Z",
+        "version": 1,
+        "changeset": 2671720,
+        "addr:housenumber": "63",
+        "addr:street": "Rua Bambina",
+        "name": "Hotel Bambina",
+        "telephone": "+55-21-25390713",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.bambinahotel.com.br/",
+        "id": "node/512856865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1853434,
+          -22.9456304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512858216",
+      "properties": {
+        "timestamp": "2009-09-29T00:55:04Z",
+        "version": 2,
+        "changeset": 2671764,
+        "addr:housenumber": "214",
+        "addr:street": "Avenida Niemeyer",
+        "name": "Motel Sinless",
+        "telephone": "+55-21-25129913",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.sinless.com.br/",
+        "id": "node/512858216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2357611,
+          -22.9958336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512860156",
+      "properties": {
+        "timestamp": "2009-09-29T00:46:19Z",
+        "version": 1,
+        "changeset": 2671734,
+        "addr:housenumber": "19",
+        "addr:street": "Rua Correa Dutra",
+        "name": "Elegance Hotel",
+        "telephone": "+55-21-32359000",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.elegancehotel.com.br/",
+        "id": "node/512860156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1748641,
+          -22.9283839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512862096",
+      "properties": {
+        "timestamp": "2009-09-29T00:48:39Z",
+        "version": 1,
+        "changeset": 2671745,
+        "addr:housenumber": "418",
+        "addr:street": "Avenida Niemeyer",
+        "name": "VIP's Suítes",
+        "telephone": "+55-21-33221662",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.vipsmotel.com.br/",
+        "id": "node/512862096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2444174,
+          -23.0004484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512865324",
+      "properties": {
+        "timestamp": "2009-09-29T00:53:16Z",
+        "version": 1,
+        "changeset": 2671758,
+        "addr:housenumber": "674",
+        "addr:street": "Estrada da Gávea",
+        "name": "Escort Motel",
+        "telephone": "+55-21-33221400",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.escortmotel.com.br/",
+        "id": "node/512865324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2558231,
+          -22.9930668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512867289",
+      "properties": {
+        "timestamp": "2009-09-29T00:55:04Z",
+        "version": 1,
+        "changeset": 2671764,
+        "addr:housenumber": "210",
+        "addr:street": "Avenida Niemeyer",
+        "name": "Nosso Hotel",
+        "telephone": "+55-21-22743247",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.nossohotel.com.br/",
+        "id": "node/512867289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2356066,
+          -22.9956203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512869193",
+      "properties": {
+        "timestamp": "2009-09-29T00:57:39Z",
+        "version": 1,
+        "changeset": 2671774,
+        "addr:housenumber": "521",
+        "addr:street": "Rua Cândido Mendes",
+        "name": "Challon Motel",
+        "telephone": "+55-21-22428826",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.challonmotel.com.br/",
+        "id": "node/512869193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1806023,
+          -22.9208354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512871642",
+      "properties": {
+        "timestamp": "2009-09-29T01:00:45Z",
+        "version": 1,
+        "changeset": 2671786,
+        "addr:housenumber": "46",
+        "addr:street": "Rua da Glória",
+        "name": "Diamond Hotel",
+        "telephone": "+55-21-22536262",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.diamondhotel.com.br",
+        "id": "node/512871642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1772864,
+          -22.9190533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512873877",
+      "properties": {
+        "timestamp": "2009-09-29T01:04:03Z",
+        "version": 1,
+        "changeset": 2671801,
+        "addr:housenumber": "36",
+        "addr:street": "Rua Barão do Flamengo",
+        "name": "Hotel Barão do Flamengo",
+        "telephone": "+55-21-34790700",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "url": "http://www.hotelbaraodoflamengo.com.br/",
+        "id": "node/512873877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1766602,
+          -22.9328109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512887703",
+      "properties": {
+        "timestamp": "2009-09-29T01:22:10Z",
+        "version": 1,
+        "changeset": 2671869,
+        "addr:housenumber": "22",
+        "addr:street": "Rua Gago Coutinho",
+        "name": "Hotel Serrano",
+        "telephone": "+55-21-22051846",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "id": "node/512887703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1797236,
+          -22.9306776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/512889445",
+      "properties": {
+        "timestamp": "2009-09-29T01:24:11Z",
+        "version": 1,
+        "changeset": 2671879,
+        "addr:housenumber": "173",
+        "addr:street": "Rua Pedro Américo",
+        "name": "Hotel Pedro Américo",
+        "telephone": "+55-21-22052019",
+        "tourism": "hotel",
+        "type": "love_hotel",
+        "id": "node/512889445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1785727,
+          -22.9244917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527082940",
+      "properties": {
+        "timestamp": "2009-10-09T14:33:33Z",
+        "version": 1,
+        "changeset": 2794020,
+        "addr:housenumber": "20",
+        "addr:street": "Rua Silveira Martins",
+        "name": "Hotel Inglês",
+        "stars": "2",
+        "tourism": "hotel",
+        "id": "node/527082940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1737759,
+          -22.9252898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529748996",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:24Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "90",
+        "addr:street": "Rua Siqueira Campos",
+        "name": "Hotel Atlântico Copacabana",
+        "telephone": "+55-21-25480011",
+        "tourism": "hotel",
+        "url": "http://www.atlanticocopacabana.com.br/",
+        "id": "node/529748996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1862123,
+          -22.9667761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749001",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:25Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "1800",
+        "addr:street": "Avenida Atlântica",
+        "name": "Hotel Excelsior Copacabana",
+        "telephone": "+55-21-21955800",
+        "tourism": "hotel",
+        "url": "http://www.windsorhoteis.com.br/pt-br/loca.asp?hid=22",
+        "id": "node/529749001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1798265,
+          -22.9677876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749005",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:26Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "305",
+        "addr:street": "Rua República do Peru",
+        "name": "Apa Hotel",
+        "telephone": "+55-21-22563628",
+        "tourism": "hotel",
+        "url": "http://www.apahotel.com.br/",
+        "id": "node/529749005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.183028,
+          -22.9665074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749016",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:32Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Ibiza Copacabana Hotel",
+        "tourism": "hotel",
+        "id": "node/529749016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1762731,
+          -22.9632989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749019",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:32Z",
+        "version": 1,
+        "changeset": 2831751,
+        "addr:housenumber": "1500",
+        "addr:street": "Avenida Atlântica",
+        "name": "Hotel Porto Bay Rio Internacional",
+        "telephone": "+55-21-25468000",
+        "tourism": "hotel",
+        "url": "http://www.portobay.com/",
+        "id": "node/529749019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1770799,
+          -22.9663889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749022",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:35Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Hotel Merlin",
+        "tourism": "hotel",
+        "id": "node/529749022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1750715,
+          -22.9613231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749023",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:35Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Best Western Rio Copa Hotel",
+        "tourism": "hotel",
+        "id": "node/529749023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1748912,
+          -22.9616234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749026",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:36Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Hotel Windsor Plaza Copacabana",
+        "tourism": "hotel",
+        "id": "node/529749026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1752345,
+          -22.9627615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749029",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:37Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Hotel Leme Othon",
+        "tourism": "hotel",
+        "id": "node/529749029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1698358,
+          -22.9629037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749030",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:38Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Hotel Acapulco",
+        "tourism": "hotel",
+        "id": "node/529749030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.173372,
+          -22.9638995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749032",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:38Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Real Residence Hotel",
+        "tourism": "hotel",
+        "id": "node/529749032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1751144,
+          -22.9606277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749036",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:40Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Luxor Continental",
+        "tourism": "hotel",
+        "id": "node/529749036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1671321,
+          -22.9616076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529749037",
+      "properties": {
+        "timestamp": "2009-10-13T00:35:40Z",
+        "version": 1,
+        "changeset": 2831751,
+        "name": "Golden Tulip Continental",
+        "tourism": "hotel",
+        "id": "node/529749037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1685998,
+          -22.9619949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557557785",
+      "properties": {
+        "timestamp": "2009-11-06T03:29:57Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Marina",
+        "tourism": "hotel",
+        "id": "node/557557785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2219038,
+          -22.9866312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558198",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:19Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Sofitel",
+        "tourism": "hotel",
+        "id": "node/557558198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.189331,
+          -22.9859438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558281",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:21Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Atlantis Hotel Copacabana",
+        "tourism": "hotel",
+        "id": "node/557558281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1921806,
+          -22.986726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558361",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:27Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Augusto's Copacabana",
+        "tourism": "hotel",
+        "id": "node/557558361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1904897,
+          -22.9760744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558370",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:27Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Othon",
+        "tourism": "hotel",
+        "id": "node/557558370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1891422,
+          -22.9775204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558551",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:35Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Bandeirantes",
+        "tourism": "hotel",
+        "id": "node/557558551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1890821,
+          -22.9707403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/557558655",
+      "properties": {
+        "timestamp": "2009-11-06T03:30:40Z",
+        "version": 1,
+        "changeset": 3045487,
+        "name": "Toledo",
+        "tourism": "hotel",
+        "id": "node/557558655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1855373,
+          -22.9714357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645073",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:00Z",
+        "version": 1,
+        "changeset": 3066829,
+        "name": "Fórmula 1",
+        "tourism": "hotel",
+        "id": "node/559645073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1820657,
+          -22.9076091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645116",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:09Z",
+        "version": 1,
+        "changeset": 3066829,
+        "name": "Arcos Rio Palace",
+        "tourism": "hotel",
+        "id": "node/559645116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1838081,
+          -22.9130642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645225",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:24Z",
+        "version": 1,
+        "changeset": 3066829,
+        "name": "Monte Castelo",
+        "tourism": "hotel",
+        "id": "node/559645225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1789329,
+          -22.9194599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559645234",
+      "properties": {
+        "timestamp": "2009-11-08T18:23:25Z",
+        "version": 1,
+        "changeset": 3066829,
+        "name": "Vovó House Hotel Geriátrico",
+        "tourism": "hotel",
+        "id": "node/559645234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1809843,
+          -22.9172701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/592598087",
+      "properties": {
+        "timestamp": "2009-12-15T20:45:11Z",
+        "version": 1,
+        "changeset": 3382817,
+        "addr:housenumber": "24",
+        "addr:street": "Rua Senador Dantas",
+        "name": "Hotéis OK",
+        "tourism": "hotel",
+        "id": "node/592598087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1765566,
+          -22.9113066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/592598131",
+      "properties": {
+        "timestamp": "2009-12-15T20:45:13Z",
+        "version": 1,
+        "changeset": 3382817,
+        "addr:housenumber": "14",
+        "addr:street": "Rua Senador Dantas",
+        "name": "Windsor Astúrias",
+        "phone": "+55-21-21951500",
+        "tourism": "hotel",
+        "website": "http://www.windsorhoteis.com.br/pt-br/loca.asp?hid=59",
+        "id": "node/592598131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1762991,
+          -22.9117019
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29026154",
+      "properties": {
+        "timestamp": "2008-12-16T14:32:17Z",
+        "version": 1,
+        "changeset": 413879,
+        "alt_name": "CEFET-MG",
+        "amenity": "college",
+        "created_by": "Merkaartor 0.12",
+        "name": "Centro de Educação Tecnológica de Minas Gerais - Campus I",
+        "id": "way/29026154"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.979414,
+              -19.9301552
+            ],
+            [
+              -43.9792102,
+              -19.9309822
+            ],
+            [
+              -43.975836,
+              -19.9302308
+            ],
+            [
+              -43.976013,
+              -19.9295449
+            ],
+            [
+              -43.976882,
+              -19.9295853
+            ],
+            [
+              -43.9784806,
+              -19.9299433
+            ],
+            [
+              -43.979414,
+              -19.9301552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29068275",
+      "properties": {
+        "timestamp": "2009-02-27T18:10:17Z",
+        "version": 2,
+        "changeset": 689121,
+        "amenity": "college",
+        "created_by": "Merkaartor 0.13",
+        "name": "Escola Munipal Maurício Murgel",
+        "id": "way/29068275"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9787328,
+              -19.9291541
+            ],
+            [
+              -43.9785745,
+              -19.9297265
+            ],
+            [
+              -43.9778503,
+              -19.9295575
+            ],
+            [
+              -43.9780139,
+              -19.9289826
+            ],
+            [
+              -43.9787328,
+              -19.9291541
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29123853",
+      "properties": {
+        "timestamp": "2008-12-21T04:20:16Z",
+        "version": 1,
+        "changeset": 516842,
+        "amenity": "college",
+        "created_by": "Merkaartor 0.12",
+        "name": "Colégio Marista Don Silvério",
+        "id": "way/29123853"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9349806,
+              -19.9414967
+            ],
+            [
+              -43.9353293,
+              -19.9427751
+            ],
+            [
+              -43.9351361,
+              -19.9431584
+            ],
+            [
+              -43.9343315,
+              -19.9433575
+            ],
+            [
+              -43.9339291,
+              -19.9419229
+            ],
+            [
+              -43.9344763,
+              -19.9417893
+            ],
+            [
+              -43.9344307,
+              -19.9416405
+            ],
+            [
+              -43.9349806,
+              -19.9414967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29221198",
+      "properties": {
+        "timestamp": "2008-12-24T02:40:52Z",
+        "version": 1,
+        "changeset": 584075,
+        "amenity": "college",
+        "created_by": "Merkaartor 0.12",
+        "id": "way/29221198"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9573609,
+              -19.927684
+            ],
+            [
+              -43.9573801,
+              -19.9277677
+            ],
+            [
+              -43.9574586,
+              -19.9281086
+            ],
+            [
+              -43.9574897,
+              -19.9282438
+            ],
+            [
+              -43.9572429,
+              -19.9288591
+            ],
+            [
+              -43.956567,
+              -19.9290355
+            ],
+            [
+              -43.9564597,
+              -19.928965
+            ],
+            [
+              -43.956229,
+              -19.9279513
+            ],
+            [
+              -43.9573609,
+              -19.927684
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30416738",
+      "properties": {
+        "timestamp": "2009-02-20T15:22:11Z",
+        "version": 2,
+        "changeset": 576782,
+        "amenity": "college",
+        "building": "yes",
+        "created_by": "Merkaartor 0.13",
+        "name": "Coltec",
+        "id": "way/30416738"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9636667,
+              -19.8721004
+            ],
+            [
+              -43.9635273,
+              -19.8722719
+            ],
+            [
+              -43.9631035,
+              -19.8719642
+            ],
+            [
+              -43.9629801,
+              -19.8721054
+            ],
+            [
+              -43.963082,
+              -19.8721861
+            ],
+            [
+              -43.9629855,
+              -19.8723021
+            ],
+            [
+              -43.9622559,
+              -19.8717421
+            ],
+            [
+              -43.9623578,
+              -19.8716312
+            ],
+            [
+              -43.9627923,
+              -19.8719591
+            ],
+            [
+              -43.9629211,
+              -19.8718178
+            ],
+            [
+              -43.9628245,
+              -19.8717321
+            ],
+            [
+              -43.962964,
+              -19.8715656
+            ],
+            [
+              -43.9636667,
+              -19.8721004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31750059",
+      "properties": {
+        "timestamp": "2009-03-03T21:23:07Z",
+        "version": 1,
+        "changeset": 729816,
+        "amenity": "college",
+        "created_by": "Merkaartor 0.13",
+        "name": "Colégio Santa Maria",
+        "id": "way/31750059"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9323654,
+              -19.9097795
+            ],
+            [
+              -43.9329153,
+              -19.9097745
+            ],
+            [
+              -43.9329448,
+              -19.9114112
+            ],
+            [
+              -43.9324244,
+              -19.9114138
+            ],
+            [
+              -43.9323654,
+              -19.9097795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/351976561",
+      "properties": {
+        "timestamp": "2009-02-25T01:59:59Z",
+        "version": 1,
+        "changeset": 662268,
+        "amenity": "college",
+        "created_by": "Merkaartor 0.13",
+        "id": "node/351976561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9666414,
+          -19.8577191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353052116",
+      "properties": {
+        "timestamp": "2009-02-26T20:20:31Z",
+        "version": 1,
+        "changeset": 678617,
+        "amenity": "college",
+        "created_by": "Merkaartor 0.13",
+        "name": "Salesiano",
+        "id": "node/353052116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9928251,
+          -19.9341039
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/550477063",
+      "properties": {
+        "timestamp": "2009-11-01T21:52:32Z",
+        "version": 1,
+        "changeset": 3011850,
+        "name": "Poussada do Brazil",
+        "tourism": "hotel",
+        "id": "node/550477063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.013758,
+          -2.8885146
+        ]
+      }
+    }
+  ]
+}

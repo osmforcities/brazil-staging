@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/315622481",
+      "properties": {
+        "timestamp": "2008-11-29T22:12:15Z",
+        "version": 1,
+        "changeset": 811444,
+        "amenity": "hospital",
+        "name": "Gran Mater",
+        "id": "node/315622481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3026486,
+          -20.305741
+        ]
+      }
+    }
+  ]
+}

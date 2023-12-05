@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45415900",
+      "properties": {
+        "timestamp": "2009-12-02T04:46:49Z",
+        "version": 1,
+        "changeset": 3269417,
+        "amenity": "hospital",
+        "name": "Hospital Regional",
+        "id": "way/45415900"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.6434291,
+              -16.4573809
+            ],
+            [
+              -54.6440984,
+              -16.4580011
+            ],
+            [
+              -54.6434971,
+              -16.4585723
+            ],
+            [
+              -54.6428448,
+              -16.4579684
+            ],
+            [
+              -54.6434291,
+              -16.4573809
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

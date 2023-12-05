@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27646748",
+      "properties": {
+        "timestamp": "2008-10-10T22:14:19Z",
+        "version": 1,
+        "changeset": 223131,
+        "sport": "soccer",
+        "id": "way/27646748"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.5293679,
+            -20.7288917
+          ],
+          [
+            -40.5291767,
+            -20.7286114
+          ],
+          [
+            -40.5287066,
+            -20.7289521
+          ],
+          [
+            -40.5289029,
+            -20.7292323
+          ],
+          [
+            -40.5293679,
+            -20.7288917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32525246",
+      "properties": {
+        "timestamp": "2009-03-25T22:26:31Z",
+        "version": 1,
+        "changeset": 861163,
+        "name": "Estadio do Devino Matos",
+        "sport": "soccer",
+        "id": "way/32525246"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.5000895,
+            -20.6713099
+          ],
+          [
+            -40.4996097,
+            -20.670791
+          ],
+          [
+            -40.4990326,
+            -20.671225
+          ],
+          [
+            -40.4995059,
+            -20.6717589
+          ],
+          [
+            -40.5000895,
+            -20.6713099
+          ]
+        ]
+      }
+    }
+  ]
+}

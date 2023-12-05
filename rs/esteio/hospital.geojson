@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/528921479",
+      "properties": {
+        "timestamp": "2009-10-11T16:50:09Z",
+        "version": 1,
+        "changeset": 2816246,
+        "amenity": "hospital",
+        "name": "São Camilo",
+        "id": "node/528921479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1614296,
+          -29.8391039
+        ]
+      }
+    }
+  ]
+}

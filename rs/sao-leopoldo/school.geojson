@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/536732167",
+      "properties": {
+        "timestamp": "2009-10-20T22:13:35Z",
+        "version": 2,
+        "changeset": 2907595,
+        "amenity": "school",
+        "name": "Gustavo Schreiber",
+        "id": "node/536732167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1425907,
+          -29.7587288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536732172",
+      "properties": {
+        "timestamp": "2009-10-20T16:32:56Z",
+        "version": 1,
+        "changeset": 2904290,
+        "amenity": "school",
+        "id": "node/536732172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1478349,
+          -29.7646225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/537147282",
+      "properties": {
+        "timestamp": "2009-10-20T22:13:35Z",
+        "version": 1,
+        "changeset": 2907595,
+        "amenity": "school",
+        "name": "São José",
+        "id": "node/537147282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1384622,
+          -29.7661275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/537147646",
+      "properties": {
+        "timestamp": "2009-10-20T22:14:54Z",
+        "version": 1,
+        "changeset": 2907504,
+        "amenity": "school",
+        "name": "Sagrado Coração de Jesus",
+        "id": "node/537147646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.153676,
+          -29.727316
+        ]
+      }
+    }
+  ]
+}

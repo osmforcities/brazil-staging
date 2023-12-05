@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/345972692",
+      "properties": {
+        "timestamp": "2009-06-29T04:38:04Z",
+        "version": 4,
+        "changeset": 1672658,
+        "addr:postcode": "22240-004",
+        "amenity": "doctors",
+        "created_by": "Potlatch 0.10f",
+        "id": "node/345972692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1892262,
+          -22.9355591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/376239108",
+      "properties": {
+        "timestamp": "2009-04-15T06:11:11Z",
+        "version": 3,
+        "changeset": 560600,
+        "amenity": "doctors",
+        "created_by": "Potlatch 0.10f",
+        "layer": "2",
+        "name": "Centro Médico BarraShopping",
+        "id": "node/376239108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3598141,
+          -22.9972631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415826493",
+      "properties": {
+        "timestamp": "2009-06-05T00:22:09Z",
+        "version": 1,
+        "changeset": 1425369,
+        "amenity": "doctors",
+        "name": "Talita Franco Diogo Franco Cirurgia Plástica",
+        "id": "node/415826493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1676834,
+          -22.9519867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415826521",
+      "properties": {
+        "timestamp": "2009-06-05T00:22:10Z",
+        "version": 1,
+        "changeset": 1425369,
+        "amenity": "doctors",
+        "name": "Cardioclínica",
+        "id": "node/415826521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1673985,
+          -22.9527323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431013491",
+      "properties": {
+        "timestamp": "2009-06-30T04:44:59Z",
+        "version": 1,
+        "changeset": 1683925,
+        "amenity": "doctors",
+        "name": "Sérgio Franco Medicina Diagnóstica",
+        "id": "node/431013491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1830304,
+          -22.9327665
+        ]
+      }
+    }
+  ]
+}

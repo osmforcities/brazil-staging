@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/593856934",
+      "properties": {
+        "timestamp": "2009-12-16T17:12:36Z",
+        "version": 1,
+        "changeset": 3388134,
+        "addr:city": "Montenegro",
+        "addr:housenumber": "1000",
+        "addr:street": "Rua Buarque de Macedo",
+        "amenity": "doctors",
+        "name": "Tour Life",
+        "opening_hours": "Mo-Fr 08:30-18:00",
+        "website": "http://www.tourlife.com.br/",
+        "id": "node/593856934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4561628,
+          -29.6769012
+        ]
+      }
+    }
+  ]
+}

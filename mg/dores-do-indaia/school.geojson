@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/352912517",
+      "properties": {
+        "timestamp": "2009-02-27T16:56:14Z",
+        "version": 2,
+        "changeset": 691038,
+        "addr:full": "Praça Waldemar de Almeida Barbosa, 31 - Centro - Dores do Indaiá - MG",
+        "addr:housenumber": "31",
+        "addr:postcode": "35610-000",
+        "addr:street": "Praça Waldemar de Almeida Barbosa",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Escola Estadual Francisco Campos",
+        "id": "node/352912517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.6084044,
+          -19.4710919
+        ]
+      }
+    }
+  ]
+}

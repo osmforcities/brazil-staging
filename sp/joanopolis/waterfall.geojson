@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/339867579",
+      "properties": {
+        "timestamp": "2009-02-01T21:46:49Z",
+        "version": 1,
+        "changeset": 29885,
+        "name": "Cachoeira dos Pretos",
+        "waterway": "waterfall",
+        "id": "node/339867579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1728136,
+          -22.9647208
+        ]
+      }
+    }
+  ]
+}

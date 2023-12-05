@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/331385780",
+      "properties": {
+        "timestamp": "2009-04-17T05:54:38Z",
+        "version": 3,
+        "changeset": 599138,
+        "created_by": "Potlatch 0.10f",
+        "historic": "memorial",
+        "name": "Estátua Princesa Isabel",
+        "id": "node/331385780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1736167,
+          -22.9647937
+        ]
+      }
+    }
+  ]
+}

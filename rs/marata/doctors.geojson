@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/474704984",
+      "properties": {
+        "timestamp": "2009-08-26T18:43:47Z",
+        "version": 1,
+        "changeset": 2270034,
+        "amenity": "doctors",
+        "name": "Posto de Saúde",
+        "id": "node/474704984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5592166,
+          -29.5953077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/521437995",
+      "properties": {
+        "timestamp": "2009-10-05T12:07:20Z",
+        "version": 1,
+        "changeset": 2748599,
+        "amenity": "doctors",
+        "name": "Posto de Saúde",
+        "id": "node/521437995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5097702,
+          -29.559984
+        ]
+      }
+    }
+  ]
+}

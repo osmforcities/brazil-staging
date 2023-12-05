@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29669587",
+      "properties": {
+        "timestamp": "2009-01-05T04:12:24Z",
+        "version": 1,
+        "changeset": 736538,
+        "amenity": "library",
+        "building": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Biblioteca do Centro de Filosofia e Ciências Humanas",
+        "id": "way/29669587"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1748809,
+              -22.9531375
+            ],
+            [
+              -43.1750801,
+              -22.9533862
+            ],
+            [
+              -43.1749253,
+              -22.9534913
+            ],
+            [
+              -43.1747261,
+              -22.9532426
+            ],
+            [
+              -43.1748809,
+              -22.9531375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30105167",
+      "properties": {
+        "timestamp": "2009-01-13T01:56:56Z",
+        "version": 1,
+        "changeset": 782520,
+        "amenity": "library",
+        "building": "yes",
+        "created_by": "Potlatch 0.10f",
+        "name": "Biblioteca do CFCH",
+        "id": "way/30105167"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1750461,
+              -22.9538956
+            ],
+            [
+              -43.1750977,
+              -22.9539882
+            ],
+            [
+              -43.1750396,
+              -22.9540156
+            ],
+            [
+              -43.174988,
+              -22.953923
+            ],
+            [
+              -43.1750461,
+              -22.9538956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331107839",
+      "properties": {
+        "timestamp": "2009-01-11T01:21:08Z",
+        "version": 1,
+        "changeset": 773116,
+        "amenity": "library",
+        "name": "Casa da Leitura",
+        "id": "node/331107839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1861419,
+          -22.9319989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331377550",
+      "properties": {
+        "timestamp": "2009-10-12T23:37:31Z",
+        "version": 2,
+        "changeset": 2831511,
+        "amenity": "library",
+        "name": "Livraria Museu da República",
+        "id": "node/331377550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1760352,
+          -22.9260255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332088314",
+      "properties": {
+        "timestamp": "2009-06-09T04:15:21Z",
+        "version": 3,
+        "changeset": 1464440,
+        "amenity": "library",
+        "created_by": "Potlatch 0.10f",
+        "name": "Biblioteca da UNIRIO",
+        "url": "http://www.unirio.br/biblioteca/",
+        "id": "node/332088314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1698192,
+          -22.9545881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166016",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:26Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "39",
+        "addr:street": "Rua Voluntários da Pátria",
+        "amenity": "library",
+        "name": "Livraria Prefácio",
+        "url": "http://www.prefaciolivrarias.com.br/",
+        "id": "node/416166016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1831248,
+          -22.9511049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/416166043",
+      "properties": {
+        "timestamp": "2009-07-21T23:48:38Z",
+        "version": 2,
+        "changeset": 1900098,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:street": "Rua Voluntários da Pátria",
+        "amenity": "library",
+        "name": "Livraria Estação",
+        "id": "node/416166043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1828201,
+          -22.9510007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/553450273",
+      "properties": {
+        "timestamp": "2009-11-03T21:52:33Z",
+        "version": 1,
+        "changeset": 3028739,
+        "amenity": "library",
+        "name": "Bibliotheca Nacional",
+        "id": "node/553450273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1754311,
+          -22.909617
+        ]
+      }
+    }
+  ]
+}

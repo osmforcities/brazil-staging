@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/501619424",
+      "properties": {
+        "timestamp": "2009-09-19T10:48:05Z",
+        "version": 1,
+        "changeset": 2532245,
+        "tourism": "hotel",
+        "id": "node/501619424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2074607,
+          -5.820406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501902958",
+      "properties": {
+        "timestamp": "2009-09-19T15:49:16Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501902958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1801801,
+          -5.8646094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501902959",
+      "properties": {
+        "timestamp": "2009-09-19T15:49:16Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501902959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.180738,
+          -5.8608185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501902961",
+      "properties": {
+        "timestamp": "2009-09-19T15:49:17Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501902961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1817594,
+          -5.8416926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501925169",
+      "properties": {
+        "timestamp": "2009-09-19T16:14:03Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501925169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1825147,
+          -5.8276722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501925172",
+      "properties": {
+        "timestamp": "2009-09-19T16:14:03Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501925172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1818281,
+          -5.8081524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501925175",
+      "properties": {
+        "timestamp": "2009-09-19T16:14:03Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501925175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1812959,
+          -5.8040707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501925178",
+      "properties": {
+        "timestamp": "2009-09-19T16:14:03Z",
+        "version": 1,
+        "changeset": 2535186,
+        "tourism": "hotel",
+        "id": "node/501925178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1820598,
+          -5.7980848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502418655",
+      "properties": {
+        "timestamp": "2009-09-19T20:40:52Z",
+        "version": 1,
+        "changeset": 2538218,
+        "tourism": "hotel",
+        "id": "node/502418655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2038179,
+          -5.8545087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502762270",
+      "properties": {
+        "timestamp": "2009-10-19T14:40:01Z",
+        "version": 2,
+        "changeset": 2894335,
+        "tourism": "hotel",
+        "id": "node/502762270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2384034,
+          -5.8206127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502762276",
+      "properties": {
+        "timestamp": "2009-09-20T02:06:12Z",
+        "version": 1,
+        "changeset": 2540203,
+        "tourism": "hotel",
+        "id": "node/502762276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2331174,
+          -5.821648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505043890",
+      "properties": {
+        "timestamp": "2009-09-22T10:52:48Z",
+        "version": 1,
+        "changeset": 2567484,
+        "tourism": "hotel",
+        "id": "node/505043890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1787039,
+          -5.8702826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505043892",
+      "properties": {
+        "timestamp": "2009-09-22T10:52:48Z",
+        "version": 1,
+        "changeset": 2567484,
+        "tourism": "hotel",
+        "id": "node/505043892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1784464,
+          -5.8709571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505149934",
+      "properties": {
+        "timestamp": "2009-09-22T13:22:49Z",
+        "version": 1,
+        "changeset": 2568971,
+        "tourism": "hotel",
+        "id": "node/505149934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2181506,
+          -5.7977432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/568830896",
+      "properties": {
+        "timestamp": "2009-11-22T23:10:14Z",
+        "version": 1,
+        "changeset": 3191898,
+        "tourism": "hotel",
+        "id": "node/568830896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1753619,
+          -5.8790933
+        ]
+      }
+    }
+  ]
+}

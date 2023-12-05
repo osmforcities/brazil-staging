@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/440760740",
+      "properties": {
+        "timestamp": "2009-07-13T00:59:19Z",
+        "version": 2,
+        "changeset": 1812678,
+        "amenity": "hospital",
+        "name": "Petrópolis",
+        "id": "node/440760740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1942008,
+          -30.0408021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441024883",
+      "properties": {
+        "timestamp": "2009-07-13T02:40:56Z",
+        "version": 1,
+        "changeset": 1812834,
+        "amenity": "hospital",
+        "name": "Clinicas",
+        "id": "node/441024883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2063822,
+          -30.0385459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441032024",
+      "properties": {
+        "timestamp": "2009-07-13T03:48:50Z",
+        "version": 1,
+        "changeset": 1812954,
+        "amenity": "hospital",
+        "name": "Hospital da PUC",
+        "id": "node/441032024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1762457,
+          -30.0553862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441494479",
+      "properties": {
+        "timestamp": "2009-07-14T01:49:20Z",
+        "version": 1,
+        "changeset": 1822891,
+        "amenity": "hospital",
+        "name": "Hospital Militar",
+        "id": "node/441494479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1929323,
+          -30.018536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442752085",
+      "properties": {
+        "timestamp": "2009-07-17T01:05:26Z",
+        "version": 1,
+        "changeset": 1849976,
+        "amenity": "hospital",
+        "name": "Hospital Femina",
+        "id": "node/442752085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2068456,
+          -30.029191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442752962",
+      "properties": {
+        "timestamp": "2009-07-17T01:13:49Z",
+        "version": 1,
+        "changeset": 1849976,
+        "amenity": "hospital",
+        "name": "Hospital Moinhos de Vento",
+        "id": "node/442752962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2089742,
+          -30.0264861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448670648",
+      "properties": {
+        "timestamp": "2009-07-26T21:25:54Z",
+        "version": 1,
+        "changeset": 1949056,
+        "amenity": "hospital",
+        "name": "Santa Casa de Misericordia",
+        "id": "node/448670648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2224748,
+          -30.0307063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476647429",
+      "properties": {
+        "timestamp": "2009-08-29T16:06:35Z",
+        "version": 1,
+        "changeset": 2302687,
+        "amenity": "hospital",
+        "name": "Hospital da ULBRA",
+        "id": "node/476647429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1982455,
+          -30.037137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/484023640",
+      "properties": {
+        "timestamp": "2009-09-05T01:19:36Z",
+        "version": 1,
+        "changeset": 2375800,
+        "amenity": "hospital",
+        "name": "Ernesto Dorneles",
+        "id": "node/484023640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2123015,
+          -30.0477158
+        ]
+      }
+    }
+  ]
+}

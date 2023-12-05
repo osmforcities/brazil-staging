@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45743739",
+      "properties": {
+        "timestamp": "2009-12-06T17:40:30Z",
+        "version": 1,
+        "changeset": 3307552,
+        "leisure": "stadium",
+        "sport": "soccer",
+        "id": "way/45743739"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.6324607,
+              -22.7122671
+            ],
+            [
+              -42.6318062,
+              -22.71199
+            ],
+            [
+              -42.6321496,
+              -22.7110992
+            ],
+            [
+              -42.6327933,
+              -22.7113368
+            ],
+            [
+              -42.6324607,
+              -22.7122671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45743778",
+      "properties": {
+        "timestamp": "2009-12-06T17:41:12Z",
+        "version": 1,
+        "changeset": 3307552,
+        "leisure": "stadium",
+        "sport": "soccer",
+        "id": "way/45743778"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.6403464,
+              -22.7202437
+            ],
+            [
+              -42.6396919,
+              -22.7200062
+            ],
+            [
+              -42.6400567,
+              -22.7191848
+            ],
+            [
+              -42.6406897,
+              -22.7194322
+            ],
+            [
+              -42.6403464,
+              -22.7202437
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/504459657",
+      "properties": {
+        "timestamp": "2009-09-21T17:34:11Z",
+        "version": 1,
+        "changeset": 2559466,
+        "tourism": "hotel",
+        "id": "node/504459657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8148154,
+          -14.1762751
+        ]
+      }
+    }
+  ]
+}

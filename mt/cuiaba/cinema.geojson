@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/550387475",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:41Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "cinema",
+        "id": "node/550387475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1119667,
+          -15.5881929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550387510",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:45Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "cinema",
+        "id": "node/550387510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0719524,
+          -15.5764446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550387516",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:47Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "cinema",
+        "id": "node/550387516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0733085,
+          -15.6120346
+        ]
+      }
+    }
+  ]
+}

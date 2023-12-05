@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41854434",
+      "properties": {
+        "timestamp": "2009-10-02T13:37:43Z",
+        "version": 4,
+        "changeset": 2712046,
+        "amenity": "school",
+        "layer": "-1",
+        "name": "Colégio Marista Aparecida",
+        "id": "way/41854434"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5145732,
+              -29.1645791
+            ],
+            [
+              -51.515182,
+              -29.1646039
+            ],
+            [
+              -51.5157263,
+              -29.164626
+            ],
+            [
+              -51.5156961,
+              -29.1653323
+            ],
+            [
+              -51.5156789,
+              -29.1656171
+            ],
+            [
+              -51.5145288,
+              -29.1655571
+            ],
+            [
+              -51.5145414,
+              -29.1652799
+            ],
+            [
+              -51.514556,
+              -29.1649573
+            ],
+            [
+              -51.5145732,
+              -29.1645791
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506711365",
+      "properties": {
+        "timestamp": "2009-09-25T12:21:42Z",
+        "version": 2,
+        "changeset": 2617083,
+        "amenity": "school",
+        "name": "Colégio Sagrado Coração de Jesus",
+        "id": "node/506711365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5234705,
+          -29.169957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506711539",
+      "properties": {
+        "timestamp": "2009-09-25T12:22:50Z",
+        "version": 2,
+        "changeset": 2617083,
+        "amenity": "school",
+        "name": "Colégio Scalabriniano Medianeira",
+        "id": "node/506711539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.516295,
+          -29.1687279
+        ]
+      }
+    }
+  ]
+}

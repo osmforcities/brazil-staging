@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/40751594",
+      "properties": {
+        "timestamp": "2009-09-13T15:42:41Z",
+        "version": 1,
+        "changeset": 2470594,
+        "leisure": "stadium",
+        "name": "Mangueirão",
+        "source": "yahoo_imagery; local knowledge",
+        "sport": "soccer",
+        "id": "way/40751594"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4442754,
+              -1.3807127
+            ],
+            [
+              -48.4442642,
+              -1.3816153
+            ],
+            [
+              -48.4436127,
+              -1.3816072
+            ],
+            [
+              -48.443624,
+              -1.3807046
+            ],
+            [
+              -48.4442754,
+              -1.3807127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27626609",
+      "properties": {
+        "timestamp": "2008-10-09T22:00:03Z",
+        "version": 1,
+        "changeset": 194613,
+        "sport": "soccer",
+        "id": "way/27626609"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.4663369,
+            -1.4446622
+          ],
+          [
+            -48.4666649,
+            -1.4451542
+          ],
+          [
+            -48.465806,
+            -1.4457267
+          ],
+          [
+            -48.465478,
+            -1.4452348
+          ],
+          [
+            -48.4663369,
+            -1.4446622
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/482736038",
+      "properties": {
+        "timestamp": "2009-09-03T20:31:23Z",
+        "version": 1,
+        "changeset": 2363619,
+        "name": "Rial",
+        "tourism": "hotel",
+        "id": "node/482736038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7853338,
+          -24.1804858
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/321448936",
+      "properties": {
+        "timestamp": "2008-12-25T15:56:27Z",
+        "version": 4,
+        "changeset": 596638,
+        "amenity": "hospital",
+        "created_by": "Potlatch 0.10f",
+        "name": "Hospital Municipal",
+        "id": "node/321448936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5178386,
+          -23.1475582
+        ]
+      }
+    }
+  ]
+}

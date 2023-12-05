@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/482766335",
+      "properties": {
+        "timestamp": "2009-09-05T04:18:59Z",
+        "version": 2,
+        "changeset": 2376268,
+        "amenity": "school",
+        "name": "Faculdade Juvêncio Terra",
+        "id": "node/482766335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.838948,
+          -14.8569784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/484157923",
+      "properties": {
+        "timestamp": "2009-09-05T04:19:00Z",
+        "version": 1,
+        "changeset": 2376268,
+        "amenity": "school",
+        "name": "Educandário Juvêncio Terra",
+        "id": "node/484157923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8388107,
+          -14.8569037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/488570022",
+      "properties": {
+        "timestamp": "2009-09-07T21:40:55Z",
+        "version": 1,
+        "changeset": 2407944,
+        "amenity": "school",
+        "name": "FTC",
+        "id": "node/488570022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8340558,
+          -14.8641643
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37428300",
+      "properties": {
+        "timestamp": "2009-08-11T18:32:42Z",
+        "version": 2,
+        "changeset": 2110604,
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Hospital Montenegro",
+        "id": "way/37428300"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4639141,
+              -29.6863745
+            ],
+            [
+              -51.4647275,
+              -29.6867762
+            ],
+            [
+              -51.4642053,
+              -29.6876688
+            ],
+            [
+              -51.463409,
+              -29.6872894
+            ],
+            [
+              -51.4639141,
+              -29.6863745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544737011",
+      "properties": {
+        "timestamp": "2009-12-01T13:49:25Z",
+        "version": 2,
+        "changeset": 3264160,
+        "addr:housenumber": "450",
+        "addr:street": "Avenida Júlio Renner",
+        "amenity": "hospital",
+        "name": "Hospital Vale do Caí",
+        "id": "node/544737011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4801579,
+          -29.6946387
+        ]
+      }
+    }
+  ]
+}

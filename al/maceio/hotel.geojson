@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/431029948",
+      "properties": {
+        "timestamp": "2009-06-30T07:19:55Z",
+        "version": 1,
+        "changeset": 1684225,
+        "name": "Hotel Atlantic",
+        "tourism": "hotel",
+        "id": "node/431029948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7008563,
+          -9.6497293
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/530264478",
+      "properties": {
+        "timestamp": "2009-10-13T23:11:31Z",
+        "version": 1,
+        "changeset": 2841027,
+        "amenity": "school",
+        "name": "EE Dona Rosária Isolina de Moraes",
+        "id": "node/530264478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3413929,
+          -23.4678586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530264479",
+      "properties": {
+        "timestamp": "2009-10-13T23:11:31Z",
+        "version": 1,
+        "changeset": 2841027,
+        "amenity": "school",
+        "name": "EE Profª. Edina Alvares Barbosa",
+        "id": "node/530264479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3447059,
+          -23.4668666
+        ]
+      }
+    }
+  ]
+}

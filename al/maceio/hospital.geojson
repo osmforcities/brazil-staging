@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37060473",
+      "properties": {
+        "timestamp": "2009-06-30T04:37:28Z",
+        "version": 1,
+        "changeset": 1683911,
+        "amenity": "hospital",
+        "name": "Hospital Universitário",
+        "id": "way/37060473"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7806116,
+              -9.5588172
+            ],
+            [
+              -35.7796932,
+              -9.5607724
+            ],
+            [
+              -35.7774187,
+              -9.559579
+            ],
+            [
+              -35.7785345,
+              -9.5576831
+            ],
+            [
+              -35.7806116,
+              -9.5588172
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

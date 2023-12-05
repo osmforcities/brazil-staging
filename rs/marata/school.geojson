@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/42037438",
+      "properties": {
+        "timestamp": "2009-10-05T17:52:42Z",
+        "version": 1,
+        "changeset": 2752315,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Municipal Lúdia Araújo de Viegas",
+        "id": "way/42037438"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5056354,
+              -29.5668093
+            ],
+            [
+              -51.5055105,
+              -29.5667872
+            ],
+            [
+              -51.5055481,
+              -29.5666262
+            ],
+            [
+              -51.505673,
+              -29.5666483
+            ],
+            [
+              -51.5056354,
+              -29.5668093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469755147",
+      "properties": {
+        "timestamp": "2009-09-21T12:55:46Z",
+        "version": 2,
+        "changeset": 2556818,
+        "amenity": "school",
+        "name": "Escola",
+        "id": "node/469755147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5720259,
+          -29.5051805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/546294955",
+      "properties": {
+        "timestamp": "2009-11-23T12:44:13Z",
+        "version": 2,
+        "changeset": 3195241,
+        "addr:street": "Rua Miguel Schneider",
+        "amenity": "school",
+        "name": "Escola Estadual Eng. Paulo Chaves",
+        "id": "node/546294955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5602205,
+          -29.5492664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/558275339",
+      "properties": {
+        "timestamp": "2009-11-06T13:48:08Z",
+        "version": 1,
+        "changeset": 3048344,
+        "amenity": "school",
+        "name": "Escola Municipal Pedro Cristiano Höller",
+        "id": "node/558275339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.543984,
+          -29.519957
+        ]
+      }
+    }
+  ]
+}

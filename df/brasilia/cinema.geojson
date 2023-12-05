@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41574515",
+      "properties": {
+        "timestamp": "2009-09-27T10:51:37Z",
+        "version": 1,
+        "changeset": 2650391,
+        "amenity": "cinema",
+        "name": "LIberty Mall",
+        "shop": "mall",
+        "id": "way/41574515"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8845523,
+              -15.7864895
+            ],
+            [
+              -47.884785,
+              -15.7871832
+            ],
+            [
+              -47.8840091,
+              -15.7873932
+            ],
+            [
+              -47.8837033,
+              -15.7864758
+            ],
+            [
+              -47.8844792,
+              -15.7863069
+            ],
+            [
+              -47.8845523,
+              -15.7864895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41574523",
+      "properties": {
+        "timestamp": "2009-09-28T07:27:07Z",
+        "version": 2,
+        "changeset": 2661029,
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Brasília Shopping",
+        "shop": "mall",
+        "id": "way/41574523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8895235,
+              -15.7861851
+            ],
+            [
+              -47.8896608,
+              -15.7872753
+            ],
+            [
+              -47.8884937,
+              -15.7873823
+            ],
+            [
+              -47.8883294,
+              -15.7862723
+            ],
+            [
+              -47.8895235,
+              -15.7861851
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41647740",
+      "properties": {
+        "timestamp": "2009-09-27T23:49:18Z",
+        "version": 1,
+        "changeset": 2659445,
+        "amenity": "cinema",
+        "building": "yes",
+        "layer": "2",
+        "name": "Brasília Shopping",
+        "shop": "mall",
+        "id": "way/41647740"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8894806,
+              -15.7862512
+            ],
+            [
+              -47.8896093,
+              -15.7872258
+            ],
+            [
+              -47.8892231,
+              -15.7872588
+            ],
+            [
+              -47.8891029,
+              -15.7862512
+            ],
+            [
+              -47.8894806,
+              -15.7862512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506285261",
+      "properties": {
+        "timestamp": "2009-09-23T18:17:40Z",
+        "version": 2,
+        "changeset": 2597853,
+        "amenity": "cinema",
+        "name": "Pier 21",
+        "shop": "mall",
+        "id": "node/506285261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8746793,
+          -15.8183676
+        ]
+      }
+    }
+  ]
+}

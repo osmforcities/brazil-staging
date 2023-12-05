@@ -1,0 +1,420 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27473197",
+      "properties": {
+        "timestamp": "2008-10-02T22:07:12Z",
+        "version": 1,
+        "changeset": 28863,
+        "leisure": "sports_centre",
+        "name": "Hípica Paulista",
+        "sport": "equestrian",
+        "id": "way/27473197"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6880894,
+              -23.6018145
+            ],
+            [
+              -46.6900526,
+              -23.6039231
+            ],
+            [
+              -46.6857046,
+              -23.6074276
+            ],
+            [
+              -46.6838287,
+              -23.6053482
+            ],
+            [
+              -46.6880894,
+              -23.6018145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34291336",
+      "properties": {
+        "timestamp": "2009-05-11T13:45:29Z",
+        "version": 2,
+        "changeset": 1152122,
+        "leisure": "track",
+        "name": "Velódromo",
+        "sport": "cycling",
+        "id": "way/34291336"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7149065,
+              -23.5605986
+            ],
+            [
+              -46.7147691,
+              -23.5598906
+            ],
+            [
+              -46.7148206,
+              -23.5597725
+            ],
+            [
+              -46.7148721,
+              -23.5596703
+            ],
+            [
+              -46.714958,
+              -23.5596152
+            ],
+            [
+              -46.7151296,
+              -23.5595365
+            ],
+            [
+              -46.7152669,
+              -23.5595365
+            ],
+            [
+              -46.7154472,
+              -23.5595444
+            ],
+            [
+              -46.715533,
+              -23.5596309
+            ],
+            [
+              -46.7156189,
+              -23.5596939
+            ],
+            [
+              -46.7156789,
+              -23.559804
+            ],
+            [
+              -46.7157219,
+              -23.5598591
+            ],
+            [
+              -46.7158334,
+              -23.5598591
+            ],
+            [
+              -46.7159193,
+              -23.5602761
+            ],
+            [
+              -46.7158163,
+              -23.5602839
+            ],
+            [
+              -46.7158163,
+              -23.5603862
+            ],
+            [
+              -46.7157991,
+              -23.5604964
+            ],
+            [
+              -46.7157304,
+              -23.5606222
+            ],
+            [
+              -46.7156274,
+              -23.5607324
+            ],
+            [
+              -46.7154987,
+              -23.5607953
+            ],
+            [
+              -46.7153528,
+              -23.5608347
+            ],
+            [
+              -46.7152326,
+              -23.5608268
+            ],
+            [
+              -46.715061,
+              -23.5607796
+            ],
+            [
+              -46.7149751,
+              -23.5607009
+            ],
+            [
+              -46.7149065,
+              -23.5605986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39080234",
+      "properties": {
+        "timestamp": "2009-08-15T01:26:00Z",
+        "version": 1,
+        "changeset": 2148926,
+        "area": "yes",
+        "sport": "soccer",
+        "id": "way/39080234"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.654663,
+              -23.5776482
+            ],
+            [
+              -46.6548347,
+              -23.5785686
+            ],
+            [
+              -46.6541824,
+              -23.5786945
+            ],
+            [
+              -46.6540451,
+              -23.5777662
+            ],
+            [
+              -46.654663,
+              -23.5776482
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39080236",
+      "properties": {
+        "timestamp": "2009-08-15T01:26:00Z",
+        "version": 1,
+        "changeset": 2148926,
+        "area": "yes",
+        "sport": "swimming",
+        "id": "way/39080236"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6551866,
+              -23.5765784
+            ],
+            [
+              -46.6553239,
+              -23.5767357
+            ],
+            [
+              -46.6549634,
+              -23.5770268
+            ],
+            [
+              -46.6548004,
+              -23.5768852
+            ],
+            [
+              -46.6551866,
+              -23.5765784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47225276",
+      "properties": {
+        "timestamp": "2009-12-30T22:34:30Z",
+        "version": 1,
+        "changeset": 3494525,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "earth",
+        "id": "way/47225276"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7032485,
+              -23.6391251
+            ],
+            [
+              -46.7031866,
+              -23.6392617
+            ],
+            [
+              -46.7031178,
+              -23.6392355
+            ],
+            [
+              -46.7031797,
+              -23.639099
+            ],
+            [
+              -46.7032485,
+              -23.6391251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/95974527",
+      "properties": {
+        "timestamp": "2008-10-07T00:13:23Z",
+        "version": 6,
+        "changeset": 119593,
+        "created_by": "Potlatch 0.6",
+        "leisure": "sports_centre",
+        "name": "Clube Hipico de Santo Amaro",
+        "sport": "equestrian",
+        "id": "node/95974527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7080808,
+          -23.6414773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/181844599",
+      "properties": {
+        "timestamp": "2007-12-21T23:41:49Z",
+        "version": 1,
+        "changeset": 393114,
+        "created_by": "Potlatch 0.5d",
+        "sport": "soccer",
+        "id": "node/181844599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5637281,
+          -23.5416383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/181844912",
+      "properties": {
+        "timestamp": "2007-12-21T23:42:01Z",
+        "version": 1,
+        "changeset": 393114,
+        "created_by": "Potlatch 0.5d",
+        "sport": "soccer",
+        "id": "node/181844912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5639684,
+          -23.5407098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/181861624",
+      "properties": {
+        "timestamp": "2007-12-21T23:51:44Z",
+        "version": 1,
+        "changeset": 393114,
+        "created_by": "Potlatch 0.5d",
+        "hobby": "model_car",
+        "sport": "model_car",
+        "id": "node/181861624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5821731,
+          -23.5357524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387096695",
+      "properties": {
+        "timestamp": "2009-04-29T00:10:10Z",
+        "version": 1,
+        "changeset": 1010215,
+        "leisure": "stadium",
+        "name": "Ginasio do Ibirapuera",
+        "sport": "gymnastics",
+        "id": "node/387096695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6560762,
+          -23.5784282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445061541",
+      "properties": {
+        "timestamp": "2009-09-21T13:48:48Z",
+        "version": 2,
+        "changeset": 2557320,
+        "sport": "soccer",
+        "id": "node/445061541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5997178,
+          -23.5497597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494609009",
+      "properties": {
+        "timestamp": "2009-09-13T00:02:43Z",
+        "version": 1,
+        "changeset": 2463481,
+        "leisure": "stadium",
+        "name": "Estádio Canindé",
+        "sport": "soccer",
+        "id": "node/494609009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6186123,
+          -23.5205212
+        ]
+      }
+    }
+  ]
+}

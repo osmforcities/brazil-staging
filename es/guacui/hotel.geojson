@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/282383817",
+      "properties": {
+        "timestamp": "2008-07-31T02:48:03Z",
+        "version": 1,
+        "changeset": 637543,
+        "name": "Hotel Minas Gerais",
+        "tourism": "hotel",
+        "id": "node/282383817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6769646,
+          -20.7725919
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/501619315",
+      "properties": {
+        "timestamp": "2009-09-19T10:48:03Z",
+        "version": 1,
+        "changeset": 2532245,
+        "amenity": "hospital",
+        "name": "Hospital da UNIMED",
+        "id": "node/501619315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2047742,
+          -5.816333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501698678",
+      "properties": {
+        "timestamp": "2009-09-19T11:07:24Z",
+        "version": 1,
+        "changeset": 2532245,
+        "amenity": "hospital",
+        "name": "Hospital da Polícia",
+        "id": "node/501698678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2035983,
+          -5.7949939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501968602",
+      "properties": {
+        "timestamp": "2009-09-19T16:37:39Z",
+        "version": 1,
+        "changeset": 2535880,
+        "amenity": "hospital",
+        "id": "node/501968602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1980501,
+          -5.8106287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501968615",
+      "properties": {
+        "timestamp": "2009-09-19T16:37:39Z",
+        "version": 1,
+        "changeset": 2535880,
+        "amenity": "hospital",
+        "id": "node/501968615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1996809,
+          -5.8095528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501968628",
+      "properties": {
+        "timestamp": "2009-09-20T01:05:24Z",
+        "version": 2,
+        "changeset": 2540132,
+        "amenity": "hospital",
+        "name": "Hospital Walfredo Gurgel",
+        "id": "node/501968628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2032514,
+          -5.8100224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502254470",
+      "properties": {
+        "timestamp": "2009-10-28T01:53:17Z",
+        "version": 2,
+        "changeset": 2970430,
+        "amenity": "hospital",
+        "id": "node/502254470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2238012,
+          -5.868726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502498235",
+      "properties": {
+        "timestamp": "2009-09-19T21:20:43Z",
+        "version": 1,
+        "changeset": 2538218,
+        "amenity": "hospital",
+        "id": "node/502498235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.242004,
+          -5.8582912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502853871",
+      "properties": {
+        "timestamp": "2009-09-20T05:03:49Z",
+        "version": 1,
+        "changeset": 2540809,
+        "amenity": "hospital",
+        "id": "node/502853871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.228141,
+          -5.8156867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503350893",
+      "properties": {
+        "timestamp": "2009-09-20T16:09:04Z",
+        "version": 1,
+        "changeset": 2546803,
+        "amenity": "hospital",
+        "id": "node/503350893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1973716,
+          -5.7811428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/504799296",
+      "properties": {
+        "timestamp": "2009-11-28T00:43:02Z",
+        "version": 2,
+        "changeset": 3233013,
+        "amenity": "hospital",
+        "id": "node/504799296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.206892,
+          -5.8243603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505147762",
+      "properties": {
+        "timestamp": "2009-09-22T13:19:44Z",
+        "version": 1,
+        "changeset": 2568971,
+        "amenity": "hospital",
+        "id": "node/505147762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2190948,
+          -5.7922183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506540736",
+      "properties": {
+        "timestamp": "2009-09-24T11:22:20Z",
+        "version": 1,
+        "changeset": 2604207,
+        "amenity": "hospital",
+        "id": "node/506540736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2241945,
+          -5.8669241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506577204",
+      "properties": {
+        "timestamp": "2009-11-22T23:10:18Z",
+        "version": 2,
+        "changeset": 3191898,
+        "amenity": "hospital",
+        "name": "Maternidade Escola Januário Cicco",
+        "id": "node/506577204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1979969,
+          -5.7817279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506577208",
+      "properties": {
+        "timestamp": "2009-09-24T13:10:46Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "hospital",
+        "id": "node/506577208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1963061,
+          -5.7825648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506577211",
+      "properties": {
+        "timestamp": "2009-09-24T13:10:47Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "hospital",
+        "id": "node/506577211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1960057,
+          -5.7839567
+        ]
+      }
+    }
+  ]
+}

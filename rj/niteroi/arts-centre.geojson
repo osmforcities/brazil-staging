@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30420759",
+      "properties": {
+        "timestamp": "2009-01-23T19:42:59Z",
+        "version": 2,
+        "changeset": 829325,
+        "amenity": "arts_centre",
+        "building": "yes",
+        "name": "Camarin - Escola de dança",
+        "id": "way/30420759"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1100632,
+              -22.9017116
+            ],
+            [
+              -43.1099458,
+              -22.9017106
+            ],
+            [
+              -43.1098479,
+              -22.901785
+            ],
+            [
+              -43.1096389,
+              -22.9015863
+            ],
+            [
+              -43.1097793,
+              -22.9014582
+            ],
+            [
+              -43.1100632,
+              -22.9017116
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

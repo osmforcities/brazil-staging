@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/252616739",
+      "properties": {
+        "timestamp": "2008-04-26T10:24:49Z",
+        "version": 2,
+        "changeset": 257882,
+        "name": "Pedra dos Ventos",
+        "tourism": "hotel",
+        "id": "node/252616739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0397369,
+          -5.0749793
+        ]
+      }
+    }
+  ]
+}

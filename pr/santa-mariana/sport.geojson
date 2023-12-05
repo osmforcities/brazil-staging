@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/321511336",
+      "properties": {
+        "timestamp": "2008-12-27T15:31:36Z",
+        "version": 2,
+        "changeset": 628290,
+        "created_by": "Potlatch 0.10f",
+        "name": "Ginásio de Esportes de Santa Mariana",
+        "sport": "athletics",
+        "id": "node/321511336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5231172,
+          -23.148882
+        ]
+      }
+    }
+  ]
+}

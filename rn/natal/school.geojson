@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41113183",
+      "properties": {
+        "timestamp": "2009-12-11T04:12:43Z",
+        "version": 5,
+        "changeset": 3346545,
+        "amenity": "school",
+        "building": "yes",
+        "is_in": "UFRN",
+        "name": "Núcleo de Educação Infantil - UFRN",
+        "url": "http://www.nei.ufrn.br/",
+        "id": "way/41113183"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.206229,
+              -5.8370217
+            ],
+            [
+              -35.2062014,
+              -5.8372623
+            ],
+            [
+              -35.2060709,
+              -5.8372475
+            ],
+            [
+              -35.2060584,
+              -5.8373566
+            ],
+            [
+              -35.2061736,
+              -5.8373697
+            ],
+            [
+              -35.2061559,
+              -5.8375243
+            ],
+            [
+              -35.2058964,
+              -5.8374949
+            ],
+            [
+              -35.2059542,
+              -5.8369906
+            ],
+            [
+              -35.206229,
+              -5.8370217
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41130826",
+      "properties": {
+        "timestamp": "2009-12-08T13:12:47Z",
+        "version": 2,
+        "changeset": 3324723,
+        "amenity": "school",
+        "leisure": "common",
+        "name": "IFRN",
+        "id": "way/41130826"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.2015348,
+              -5.811141
+            ],
+            [
+              -35.2039209,
+              -5.810253
+            ],
+            [
+              -35.2048221,
+              -5.8127378
+            ],
+            [
+              -35.2023931,
+              -5.8136515
+            ],
+            [
+              -35.2015348,
+              -5.811141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45978779",
+      "properties": {
+        "timestamp": "2009-12-11T04:12:36Z",
+        "version": 1,
+        "changeset": 3346545,
+        "amenity": "school",
+        "name": "Escola Estadual Floriano Cavalcanti",
+        "id": "way/45978779"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.2070539,
+              -5.8412722
+            ],
+            [
+              -35.2067307,
+              -5.8418674
+            ],
+            [
+              -35.2065563,
+              -5.8417736
+            ],
+            [
+              -35.2065244,
+              -5.8418324
+            ],
+            [
+              -35.2063167,
+              -5.8417208
+            ],
+            [
+              -35.2064258,
+              -5.8415198
+            ],
+            [
+              -35.2066414,
+              -5.8416357
+            ],
+            [
+              -35.2067413,
+              -5.8414519
+            ],
+            [
+              -35.2066758,
+              -5.8414167
+            ],
+            [
+              -35.2066415,
+              -5.84148
+            ],
+            [
+              -35.2065926,
+              -5.8414538
+            ],
+            [
+              -35.2065798,
+              -5.8414774
+            ],
+            [
+              -35.2064834,
+              -5.8414256
+            ],
+            [
+              -35.2065144,
+              -5.8413683
+            ],
+            [
+              -35.2064808,
+              -5.8413502
+            ],
+            [
+              -35.2062441,
+              -5.8417859
+            ],
+            [
+              -35.206174,
+              -5.8417482
+            ],
+            [
+              -35.2060621,
+              -5.8416881
+            ],
+            [
+              -35.2064258,
+              -5.8410185
+            ],
+            [
+              -35.2065261,
+              -5.8410725
+            ],
+            [
+              -35.2065618,
+              -5.8410067
+            ],
+            [
+              -35.2066451,
+              -5.8410515
+            ],
+            [
+              -35.2066098,
+              -5.8411164
+            ],
+            [
+              -35.206736,
+              -5.8411843
+            ],
+            [
+              -35.2067738,
+              -5.8411148
+            ],
+            [
+              -35.2068515,
+              -5.8411566
+            ],
+            [
+              -35.2067168,
+              -5.8414046
+            ],
+            [
+              -35.2067552,
+              -5.8414252
+            ],
+            [
+              -35.2068871,
+              -5.8411825
+            ],
+            [
+              -35.2070539,
+              -5.8412722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/500966701",
+      "properties": {
+        "timestamp": "2009-09-22T20:28:06Z",
+        "version": 2,
+        "changeset": 2575609,
+        "amenity": "school",
+        "name": "Atheneu",
+        "id": "node/500966701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1980123,
+          -5.7843913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/500990432",
+      "properties": {
+        "timestamp": "2009-09-19T00:17:21Z",
+        "version": 1,
+        "changeset": 2529423,
+        "amenity": "school",
+        "name": "CEI",
+        "id": "node/500990432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2080278,
+          -5.8395344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501170973",
+      "properties": {
+        "timestamp": "2009-09-19T01:27:18Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "name": "CAIC Cidade Satélite",
+        "id": "node/501170973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2459478,
+          -5.8542887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501170977",
+      "properties": {
+        "timestamp": "2009-09-19T01:27:18Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "id": "node/501170977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2342319,
+          -5.8690427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501170983",
+      "properties": {
+        "timestamp": "2009-09-19T01:27:18Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "id": "node/501170983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2344036,
+          -5.8683085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501170997",
+      "properties": {
+        "timestamp": "2009-09-19T01:27:19Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "name": "CAIC",
+        "id": "node/501170997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2226105,
+          -5.8236098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501171016",
+      "properties": {
+        "timestamp": "2009-09-20T01:05:23Z",
+        "version": 2,
+        "changeset": 2540132,
+        "amenity": "school",
+        "name": "Piaget",
+        "id": "node/501171016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2215122,
+          -5.8708967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501171017",
+      "properties": {
+        "timestamp": "2009-09-19T01:27:20Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "name": "Escola Estadual Professor Antônio Pinto de Medeiros",
+        "id": "node/501171017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2408237,
+          -5.8561416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501195324",
+      "properties": {
+        "timestamp": "2009-09-19T01:40:12Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "name": "Escola Estadual Governador Walfredo Gurgel",
+        "id": "node/501195324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2178211,
+          -5.839133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501215709",
+      "properties": {
+        "timestamp": "2009-09-19T01:51:49Z",
+        "version": 1,
+        "changeset": 2529573,
+        "amenity": "school",
+        "name": "CAP Hipócrates",
+        "id": "node/501215709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2130232,
+          -5.8462968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501698682",
+      "properties": {
+        "timestamp": "2009-09-19T11:10:45Z",
+        "version": 2,
+        "changeset": 2532245,
+        "amenity": "school",
+        "name": "SENAI",
+        "id": "node/501698682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2041562,
+          -5.7967786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501784871",
+      "properties": {
+        "timestamp": "2009-10-09T15:58:14Z",
+        "version": 2,
+        "changeset": 2794957,
+        "amenity": "school",
+        "id": "node/501784871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2107256,
+          -5.8129427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501784918",
+      "properties": {
+        "timestamp": "2009-09-19T12:05:03Z",
+        "version": 1,
+        "changeset": 2532710,
+        "amenity": "school",
+        "id": "node/501784918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2250388,
+          -5.874198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501801706",
+      "properties": {
+        "timestamp": "2009-09-20T03:01:24Z",
+        "version": 2,
+        "changeset": 2540405,
+        "amenity": "school",
+        "name": "Universidade Estadual do Rio Grande do Norte - UERN",
+        "id": "node/501801706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2054666,
+          -5.8559392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501841216",
+      "properties": {
+        "timestamp": "2009-09-19T14:13:23Z",
+        "version": 1,
+        "changeset": 2534142,
+        "amenity": "school",
+        "name": "UNP Roberto Freire",
+        "id": "node/501841216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1927836,
+          -5.8619373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501847341",
+      "properties": {
+        "timestamp": "2009-09-19T14:34:07Z",
+        "version": 1,
+        "changeset": 2534706,
+        "amenity": "school",
+        "id": "node/501847341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2066196,
+          -5.8691605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501847344",
+      "properties": {
+        "timestamp": "2009-09-19T14:34:07Z",
+        "version": 1,
+        "changeset": 2534706,
+        "amenity": "school",
+        "id": "node/501847344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2066453,
+          -5.8661807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502407497",
+      "properties": {
+        "timestamp": "2009-09-19T20:33:53Z",
+        "version": 1,
+        "changeset": 2538218,
+        "amenity": "school",
+        "id": "node/502407497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1977926,
+          -5.8571129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502418659",
+      "properties": {
+        "timestamp": "2009-09-19T20:40:53Z",
+        "version": 1,
+        "changeset": 2538218,
+        "amenity": "school",
+        "name": "FACEX",
+        "id": "node/502418659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.207234,
+          -5.8511532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502442042",
+      "properties": {
+        "timestamp": "2009-09-19T20:55:19Z",
+        "version": 1,
+        "changeset": 2538218,
+        "amenity": "school",
+        "id": "node/502442042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2395664,
+          -5.849992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502574030",
+      "properties": {
+        "timestamp": "2009-09-19T22:17:47Z",
+        "version": 1,
+        "changeset": 2539106,
+        "amenity": "school",
+        "name": "SEST/SENAT",
+        "id": "node/502574030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2296186,
+          -5.8571641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502752526",
+      "properties": {
+        "timestamp": "2009-09-20T01:52:25Z",
+        "version": 1,
+        "changeset": 2540203,
+        "amenity": "school",
+        "id": "node/502752526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2108272,
+          -5.8150133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503296387",
+      "properties": {
+        "timestamp": "2009-09-20T15:03:40Z",
+        "version": 1,
+        "changeset": 2545567,
+        "amenity": "school",
+        "id": "node/503296387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1880373,
+          -5.8647209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503329215",
+      "properties": {
+        "timestamp": "2009-09-20T15:34:35Z",
+        "version": 1,
+        "changeset": 2546347,
+        "amenity": "school",
+        "id": "node/503329215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1892818,
+          -5.8730285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503350900",
+      "properties": {
+        "timestamp": "2009-09-20T16:09:04Z",
+        "version": 1,
+        "changeset": 2546803,
+        "amenity": "school",
+        "name": "Aliança Francesa Natal",
+        "id": "node/503350900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2000839,
+          -5.7838669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503357179",
+      "properties": {
+        "timestamp": "2009-09-22T13:13:39Z",
+        "version": 2,
+        "changeset": 2568971,
+        "amenity": "school",
+        "id": "node/503357179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1987186,
+          -5.7744052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503451512",
+      "properties": {
+        "timestamp": "2009-09-20T17:05:08Z",
+        "version": 1,
+        "changeset": 2547377,
+        "amenity": "school",
+        "id": "node/503451512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2547094,
+          -5.8269731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/504801814",
+      "properties": {
+        "timestamp": "2009-09-22T01:02:45Z",
+        "version": 1,
+        "changeset": 2563665,
+        "amenity": "school",
+        "id": "node/504801814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2056295,
+          -5.8152852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505486295",
+      "properties": {
+        "timestamp": "2009-09-22T18:29:20Z",
+        "version": 1,
+        "changeset": 2573760,
+        "amenity": "school",
+        "id": "node/505486295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2261068,
+          -5.8542693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505514233",
+      "properties": {
+        "timestamp": "2009-09-22T18:38:11Z",
+        "version": 1,
+        "changeset": 2573760,
+        "amenity": "school",
+        "id": "node/505514233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.213833,
+          -5.8238123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/505537042",
+      "properties": {
+        "timestamp": "2009-09-22T18:46:05Z",
+        "version": 1,
+        "changeset": 2573760,
+        "amenity": "school",
+        "name": "CEI",
+        "id": "node/505537042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2099277,
+          -5.8161359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506567964",
+      "properties": {
+        "timestamp": "2009-09-24T12:45:16Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "school",
+        "id": "node/506567964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2298573,
+          -5.8202905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506569644",
+      "properties": {
+        "timestamp": "2009-09-24T12:50:39Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "school",
+        "id": "node/506569644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2258147,
+          -5.8218702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506575048",
+      "properties": {
+        "timestamp": "2009-09-24T13:05:36Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "school",
+        "id": "node/506575048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2192314,
+          -5.8190268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506576880",
+      "properties": {
+        "timestamp": "2009-09-24T13:09:47Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "school",
+        "id": "node/506576880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2008465,
+          -5.7851863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506576894",
+      "properties": {
+        "timestamp": "2009-09-24T13:09:50Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "school",
+        "id": "node/506576894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2084511,
+          -5.823467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506577202",
+      "properties": {
+        "timestamp": "2009-09-24T13:10:46Z",
+        "version": 1,
+        "changeset": 2604721,
+        "amenity": "school",
+        "id": "node/506577202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1888216,
+          -5.7948101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/519941066",
+      "properties": {
+        "timestamp": "2009-10-04T12:39:55Z",
+        "version": 1,
+        "changeset": 2735261,
+        "amenity": "school",
+        "id": "node/519941066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2085507,
+          -5.870245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/519941084",
+      "properties": {
+        "timestamp": "2009-10-04T12:39:56Z",
+        "version": 1,
+        "changeset": 2735261,
+        "amenity": "school",
+        "id": "node/519941084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2070573,
+          -5.8709878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/526598398",
+      "properties": {
+        "timestamp": "2009-10-09T03:18:38Z",
+        "version": 1,
+        "changeset": 2789288,
+        "amenity": "school",
+        "id": "node/526598398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1970792,
+          -5.7924977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/526598400",
+      "properties": {
+        "timestamp": "2009-10-09T03:18:39Z",
+        "version": 1,
+        "changeset": 2789288,
+        "amenity": "school",
+        "id": "node/526598400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1960235,
+          -5.7892528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/535298168",
+      "properties": {
+        "timestamp": "2009-10-19T14:40:04Z",
+        "version": 1,
+        "changeset": 2894335,
+        "amenity": "school",
+        "id": "node/535298168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.238146,
+          -5.8202797
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/322536287",
+      "properties": {
+        "timestamp": "2008-12-28T14:32:13Z",
+        "version": 1,
+        "changeset": 644153,
+        "leisure": "pitch",
+        "name": "Cipó Futebol Clube",
+        "sport": "soccer",
+        "id": "node/322536287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6138903,
+          -19.3293791
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41483731",
+      "properties": {
+        "timestamp": "2009-09-25T19:38:17Z",
+        "version": 1,
+        "changeset": 2625310,
+        "amenity": "school",
+        "name": "INEI",
+        "id": "way/41483731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8748524,
+              -15.7690098
+            ],
+            [
+              -47.8748009,
+              -15.7693402
+            ],
+            [
+              -47.8731529,
+              -15.7690346
+            ],
+            [
+              -47.8732559,
+              -15.7687042
+            ],
+            [
+              -47.8748524,
+              -15.7690098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41814741",
+      "properties": {
+        "timestamp": "2009-10-01T16:05:08Z",
+        "version": 1,
+        "changeset": 2701421,
+        "amenity": "school",
+        "name": "CEAN",
+        "id": "way/41814741"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.87584,
+              -15.765941
+            ],
+            [
+              -47.8756313,
+              -15.7668579
+            ],
+            [
+              -47.8753228,
+              -15.7667909
+            ],
+            [
+              -47.8738425,
+              -15.7664691
+            ],
+            [
+              -47.8740594,
+              -15.7655072
+            ],
+            [
+              -47.87584,
+              -15.765941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43376668",
+      "properties": {
+        "timestamp": "2009-10-30T13:44:45Z",
+        "version": 1,
+        "changeset": 2989216,
+        "amenity": "school",
+        "name": "La Salle",
+        "id": "way/43376668"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.905431,
+              -15.8077353
+            ],
+            [
+              -47.9049206,
+              -15.807299
+            ],
+            [
+              -47.9063532,
+              -15.8057264
+            ],
+            [
+              -47.9068719,
+              -15.8061874
+            ],
+            [
+              -47.905431,
+              -15.8077353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43376669",
+      "properties": {
+        "timestamp": "2009-10-30T13:44:45Z",
+        "version": 1,
+        "changeset": 2989216,
+        "amenity": "school",
+        "name": "CIL - Centro Interescolar de Línguas",
+        "id": "way/43376669"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9100253,
+              -15.8081779
+            ],
+            [
+              -47.9096959,
+              -15.8086307
+            ],
+            [
+              -47.9088726,
+              -15.8080749
+            ],
+            [
+              -47.9092328,
+              -15.8075809
+            ],
+            [
+              -47.9100253,
+              -15.8081779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47012288",
+      "properties": {
+        "timestamp": "2009-12-29T20:01:19Z",
+        "version": 3,
+        "changeset": 3484589,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Classe 17",
+        "id": "way/47012288"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1231534,
+              -15.7976116
+            ],
+            [
+              -48.121866,
+              -15.797147
+            ],
+            [
+              -48.1220591,
+              -15.7966515
+            ],
+            [
+              -48.1233465,
+              -15.7971264
+            ],
+            [
+              -48.1231534,
+              -15.7976116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47012487",
+      "properties": {
+        "timestamp": "2009-12-29T20:04:19Z",
+        "version": 4,
+        "changeset": 3484589,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Centro de Ensino Médio 09",
+        "id": "way/47012487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1249452,
+              -15.7923671
+            ],
+            [
+              -48.1238401,
+              -15.7919645
+            ],
+            [
+              -48.1240332,
+              -15.7914586
+            ],
+            [
+              -48.1251383,
+              -15.7918716
+            ],
+            [
+              -48.1249452,
+              -15.7923671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47014119",
+      "properties": {
+        "timestamp": "2009-12-29T20:02:40Z",
+        "version": 4,
+        "changeset": 3484589,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Centro de Ensino Fundamental 12",
+        "id": "way/47014119"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1195539,
+              -15.7963263
+            ],
+            [
+              -48.1184435,
+              -15.795934
+            ],
+            [
+              -48.1186527,
+              -15.795423
+            ],
+            [
+              -48.1197524,
+              -15.7958204
+            ],
+            [
+              -48.1195539,
+              -15.7963263
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47089523",
+      "properties": {
+        "timestamp": "2009-12-29T20:04:47Z",
+        "version": 2,
+        "changeset": 3484589,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Classe 16",
+        "id": "way/47089523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1214207,
+              -15.7911179
+            ],
+            [
+              -48.1203318,
+              -15.7907101
+            ],
+            [
+              -48.1205249,
+              -15.7902146
+            ],
+            [
+              -48.12163,
+              -15.7906121
+            ],
+            [
+              -48.1214207,
+              -15.7911179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47097671",
+      "properties": {
+        "timestamp": "2009-12-29T20:05:52Z",
+        "version": 2,
+        "changeset": 3484589,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Classe 31",
+        "id": "way/47097671"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.127622,
+              -15.7992169
+            ],
+            [
+              -48.1265277,
+              -15.7988143
+            ],
+            [
+              -48.1267208,
+              -15.7983188
+            ],
+            [
+              -48.1278205,
+              -15.7987111
+            ],
+            [
+              -48.127622,
+              -15.7992169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47108380",
+      "properties": {
+        "timestamp": "2009-12-30T20:22:49Z",
+        "version": 3,
+        "changeset": 3493393,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Centro de Atenção Integral à Criança (CAIC) ",
+        "id": "way/47108380"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1300628,
+              -15.7992943
+            ],
+            [
+              -48.1297839,
+              -15.7992169
+            ],
+            [
+              -48.1293118,
+              -15.7990311
+            ],
+            [
+              -48.1297088,
+              -15.7979832
+            ],
+            [
+              -48.130095,
+              -15.7969664
+            ],
+            [
+              -48.1308031,
+              -15.7972348
+            ],
+            [
+              -48.130846,
+              -15.7972761
+            ],
+            [
+              -48.130846,
+              -15.7973174
+            ],
+            [
+              -48.1304759,
+              -15.7982568
+            ],
+            [
+              -48.1300628,
+              -15.7992943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47108408",
+      "properties": {
+        "timestamp": "2009-12-29T20:07:57Z",
+        "version": 2,
+        "changeset": 3484589,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Centro de Ensino Especial 02",
+        "id": "way/47108408"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1333941,
+              -15.7909837
+            ],
+            [
+              -48.1325305,
+              -15.7906637
+            ],
+            [
+              -48.1329596,
+              -15.7895384
+            ],
+            [
+              -48.1338233,
+              -15.7898636
+            ],
+            [
+              -48.1333941,
+              -15.7909837
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47218112",
+      "properties": {
+        "timestamp": "2009-12-30T20:36:33Z",
+        "version": 2,
+        "changeset": 3493476,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Centro de Ensino Fundamental 15 de Ceilândia",
+        "id": "way/47218112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1296015,
+              -15.7940551
+            ],
+            [
+              -48.1285071,
+              -15.7936628
+            ],
+            [
+              -48.1286949,
+              -15.7931569
+            ],
+            [
+              -48.1298053,
+              -15.7935544
+            ],
+            [
+              -48.1296015,
+              -15.7940551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47223067",
+      "properties": {
+        "timestamp": "2009-12-30T22:06:00Z",
+        "version": 1,
+        "changeset": 3494263,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Classe 33 de Ceilândia",
+        "id": "way/47223067"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1315702,
+              -15.7888931
+            ],
+            [
+              -48.1304705,
+              -15.7884853
+            ],
+            [
+              -48.1306744,
+              -15.7879846
+            ],
+            [
+              -48.1317741,
+              -15.7883821
+            ],
+            [
+              -48.1315702,
+              -15.7888931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47223205",
+      "properties": {
+        "timestamp": "2009-12-30T22:11:55Z",
+        "version": 1,
+        "changeset": 3494318,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Classe 30 de Ceilândia",
+        "id": "way/47223205"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1269139,
+              -15.7872
+            ],
+            [
+              -48.1258142,
+              -15.7868025
+            ],
+            [
+              -48.1260127,
+              -15.7863121
+            ],
+            [
+              -48.1271124,
+              -15.7867096
+            ],
+            [
+              -48.1269139,
+              -15.7872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571510520",
+      "properties": {
+        "timestamp": "2009-11-26T17:29:01Z",
+        "version": 1,
+        "changeset": 3221872,
+        "amenity": "school",
+        "name": "Centro Educacional PAD-DF",
+        "id": "node/571510520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5548159,
+          -16.0096936
+        ]
+      }
+    }
+  ]
+}

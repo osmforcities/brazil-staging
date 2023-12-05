@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/494164412",
+      "properties": {
+        "timestamp": "2009-09-12T15:09:08Z",
+        "version": 2,
+        "changeset": 2458310,
+        "amenity": "university",
+        "name": "Unicamp",
+        "id": "node/494164412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0668391,
+          -22.816905
+        ]
+      }
+    }
+  ]
+}

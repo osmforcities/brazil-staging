@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/351699739",
+      "properties": {
+        "timestamp": "2009-02-24T18:17:00Z",
+        "version": 3,
+        "changeset": 653056,
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "name": "Drogaria Nossa Senhora da Saúde",
+        "id": "node/351699739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3675563,
+          -19.8305402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/351700110",
+      "properties": {
+        "timestamp": "2009-02-28T15:09:08Z",
+        "version": 4,
+        "changeset": 701502,
+        "amenity": "pharmacy",
+        "created_by": "Potlatch 0.10f",
+        "name": "Drogaria São Marcos",
+        "id": "node/351700110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.368828,
+          -19.8304596
+        ]
+      }
+    }
+  ]
+}

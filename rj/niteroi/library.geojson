@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/448452669",
+      "properties": {
+        "timestamp": "2009-09-21T09:13:56Z",
+        "version": 2,
+        "changeset": 2554880,
+        "amenity": "library",
+        "name": "Biblioteca Municipal",
+        "id": "node/448452669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1084706,
+          -22.9038346
+        ]
+      }
+    }
+  ]
+}

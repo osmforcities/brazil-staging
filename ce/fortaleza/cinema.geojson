@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/479233872",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:20Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "cinema",
+        "id": "node/479233872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5399969,
+          -3.7389286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479234242",
+      "properties": {
+        "timestamp": "2009-08-31T19:06:45Z",
+        "version": 1,
+        "changeset": 2329338,
+        "amenity": "cinema",
+        "name": "Cinema North Shopping - Severiano Ribeiro",
+        "id": "node/479234242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5664156,
+          -3.7346548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724629",
+      "properties": {
+        "timestamp": "2009-11-27T03:27:14Z",
+        "version": 1,
+        "changeset": 3225361,
+        "amenity": "cinema",
+        "name": "UCI",
+        "id": "node/571724629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4882339,
+          -3.7548106
+        ]
+      }
+    }
+  ]
+}

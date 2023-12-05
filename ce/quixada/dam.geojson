@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23328844",
+      "properties": {
+        "timestamp": "2008-03-23T03:13:16Z",
+        "version": 3,
+        "changeset": 380921,
+        "created_by": "JOSM",
+        "highway": "footway",
+        "name": "Açude do Cedro",
+        "waterway": "dam",
+        "id": "way/23328844"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0641519,
+            -4.979345
+          ],
+          [
+            -39.0641498,
+            -4.9791031
+          ],
+          [
+            -39.0641069,
+            -4.9788433
+          ],
+          [
+            -39.0639741,
+            -4.9784401
+          ],
+          [
+            -39.0637652,
+            -4.9780548
+          ],
+          [
+            -39.0634954,
+            -4.9777413
+          ],
+          [
+            -39.0632076,
+            -4.9775173
+          ],
+          [
+            -39.0628299,
+            -4.977356
+          ],
+          [
+            -39.0624792,
+            -4.9772664
+          ],
+          [
+            -39.0620655,
+            -4.9772127
+          ],
+          [
+            -39.0616428,
+            -4.9772216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23328851",
+      "properties": {
+        "timestamp": "2008-03-23T03:17:33Z",
+        "version": 2,
+        "changeset": 380921,
+        "created_by": "JOSM",
+        "highway": "footway",
+        "waterway": "dam",
+        "id": "way/23328851"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0659055,
+            -4.9824717
+          ],
+          [
+            -39.0646555,
+            -4.9802409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23408683",
+      "properties": {
+        "timestamp": "2008-03-23T03:17:31Z",
+        "version": 1,
+        "changeset": 380921,
+        "created_by": "JOSM",
+        "waterway": "dam",
+        "id": "way/23408683"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0607741,
+            -4.9755166
+          ],
+          [
+            -39.061219,
+            -4.9766622
+          ]
+        ]
+      }
+    }
+  ]
+}

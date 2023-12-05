@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/500960837",
+      "properties": {
+        "timestamp": "2009-11-30T22:09:31Z",
+        "version": 8,
+        "changeset": 3260248,
+        "alt_name": "UFRN",
+        "amenity": "university",
+        "is_in": "Rio Grande do Norte",
+        "name": "Universidade Federal do Rio Grande do Norte",
+        "url": "http://www.ufrn.br/",
+        "id": "node/500960837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2016708,
+          -5.8396961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501619309",
+      "properties": {
+        "timestamp": "2009-09-19T16:37:41Z",
+        "version": 2,
+        "changeset": 2535880,
+        "amenity": "university",
+        "name": "Departamento de Odontologia - UFRN",
+        "id": "node/501619309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2057233,
+          -5.8160851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501968640",
+      "properties": {
+        "timestamp": "2009-09-19T16:37:39Z",
+        "version": 1,
+        "changeset": 2535880,
+        "amenity": "university",
+        "name": "UNP Salgado Filho",
+        "place": "",
+        "tourism": "",
+        "id": "node/501968640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2060838,
+          -5.8141382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599160351",
+      "properties": {
+        "timestamp": "2009-12-25T03:24:12Z",
+        "version": 2,
+        "changeset": 3446016,
+        "amenity": "university",
+        "name": "Centro de Biociências",
+        "id": "node/599160351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2018901,
+          -5.8419427
+        ]
+      }
+    }
+  ]
+}

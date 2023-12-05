@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/247951570",
+      "properties": {
+        "timestamp": "2008-12-26T05:23:16Z",
+        "version": 2,
+        "changeset": 608086,
+        "created_by": "JOSM",
+        "name": "Cachoeira Gavião",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/247951570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5559605,
+          -19.3363473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321707202",
+      "properties": {
+        "timestamp": "2008-12-26T04:30:15Z",
+        "version": 1,
+        "changeset": 608086,
+        "name": "Cachoeira Congonhas",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/321707202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5610656,
+          -19.3314049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322073469",
+      "properties": {
+        "timestamp": "2008-12-27T17:30:04Z",
+        "version": 1,
+        "changeset": 630747,
+        "name": "Cachoeira Véu da Noiva",
+        "waterway": "waterfall",
+        "id": "node/322073469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6055735,
+          -19.3157015
+        ]
+      }
+    }
+  ]
+}

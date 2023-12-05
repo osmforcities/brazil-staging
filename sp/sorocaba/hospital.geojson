@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/495418452",
+      "properties": {
+        "timestamp": "2009-09-13T17:36:06Z",
+        "version": 1,
+        "changeset": 2471448,
+        "amenity": "hospital",
+        "id": "node/495418452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.402983,
+          -23.4936943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496106043",
+      "properties": {
+        "timestamp": "2009-09-14T13:11:38Z",
+        "version": 1,
+        "changeset": 2480863,
+        "amenity": "hospital",
+        "id": "node/496106043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4443967,
+          -23.4995394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496303640",
+      "properties": {
+        "timestamp": "2009-09-14T19:45:45Z",
+        "version": 1,
+        "changeset": 2484760,
+        "amenity": "hospital",
+        "id": "node/496303640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4269663,
+          -23.5028787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496598379",
+      "properties": {
+        "timestamp": "2009-09-15T00:32:55Z",
+        "version": 1,
+        "changeset": 2487593,
+        "amenity": "hospital",
+        "id": "node/496598379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4425926,
+          -23.4839122
+        ]
+      }
+    }
+  ]
+}

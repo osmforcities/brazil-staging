@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28860487",
+      "properties": {
+        "timestamp": "2009-02-25T02:32:08Z",
+        "version": 2,
+        "changeset": 662268,
+        "amenity": "toilets",
+        "building": "yes",
+        "created_by": "Merkaartor 0.13",
+        "id": "way/28860487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9728534,
+              -19.8683646
+            ],
+            [
+              -43.9727997,
+              -19.8684908
+            ],
+            [
+              -43.9725583,
+              -19.8684101
+            ],
+            [
+              -43.9726173,
+              -19.8682739
+            ],
+            [
+              -43.9728534,
+              -19.8683646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28860488",
+      "properties": {
+        "timestamp": "2009-02-25T02:32:17Z",
+        "version": 2,
+        "changeset": 662268,
+        "amenity": "toilets",
+        "building": "yes",
+        "created_by": "Merkaartor 0.13",
+        "id": "way/28860488"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9750045,
+              -19.867734
+            ],
+            [
+              -43.9749938,
+              -19.8678854
+            ],
+            [
+              -43.9747524,
+              -19.8678854
+            ],
+            [
+              -43.974747,
+              -19.867729
+            ],
+            [
+              -43.9750045,
+              -19.867734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315989088",
+      "properties": {
+        "timestamp": "2009-07-22T20:40:44Z",
+        "version": 2,
+        "changeset": 1908618,
+        "amenity": "toilets",
+        "id": "node/315989088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9649378,
+          -19.8682285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315995054",
+      "properties": {
+        "timestamp": "2008-12-01T02:23:27Z",
+        "version": 1,
+        "changeset": 9818,
+        "amenity": "toilets",
+        "created_by": "Merkaartor 0.12",
+        "id": "node/315995054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9651662,
+          -19.9700993
+        ]
+      }
+    }
+  ]
+}

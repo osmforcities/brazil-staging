@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/96461019",
+      "properties": {
+        "timestamp": "2007-11-11T17:08:07Z",
+        "version": 3,
+        "changeset": 472848,
+        "amenity": "school",
+        "created_by": "Potlatch 0.5",
+        "name": "Heaven's Idiomas",
+        "id": "node/96461019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1740338,
+          -22.5070696
+        ]
+      }
+    }
+  ]
+}

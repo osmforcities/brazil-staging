@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/335418920",
+      "properties": {
+        "timestamp": "2009-07-27T00:13:11Z",
+        "version": 3,
+        "changeset": 1950527,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Drogaria Pacheco",
+        "id": "node/335418920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1107952,
+          -22.902926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338513865",
+      "properties": {
+        "timestamp": "2009-07-27T00:13:12Z",
+        "version": 2,
+        "changeset": 1950527,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Hiper Farma",
+        "id": "node/338513865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1112016,
+          -22.9027679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992436",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:11Z",
+        "version": 1,
+        "changeset": 1683523,
+        "addr:housenumber": "95",
+        "addr:postcode": "24020-085",
+        "addr:street": "Rua da Conceição",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Drogaria Moderna",
+        "id": "node/430992436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1210009,
+          -22.8942073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992442",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:11Z",
+        "version": 1,
+        "changeset": 1683523,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Drogaria Moderna",
+        "id": "node/430992442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1213621,
+          -22.8941818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992452",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:12Z",
+        "version": 1,
+        "changeset": 1683523,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pacheco",
+        "id": "node/430992452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1224586,
+          -22.8940995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992460",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:12Z",
+        "version": 1,
+        "changeset": 1683523,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Tauil",
+        "id": "node/430992460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1230482,
+          -22.8940443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430992468",
+      "properties": {
+        "timestamp": "2009-06-30T01:56:13Z",
+        "version": 1,
+        "changeset": 1683523,
+        "addr:housenumber": "13",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "São Paulo",
+        "id": "node/430992468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1236378,
+          -22.8939891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448775220",
+      "properties": {
+        "timestamp": "2009-07-30T15:20:53Z",
+        "version": 2,
+        "changeset": 1985580,
+        "addr:postcode": "24220-031",
+        "addr:street": "Rua General Pereira da Silva",
+        "amenity": "pharmacy",
+        "name": "inter ativo - farmácia de manipulação",
+        "id": "node/448775220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1108538,
+          -22.9025034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448777828",
+      "properties": {
+        "timestamp": "2009-07-27T01:03:45Z",
+        "version": 2,
+        "changeset": 1950653,
+        "amenity": "pharmacy",
+        "name": "Homeopatia Estelar - Manipulação",
+        "id": "node/448777828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1084988,
+          -22.9034493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448777831",
+      "properties": {
+        "timestamp": "2009-07-28T04:38:51Z",
+        "version": 3,
+        "changeset": 1961151,
+        "amenity": "pharmacy",
+        "name": "Drogarias Pacheco",
+        "id": "node/448777831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1074785,
+          -22.9026711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448786368",
+      "properties": {
+        "timestamp": "2009-07-27T01:03:45Z",
+        "version": 1,
+        "changeset": 1950653,
+        "amenity": "pharmacy",
+        "name": "Drogaria Raia",
+        "id": "node/448786368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1032558,
+          -22.9021282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452654220",
+      "properties": {
+        "timestamp": "2009-07-31T21:32:16Z",
+        "version": 1,
+        "changeset": 1998374,
+        "addr:postcode": "24230-263",
+        "addr:street": "Rua Coronel Moreira César",
+        "amenity": "pharmacy",
+        "name": "Dermage",
+        "id": "node/452654220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1108035,
+          -22.9068273
+        ]
+      }
+    }
+  ]
+}

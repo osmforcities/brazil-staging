@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/32800322",
+      "properties": {
+        "timestamp": "2009-04-04T00:28:56Z",
+        "version": 1,
+        "changeset": 175850,
+        "source": "Landsat imagery",
+        "waterway": "dam",
+        "id": "way/32800322"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.956714,
+            -22.4813724
+          ],
+          [
+            -52.9582324,
+            -22.4768349
+          ],
+          [
+            -52.9579417,
+            -22.4766558
+          ],
+          [
+            -52.9588785,
+            -22.4736407
+          ],
+          [
+            -52.9591693,
+            -22.4723272
+          ],
+          [
+            -52.9615672,
+            -22.4634307
+          ]
+        ]
+      }
+    }
+  ]
+}

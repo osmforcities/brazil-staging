@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/408937409",
+      "properties": {
+        "timestamp": "2009-05-21T13:14:31Z",
+        "version": 1,
+        "changeset": 1275276,
+        "waterway": "dam",
+        "id": "node/408937409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7494516,
+          -23.531651
+        ]
+      }
+    }
+  ]
+}

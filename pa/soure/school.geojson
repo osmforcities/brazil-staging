@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/450195481",
+      "properties": {
+        "timestamp": "2009-07-28T20:44:39Z",
+        "version": 1,
+        "changeset": 1969335,
+        "amenity": "school",
+        "id": "node/450195481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.516274,
+          -0.7281875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467156383",
+      "properties": {
+        "timestamp": "2009-08-15T11:54:39Z",
+        "version": 1,
+        "changeset": 2152478,
+        "amenity": "school",
+        "name": "Escola Alzira Araújo Oliveira",
+        "id": "node/467156383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4833526,
+          -0.6377904
+        ]
+      }
+    }
+  ]
+}

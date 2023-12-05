@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/17550133",
+      "properties": {
+        "timestamp": "2009-10-29T12:54:33Z",
+        "version": 4,
+        "changeset": 2980861,
+        "building": "yes",
+        "name": "Hotel Transamerica",
+        "tourism": "hotel",
+        "id": "way/17550133"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7209692,
+              -23.6505226
+            ],
+            [
+              -46.7204285,
+              -23.6513639
+            ],
+            [
+              -46.7199392,
+              -23.6511595
+            ],
+            [
+              -46.7200336,
+              -23.6500981
+            ],
+            [
+              -46.7209692,
+              -23.6505226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/335652211",
+      "properties": {
+        "timestamp": "2009-01-23T10:43:16Z",
+        "version": 1,
+        "changeset": 827043,
+        "created_by": "Potlatch 0.10f",
+        "name": "Pousada do Cowboy",
+        "tourism": "hotel",
+        "id": "node/335652211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5961044,
+          -23.5501513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483685594",
+      "properties": {
+        "timestamp": "2009-09-04T21:37:58Z",
+        "version": 1,
+        "changeset": 2374386,
+        "name": "Tryp Hygienopolis",
+        "tourism": "hotel",
+        "id": "node/483685594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65626,
+          -23.5450933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503171245",
+      "properties": {
+        "timestamp": "2009-09-20T13:47:20Z",
+        "version": 1,
+        "changeset": 2545107,
+        "name": "George V",
+        "tourism": "hotel",
+        "id": "node/503171245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6986894,
+          -23.5588858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/525530771",
+      "properties": {
+        "timestamp": "2009-10-08T12:50:34Z",
+        "version": 1,
+        "changeset": 2781807,
+        "name": "Blue Tree Towers",
+        "tourism": "hotel",
+        "id": "node/525530771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6962705,
+          -23.6228867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/525531225",
+      "properties": {
+        "timestamp": "2009-10-08T12:50:52Z",
+        "version": 1,
+        "changeset": 2781807,
+        "name": "Ibis",
+        "tourism": "hotel",
+        "id": "node/525531225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6962448,
+          -23.6222418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/525531704",
+      "properties": {
+        "timestamp": "2009-10-08T12:51:24Z",
+        "version": 1,
+        "changeset": 2781807,
+        "name": "Formula 1",
+        "tourism": "hotel",
+        "id": "node/525531704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6962448,
+          -23.6217307
+        ]
+      }
+    }
+  ]
+}

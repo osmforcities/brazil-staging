@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/257565325",
+      "properties": {
+        "timestamp": "2008-05-12T14:07:07Z",
+        "version": 3,
+        "changeset": 425735,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital Geral",
+        "source": "survey",
+        "id": "node/257565325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.767591,
+          -1.0538793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258373353",
+      "properties": {
+        "timestamp": "2008-05-12T13:54:56Z",
+        "version": 3,
+        "changeset": 425735,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Santo Antônio",
+        "source": "survey",
+        "id": "node/258373353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7687408,
+          -1.0502734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258373354",
+      "properties": {
+        "timestamp": "2008-05-12T13:54:50Z",
+        "version": 3,
+        "changeset": 425735,
+        "amenity": "hospital",
+        "created_by": "JOSM",
+        "name": "Hospital das Clínicas",
+        "source": "survey",
+        "id": "node/258373354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7638848,
+          -1.0574264
+        ]
+      }
+    }
+  ]
+}

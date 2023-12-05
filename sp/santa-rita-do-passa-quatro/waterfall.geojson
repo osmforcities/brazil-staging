@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/571667337",
+      "properties": {
+        "timestamp": "2009-11-27T01:21:21Z",
+        "version": 2,
+        "changeset": 3225121,
+        "name": "Cachoeira Três Quedas",
+        "waterway": "waterfall",
+        "id": "node/571667337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4770836,
+          -21.7255137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599052112",
+      "properties": {
+        "timestamp": "2009-12-24T20:37:32Z",
+        "version": 2,
+        "changeset": 3444955,
+        "name": "Cachoeira São Valentim",
+        "turism": "attraction",
+        "waterway": "waterfall",
+        "id": "node/599052112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4195711,
+          -21.7423566
+        ]
+      }
+    }
+  ]
+}

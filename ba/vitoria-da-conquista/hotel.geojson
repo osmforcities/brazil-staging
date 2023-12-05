@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/81357630",
+      "properties": {
+        "timestamp": "2007-10-20T15:17:56Z",
+        "version": 1,
+        "changeset": 266398,
+        "created_by": "JOSM",
+        "name": "Hotel Phoenix",
+        "tourism": "hotel",
+        "id": "node/81357630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8402349,
+          -14.8549059
+        ]
+      }
+    }
+  ]
+}

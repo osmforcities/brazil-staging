@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/538392800",
+      "properties": {
+        "timestamp": "2009-10-22T17:57:27Z",
+        "version": 2,
+        "changeset": 2923239,
+        "amenity": "library",
+        "name": "Biblioteca Public",
+        "shop": "books",
+        "id": "node/538392800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1231278,
+          -29.6808715
+        ]
+      }
+    }
+  ]
+}

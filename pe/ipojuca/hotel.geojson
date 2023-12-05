@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/253251228",
+      "properties": {
+        "timestamp": "2008-03-22T00:07:12Z",
+        "version": 2,
+        "changeset": 368795,
+        "created_by": "JOSM",
+        "name": "Tabajuba",
+        "tourism": "hotel",
+        "id": "node/253251228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9996285,
+          -8.4832959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253251479",
+      "properties": {
+        "timestamp": "2008-03-22T00:26:11Z",
+        "version": 2,
+        "changeset": 368795,
+        "created_by": "JOSM",
+        "name": "Summerville Beach Resort",
+        "tourism": "hotel",
+        "id": "node/253251479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9817608,
+          -8.4353173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253251551",
+      "properties": {
+        "timestamp": "2008-03-22T00:26:10Z",
+        "version": 2,
+        "changeset": 368795,
+        "created_by": "JOSM",
+        "name": "Marupiara",
+        "tourism": "hotel",
+        "id": "node/253251551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9814223,
+          -8.4312949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253251562",
+      "properties": {
+        "timestamp": "2008-03-22T00:26:10Z",
+        "version": 2,
+        "changeset": 368795,
+        "created_by": "JOSM",
+        "name": "Nannai",
+        "tourism": "hotel",
+        "id": "node/253251562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9813554,
+          -8.4324656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253271848",
+      "properties": {
+        "timestamp": "2008-03-22T00:07:09Z",
+        "version": 1,
+        "changeset": 368795,
+        "created_by": "JOSM",
+        "name": "Portal Atlantico",
+        "tourism": "hotel",
+        "id": "node/253271848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9989292,
+          -8.4775277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253271850",
+      "properties": {
+        "timestamp": "2008-03-22T00:07:09Z",
+        "version": 1,
+        "changeset": 368795,
+        "created_by": "JOSM",
+        "name": "Enotel",
+        "tourism": "hotel",
+        "id": "node/253271850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9977866,
+          -8.473219
+        ]
+      }
+    }
+  ]
+}

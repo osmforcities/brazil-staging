@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/496295773",
+      "properties": {
+        "timestamp": "2009-09-14T19:38:45Z",
+        "version": 6,
+        "changeset": 2484760,
+        "name": "Motel Raposa",
+        "tourism": "hotel",
+        "id": "node/496295773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4156796,
+          -23.5055312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496296767",
+      "properties": {
+        "timestamp": "2009-09-14T19:39:03Z",
+        "version": 1,
+        "changeset": 2484760,
+        "name": "Motel Las Vegas",
+        "tourism": "hotel",
+        "id": "node/496296767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4121176,
+          -23.5027685
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/540680597",
+      "properties": {
+        "timestamp": "2009-10-26T12:07:21Z",
+        "version": 1,
+        "changeset": 2955499,
+        "name": "Hotel Sovitel",
+        "tourism": "hotel",
+        "id": "node/540680597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3510655,
+          -12.9498982
+        ]
+      }
+    }
+  ]
+}

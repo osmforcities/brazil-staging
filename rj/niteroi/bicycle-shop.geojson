@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/390421928",
+      "properties": {
+        "timestamp": "2009-05-04T18:20:22Z",
+        "version": 1,
+        "changeset": 1077395,
+        "name": "Amazonas Bike",
+        "shop": "bicycle",
+        "url": "http://www.amazonasbike.com.br/",
+        "id": "node/390421928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1205439,
+          -22.8873276
+        ]
+      }
+    }
+  ]
+}

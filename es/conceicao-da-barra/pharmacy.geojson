@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/530288403",
+      "properties": {
+        "timestamp": "2009-10-14T01:57:00Z",
+        "version": 1,
+        "changeset": 2841474,
+        "amenity": "pharmacy",
+        "id": "node/530288403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.7074785,
+          -18.4186539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530638958",
+      "properties": {
+        "timestamp": "2009-10-17T22:26:47Z",
+        "version": 2,
+        "changeset": 2878528,
+        "amenity": "pharmacy",
+        "id": "node/530638958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.7314199,
+          -18.5920356
+        ]
+      }
+    }
+  ]
+}

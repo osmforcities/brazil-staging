@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/33798358",
+      "properties": {
+        "timestamp": "2009-04-29T00:10:11Z",
+        "version": 1,
+        "changeset": 1010215,
+        "amenity": "hospital",
+        "name": "Instituto do Coração",
+        "id": "way/33798358"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6509278,
+              -23.5852805
+            ],
+            [
+              -46.6502816,
+              -23.5851169
+            ],
+            [
+              -46.6504698,
+              -23.584528
+            ],
+            [
+              -46.650707,
+              -23.5845852
+            ],
+            [
+              -46.6506334,
+              -23.5848388
+            ],
+            [
+              -46.6510178,
+              -23.584937
+            ],
+            [
+              -46.6509278,
+              -23.5852805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33910101",
+      "properties": {
+        "timestamp": "2009-05-02T09:37:48Z",
+        "version": 1,
+        "changeset": 1045537,
+        "amenity": "hospital",
+        "name": "Instituto do Coração",
+        "id": "way/33910101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6526696,
+              -23.5844756
+            ],
+            [
+              -46.6526099,
+              -23.5846966
+            ],
+            [
+              -46.6523111,
+              -23.584619
+            ],
+            [
+              -46.6521618,
+              -23.5851029
+            ],
+            [
+              -46.651403,
+              -23.5848998
+            ],
+            [
+              -46.6516301,
+              -23.5841649
+            ],
+            [
+              -46.6526696,
+              -23.5844756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34317333",
+      "properties": {
+        "timestamp": "2009-05-12T12:57:11Z",
+        "version": 2,
+        "changeset": 1163509,
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "HU - Hospital Universitário",
+        "id": "way/34317333"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7413416,
+              -23.5652121
+            ],
+            [
+              -46.7402906,
+              -23.5658093
+            ],
+            [
+              -46.7397283,
+              -23.5648197
+            ],
+            [
+              -46.7407793,
+              -23.5642225
+            ],
+            [
+              -46.7413416,
+              -23.5652121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34875563",
+      "properties": {
+        "timestamp": "2009-05-21T13:31:36Z",
+        "version": 1,
+        "changeset": 1275276,
+        "amenity": "hospital",
+        "area": "yes",
+        "id": "way/34875563"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7228955,
+              -23.5372774
+            ],
+            [
+              -46.7229041,
+              -23.5383554
+            ],
+            [
+              -46.7226896,
+              -23.5381981
+            ],
+            [
+              -46.7210502,
+              -23.5375922
+            ],
+            [
+              -46.7210073,
+              -23.5375213
+            ],
+            [
+              -46.7228955,
+              -23.5372774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38629637",
+      "properties": {
+        "timestamp": "2009-08-06T19:33:07Z",
+        "version": 1,
+        "changeset": 2058672,
+        "amenity": "hospital",
+        "area": "yes",
+        "building": "yes",
+        "name": "Santa Casa",
+        "id": "way/38629637"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6507895,
+              -23.5417685
+            ],
+            [
+              -46.651416,
+              -23.5436727
+            ],
+            [
+              -46.6489269,
+              -23.5437199
+            ],
+            [
+              -46.6488583,
+              -23.5418
+            ],
+            [
+              -46.6507895,
+              -23.5417685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/177476990",
+      "properties": {
+        "timestamp": "2009-05-20T21:55:44Z",
+        "version": 2,
+        "changeset": 1268928,
+        "amenity": "hospital",
+        "created_by": "Potlatch 0.5d",
+        "name": "Hospital Municipal Carmino Caricchio;Pronto Socorro Tatuape",
+        "id": "node/177476990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5670365,
+          -23.533448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252415906",
+      "properties": {
+        "timestamp": "2009-08-10T20:31:20Z",
+        "version": 6,
+        "changeset": 2101903,
+        "amenity": "hospital",
+        "created_by": "Potlatch 0.7b",
+        "name": "Hospital São Camilo",
+        "id": "node/252415906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6878343,
+          -23.5433354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440424197",
+      "properties": {
+        "timestamp": "2009-10-11T07:05:51Z",
+        "version": 3,
+        "changeset": 2810270,
+        "amenity": "hospital",
+        "name": "Hospital Sao Camilo",
+        "website": "http://www.saocamilo.com",
+        "id": "node/440424197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6881788,
+          -23.5343502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496267216",
+      "properties": {
+        "timestamp": "2009-09-14T18:54:26Z",
+        "version": 1,
+        "changeset": 2484574,
+        "amenity": "hospital",
+        "id": "node/496267216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6639769,
+          -23.5094698
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/571724626",
+      "properties": {
+        "timestamp": "2009-11-27T03:56:46Z",
+        "version": 2,
+        "changeset": 3225361,
+        "leisure": "stadium",
+        "name": "Estádio Castelão",
+        "sport": "soccer",
+        "id": "node/571724626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5224063,
+          -3.8072728
+        ]
+      }
+    }
+  ]
+}

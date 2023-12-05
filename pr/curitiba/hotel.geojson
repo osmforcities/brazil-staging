@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/270342068",
+      "properties": {
+        "timestamp": "2008-06-14T19:29:56Z",
+        "version": 1,
+        "changeset": 163812,
+        "created_by": "Potlatch 0.9c",
+        "name": "Hotel Formule 1",
+        "tourism": "hotel",
+        "id": "node/270342068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.26059,
+          -25.4341685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270342692",
+      "properties": {
+        "timestamp": "2008-06-14T19:32:31Z",
+        "version": 1,
+        "changeset": 163812,
+        "created_by": "Potlatch 0.9c",
+        "name": "Hotel Ibis",
+        "tourism": "hotel",
+        "id": "node/270342692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2708725,
+          -25.4246187
+        ]
+      }
+    }
+  ]
+}

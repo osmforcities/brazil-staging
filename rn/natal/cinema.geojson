@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/492906771",
+      "properties": {
+        "timestamp": "2009-11-25T02:20:30Z",
+        "version": 4,
+        "changeset": 3209243,
+        "amenity": "cinema",
+        "is_in": "Midway Mall",
+        "layer": "3",
+        "name": "Cinemark Natal",
+        "id": "node/492906771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2062681,
+          -5.8114095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501253461",
+      "properties": {
+        "timestamp": "2009-09-19T02:03:57Z",
+        "version": 1,
+        "changeset": 2529712,
+        "amenity": "cinema",
+        "id": "node/501253461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1857805,
+          -5.866635
+        ]
+      }
+    }
+  ]
+}

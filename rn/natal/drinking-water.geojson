@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/568830930",
+      "properties": {
+        "timestamp": "2009-11-22T23:10:15Z",
+        "version": 1,
+        "changeset": 3191898,
+        "amenity": "drinking_water",
+        "id": "node/568830930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1991196,
+          -5.8398212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850221",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2087515,
+          -5.8403479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850223",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2016479,
+          -5.8417916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850236",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2003989,
+          -5.8411309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850237",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:19Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2002539,
+          -5.8412186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850238",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.200873,
+          -5.841129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850239",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.200634,
+          -5.8411329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850254",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:20Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2017519,
+          -5.839718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850263",
+      "properties": {
+        "timestamp": "2009-11-25T11:18:32Z",
+        "version": 2,
+        "changeset": 3211257,
+        "amenity": "drinking_water",
+        "id": "node/569850263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2001839,
+          -5.842469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850264",
+      "properties": {
+        "timestamp": "2009-11-25T11:18:32Z",
+        "version": 2,
+        "changeset": 3211257,
+        "amenity": "drinking_water",
+        "id": "node/569850264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.199784,
+          -5.8424798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850265",
+      "properties": {
+        "timestamp": "2009-11-25T11:18:32Z",
+        "version": 2,
+        "changeset": 3211257,
+        "amenity": "drinking_water",
+        "id": "node/569850265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1996866,
+          -5.8425802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850266",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2000918,
+          -5.8425405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850269",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1972216,
+          -5.8428962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850271",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1967195,
+          -5.8425673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850278",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2001697,
+          -5.841127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850281",
+      "properties": {
+        "timestamp": "2009-12-03T11:45:23Z",
+        "version": 2,
+        "changeset": 3279897,
+        "amenity": "drinking_water",
+        "id": "node/569850281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1986776,
+          -5.8415473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850283",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.19766,
+          -5.8416294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850285",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:21Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2001527,
+          -5.8395503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850287",
+      "properties": {
+        "timestamp": "2009-11-30T21:11:44Z",
+        "version": 2,
+        "changeset": 3259745,
+        "amenity": "drinking_water",
+        "id": "node/569850287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1974608,
+          -5.8405682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/569850288",
+      "properties": {
+        "timestamp": "2009-11-24T01:13:22Z",
+        "version": 1,
+        "changeset": 3201213,
+        "amenity": "drinking_water",
+        "id": "node/569850288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1992248,
+          -5.8378136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570718470",
+      "properties": {
+        "timestamp": "2009-11-25T11:03:18Z",
+        "version": 1,
+        "changeset": 3211159,
+        "amenity": "drinking_water",
+        "id": "node/570718470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1992478,
+          -5.8409634
+        ]
+      }
+    }
+  ]
+}

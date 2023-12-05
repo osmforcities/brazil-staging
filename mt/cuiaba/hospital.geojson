@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/550387551",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:55Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "hospital",
+        "id": "node/550387551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1169792,
+          -15.587887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550387554",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:55Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "hospital",
+        "id": "node/550387554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.118198,
+          -15.5951291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550387556",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:56Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "hospital",
+        "id": "node/550387556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0949808,
+          -15.6025363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550387557",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:56Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "hospital",
+        "id": "node/550387557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0926033,
+          -15.6023048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550387562",
+      "properties": {
+        "timestamp": "2009-11-01T19:39:58Z",
+        "version": 1,
+        "changeset": 3010293,
+        "amenity": "hospital",
+        "id": "node/550387562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0775486,
+          -15.5871347
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/274387304",
+      "properties": {
+        "timestamp": "2008-06-29T00:00:07Z",
+        "version": 1,
+        "changeset": 338139,
+        "amenity": "university",
+        "created_by": "JOSM",
+        "name": "Universidade Federal do Pará/Campus Guamá",
+        "id": "node/274387304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4550724,
+          -1.4749529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/274387317",
+      "properties": {
+        "timestamp": "2009-09-13T06:57:33Z",
+        "version": 2,
+        "changeset": 2465118,
+        "amenity": "university",
+        "name": "Universidade Federal Rural da Amazônia",
+        "id": "node/274387317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4351011,
+          -1.4580725
+        ]
+      }
+    }
+  ]
+}

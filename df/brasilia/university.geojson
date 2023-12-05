@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/42404486",
+      "properties": {
+        "timestamp": "2009-10-12T12:22:37Z",
+        "version": 1,
+        "changeset": 2824896,
+        "amenity": "university",
+        "building": "yes",
+        "name": "Reitoria da UnB",
+        "id": "way/42404486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8673689,
+              -15.7627274
+            ],
+            [
+              -47.8669339,
+              -15.7633437
+            ],
+            [
+              -47.8665472,
+              -15.7630899
+            ],
+            [
+              -47.8670366,
+              -15.7624555
+            ],
+            [
+              -47.8673689,
+              -15.7627274
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
