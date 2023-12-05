@@ -57,6 +57,25 @@
           -1.4424866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603948639",
+      "properties": {
+        "timestamp": "2010-01-03T22:01:13Z",
+        "version": 1,
+        "changeset": 3533151,
+        "amenity": "hospital",
+        "name": "Hemopa",
+        "id": "node/603948639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4871834,
+          -1.4627446
+        ]
+      }
     }
   ]
 }

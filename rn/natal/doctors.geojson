@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/603601988",
+      "properties": {
+        "timestamp": "2010-01-03T12:18:25Z",
+        "version": 1,
+        "changeset": 3527275,
+        "amenity": "doctors",
+        "name": "Dr. Scholl",
+        "source": "survey",
+        "id": "node/603601988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2175579,
+          -5.8278188
+        ]
+      }
+    }
+  ]
+}

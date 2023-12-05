@@ -289,6 +289,27 @@
           -5.8582598
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603601986",
+      "properties": {
+        "timestamp": "2010-01-03T12:18:25Z",
+        "version": 1,
+        "changeset": 3527275,
+        "amenity": "pharmacy",
+        "name": "Drogaria Globo",
+        "phone": "+55 84 3215 8000",
+        "source": "survey",
+        "id": "node/603601986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2180753,
+          -5.8325944
+        ]
+      }
     }
   ]
 }

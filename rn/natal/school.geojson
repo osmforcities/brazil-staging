@@ -1008,6 +1008,26 @@
           -5.8202797
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603601989",
+      "properties": {
+        "timestamp": "2010-01-03T12:18:26Z",
+        "version": 1,
+        "changeset": 3527275,
+        "amenity": "school",
+        "name": "Wizard",
+        "source": "survey",
+        "id": "node/603601989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2173904,
+          -5.8275469
+        ]
+      }
     }
   ]
 }

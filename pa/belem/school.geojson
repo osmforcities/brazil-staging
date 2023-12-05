@@ -76,6 +76,25 @@
           -1.4483985
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603948620",
+      "properties": {
+        "timestamp": "2010-01-03T22:01:06Z",
+        "version": 1,
+        "changeset": 3533151,
+        "amenity": "school",
+        "name": "Colégio Gentil",
+        "id": "node/603948620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4796088,
+          -1.4516009
+        ]
+      }
     }
   ]
 }
